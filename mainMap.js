@@ -112,8 +112,8 @@ info.onAdd = function (map) {
 
 //Update the info based on what state user has clicked on
 info.update = function (props) {
-    this._div.innerHTML = '<h4>US Population Density</h4>' + (props ?
-        '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>'
+    this._div.innerHTML = '<h4>US Mass Shootings Frequency</h4>' + (props ?
+        '<b>' + props.name + '</b><br />' + props.Frequency + ' Mass shootings between 2014 and 2017'
         : 'Hover over a state');
 };
 
@@ -137,7 +137,7 @@ function style(feature) {
         color: 'white',
         dashArray: '3',
         fillOpacity: 0.7,
-        fillColor: getColor(feature.properties.density)
+        fillColor: getColor(feature.properties.Frequency)
     };
 }
 
