@@ -5,7 +5,8 @@
             "type": "Feature",
             "id": "01",
             "properties": {
-                "name": "Alabama"
+                "name": "Alabama",
+				"Frequency": 26
             },
             "geometry": {
                 "type": "Polygon",
@@ -151,7 +152,8 @@
             "type": "Feature",
             "id": "02",
             "properties": {
-                "name": "Alaska"
+                "name": "Alaska",
+				"Frequency":1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4615,7 +4617,8 @@
             "type": "Feature",
             "id": "04",
             "properties": {
-                "name": "Arizona"
+                "name": "Arizona",
+				"Frequency":16
             },
             "geometry": {
                 "type": "Polygon",
@@ -4757,7 +4760,8 @@
             "type": "Feature",
             "id": "05",
             "properties": {
-                "name": "Arkansas"
+                "name": "Arkansas",
+				"Frequency":10
             },
             "geometry": {
                 "type": "Polygon",
@@ -4919,7 +4923,8 @@
             "type": "Feature",
             "id": "06",
             "properties": {
-                "name": "California"
+                "name": "California",
+                "frequency":149
             },
             "geometry": {
                 "type": "Polygon",
@@ -5305,7 +5310,8 @@
             "type": "Feature",
             "id": "08",
             "properties": {
-                "name": "Colorado"
+                "name": "Colorado",
+				"Frequency":10
             },
             "geometry": {
                 "type": "Polygon",
@@ -5383,7 +5389,8 @@
             "type": "Feature",
             "id": "09",
             "properties": {
-                "name": "Connecticut"
+                "name": "Connecticut",
+				"Frequency":10
             },
             "geometry": {
                 "type": "Polygon",
@@ -5461,7 +5468,8 @@
             "type": "Feature",
             "id": "10",
             "properties": {
-                "name": "Delaware"
+                "name": "Delaware",
+				"Frequency":4
             },
             "geometry": {
                 "type": "Polygon",
@@ -5527,7 +5535,8 @@
             "type": "Feature",
             "id": "11",
             "properties": {
-                "name": "District of Columbia"
+                "name": "District of Columbia",
+				"Frequency":18
             },
             "geometry": {
                 "type": "Polygon",
@@ -5561,7 +5570,8 @@
             "type": "Feature",
             "id": "12",
             "properties": {
-                "name": "Florida"
+                "name": "Florida",
+				"Frequency":93 
             },
             "geometry": {
                 "type": "Polygon",
@@ -5887,7 +5897,8 @@
             "type": "Feature",
             "id": "13",
             "properties": {
-                "name": "Georgia"
+                "name": "Georgia",
+				"Frequency":62
             },
             "geometry": {
                 "type": "Polygon",
@@ -6105,7 +6116,8 @@
             "type": "Feature",
             "id": "15",
             "properties": {
-                "name": "Hawaii"
+                "name": "Hawaii",
+				"Frequency":0
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6333,7 +6345,8 @@
             "type": "Feature",
             "id": "16",
             "properties": {
-                "name": "Idaho"
+                "name": "Idaho",
+				"Frequency":0
             },
             "geometry": {
                 "type": "Polygon",
@@ -6611,7 +6624,8 @@
             "type": "Feature",
             "id": "17",
             "properties": {
-                "name": "Illinois"
+                "name": "Illinois",
+				"Frequency": 127
             },
             "geometry": {
                 "type": "Polygon",
@@ -6893,7 +6907,8 @@
             "type": "Feature",
             "id": "18",
             "properties": {
-                "name": "Indiana"
+                "name": "Indiana",
+				"Frequency":32
             },
             "geometry": {
                 "type": "Polygon",
@@ -7091,7 +7106,8 @@
             "type": "Feature",
             "id": "19",
             "properties": {
-                "name": "Iowa"
+                "name": "Iowa",
+				"Frequency":4
             },
             "geometry": {
                 "type": "Polygon",
@@ -7305,7 +7321,8 @@
             "type": "Feature",
             "id": "20",
             "properties": {
-                "name": "Kansas"
+                "name": "Kansas",
+				"Frequency":10
             },
             "geometry": {
                 "type": "Polygon",
@@ -7371,7 +7388,8 @@
             "type": "Feature",
             "id": "21",
             "properties": {
-                "name": "Kentucky"
+                "name": "Kentucky",
+				"Frequency": 14
             },
             "geometry": {
                 "type": "Polygon",
@@ -7685,7 +7703,8 @@
             "type": "Feature",
             "id": "22",
             "properties": {
-                "name": "Louisiana"
+                "name": "Louisiana",
+				"frequency": 48
             },
             "geometry": {
                 "type": "Polygon",
@@ -8003,7 +8022,8 @@
             "type": "Feature",
             "id": "23",
             "properties": {
-                "name": "Maine"
+                "name": "Maine",
+				"Frequency":2
             },
             "geometry": {
                 "type": "Polygon",
@@ -8281,7 +8301,8 @@
             "type": "Feature",
             "id": "24",
             "properties": {
-                "name": "Maryland"
+                "name": "Maryland",
+				"Frequency":33
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8557,7 +8578,8 @@
             "type": "Feature",
             "id": "25",
             "properties": {
-                "name": "Massachusetts"
+                "name": "Massachusetts",
+				"Frequency":12
             },
             "geometry": {
                 "type": "Polygon",
@@ -8711,7 +8733,8 @@
             "type": "Feature",
             "id": "26",
             "properties": {
-                "name": "Michigan"
+                "name": "Michigan",
+				"Frequency":41
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9347,7 +9370,8 @@
             "type": "Feature",
             "id": "27",
             "properties": {
-                "name": "Minnesota"
+                "name": "Minnesota",
+				"Frequency":13
             },
             "geometry": {
                 "type": "Polygon",
@@ -9693,7 +9717,8 @@
             "type": "Feature",
             "id": "28",
             "properties": {
-                "name": "Mississippi"
+                "name": "Mississippi",
+				"Frequency": 22
             },
             "geometry": {
                 "type": "Polygon",
@@ -9891,7 +9916,8 @@
             "type": "Feature",
             "id": "29",
             "properties": {
-                "name": "Missouri"
+                "name": "Missouri",
+				"Frequency": 40
             },
             "geometry": {
                 "type": "Polygon",
@@ -10117,7 +10143,8 @@
             "type": "Feature",
             "id": "30",
             "properties": {
-                "name": "Montana"
+                "name": "Montana",
+				"Frequency": 2
             },
             "geometry": {
                 "type": "Polygon",
@@ -10339,7 +10366,8 @@
             "type": "Feature",
             "id": "31",
             "properties": {
-                "name": "Nebraska"
+                "name": "Nebraska",
+				"Frequency":3
             },
             "geometry": {
                 "type": "Polygon",
@@ -10469,7 +10497,8 @@
             "type": "Feature",
             "id": "32",
             "properties": {
-                "name": "Nevada"
+                "name": "Nevada",
+				"Frequency":9
             },
             "geometry": {
                 "type": "Polygon",
@@ -10567,7 +10596,8 @@
             "type": "Feature",
             "id": "33",
             "properties": {
-                "name": "New Hampshire"
+                "name": "New Hampshire",
+				"Frequency":0
             },
             "geometry": {
                 "type": "Polygon",
@@ -10693,7 +10723,8 @@
             "type": "Feature",
             "id": "34",
             "properties": {
-                "name": "New Jersey"
+                "name": "New Jersey",
+				"Frequency":36
             },
             "geometry": {
                 "type": "Polygon",
@@ -10835,7 +10866,8 @@
             "type": "Feature",
             "id": "35",
             "properties": {
-                "name": "New Mexico"
+                "name": "New Mexico",
+				"Frequency":9
             },
             "geometry": {
                 "type": "Polygon",
@@ -10917,7 +10949,8 @@
             "type": "Feature",
             "id": "36",
             "properties": {
-                "name": "New York"
+                "name": "New York",
+				"Frequency": 62
             },
             "geometry": {
                 "type": "Polygon",
@@ -11203,7 +11236,8 @@
             "type": "Feature",
             "id": "37",
             "properties": {
-                "name": "North Carolina"
+                "name": "North Carolina",
+				"Frequency":30
             },
             "geometry": {
                 "type": "Polygon",
@@ -11461,7 +11495,8 @@
             "type": "Feature",
             "id": "38",
             "properties": {
-                "name": "North Dakota"
+                "name": "North Dakota",
+				"Frequency":0
             },
             "geometry": {
                 "type": "Polygon",
@@ -11539,7 +11574,8 @@
             "type": "Feature",
             "id": "39",
             "properties": {
-                "name": "Ohio"
+                "name": "Ohio",
+				"Frequency":48
             },
             "geometry": {
                 "type": "Polygon",
@@ -11741,7 +11777,8 @@
             "type": "Feature",
             "id": "40",
             "properties": {
-                "name": "Oklahoma"
+                "name": "Oklahoma",
+				"Frequency":8
             },
             "geometry": {
                 "type": "Polygon",
@@ -11935,7 +11972,8 @@
             "type": "Feature",
             "id": "41",
             "properties": {
-                "name": "Oregon"
+                "name": "Oregon",
+				"Frequency": 6
             },
             "geometry": {
                 "type": "Polygon",
@@ -12173,7 +12211,8 @@
             "type": "Feature",
             "id": "42",
             "properties": {
-                "name": "Pennsylvania"
+                "name": "Pennsylvania",
+				"Frequency":45
             },
             "geometry": {
                 "type": "Polygon",
@@ -12319,7 +12358,8 @@
             "type": "Feature",
             "id": "44",
             "properties": {
-                "name": "Rhode Island"
+                "name": "Rhode Island",
+				"Frequency":2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -12399,7 +12439,8 @@
             "type": "Feature",
             "id": "45",
             "properties": {
-                "name": "South Carolina"
+                "name": "South Carolina",
+				"Frequency":30
             },
             "geometry": {
                 "type": "Polygon",
@@ -12589,7 +12630,8 @@
             "type": "Feature",
             "id": "46",
             "properties": {
-                "name": "South Dakota"
+                "name": "South Dakota",
+				"Frequency":2
             },
             "geometry": {
                 "type": "Polygon",
@@ -12719,7 +12761,8 @@
             "type": "Feature",
             "id": "47",
             "properties": {
-                "name": "Tennessee"
+                "name": "Tennessee",
+				"Frequency":49
             },
             "geometry": {
                 "type": "Polygon",
@@ -12905,7 +12948,8 @@
             "type": "Feature",
             "id": "48",
             "properties": {
-                "name": "Texas"
+                "name": "Texas",
+				"Frequency":81
             },
             "geometry": {
                 "type": "Polygon",
@@ -13527,7 +13571,8 @@
             "type": "Feature",
             "id": "49",
             "properties": {
-                "name": "Utah"
+                "name": "Utah",
+				"Frequency":3
             },
             "geometry": {
                 "type": "Polygon",
@@ -13589,7 +13634,8 @@
             "type": "Feature",
             "id": "50",
             "properties": {
-                "name": "Vermont"
+                "name": "Vermont",
+				"Frequency":1
             },
             "geometry": {
                 "type": "Polygon",
@@ -13715,7 +13761,8 @@
             "type": "Feature",
             "id": "51",
             "properties": {
-                "name": "Virginia"
+                "name": "Virginia",
+				"Frequency":35
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14039,7 +14086,8 @@
             "type": "Feature",
             "id": "53",
             "properties": {
-                "name": "Washington"
+                "name": "Washington",
+				"Frequency":14
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14351,7 +14399,8 @@
             "type": "Feature",
             "id": "54",
             "properties": {
-                "name": "West Virginia"
+                "name": "West Virginia",
+				"Frequency":1
             },
             "geometry": {
                 "type": "Polygon",
@@ -14625,7 +14674,8 @@
             "type": "Feature",
             "id": "55",
             "properties": {
-                "name": "Wisconsin"
+                "name": "Wisconsin",
+				"Frequency":9
             },
             "geometry": {
                 "type": "Polygon",
@@ -14939,7 +14989,8 @@
             "type": "Feature",
             "id": "56",
             "properties": {
-                "name": "Wyoming"
+                "name": "Wyoming",
+				"Frequency":0
             },
             "geometry": {
                 "type": "Polygon",
