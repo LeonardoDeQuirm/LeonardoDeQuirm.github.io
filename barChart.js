@@ -14,7 +14,7 @@ function triggerBarReset(stateName){
 
 function renderMyChart() {
     var svg = d3.select("#svgHolderDiv").append("svg:svg")
-        .attr("width", 960)//canvasWidth)
+        .attr("width", 600)//canvasWidth)
         .attr("height", 500),//canvasHeight);
         margin = { top: 20, right: 20, bottom: 30, left: 70 },
         width = +svg.attr("width") - margin.left - margin.right,
@@ -27,15 +27,15 @@ function renderMyChart() {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     // change the dataset
-    d3.csv("2015pop.csv", function (d) {
+    d3.csv("MassShooting.csv", function (d) {
         // change the y value
-        d.Pop = +d.Pop;
+        d.Frequency = +d.Frequency;
         return d;
     }, function (error, data) {
         if (error) throw error;
 
-        x.domain(data.map(function (d) { return d.States; }));
-        y.domain([0, d3.max(data, function (d) { return d.Pop; })]);
+        x.domain(data.map(function (d) { return d.Month; }));
+        y.domain([0, d3.max(data, function (d) { return d.Frequency; })]);
 
         g.append("g")
             .attr("class", "axis axis--x")
@@ -56,11 +56,11 @@ function renderMyChart() {
             .data(data)
             .enter().append("rect")
             .attr("class", "bar")
-            .attr("x", function (d) { return x(d.States); })
-            .attr("y", function (d) { return y(d.Pop); })
+            .attr("x", function (d) { return x(d.Month); })
+            .attr("y", function (d) { return y(d.Frequency); })
             .attr("width", x.bandwidth())
-            .attr("height", function (d) { return height - y(d.Pop); })
-            .attr("id", function(d){return d.States + "Bar";})
+            .attr("height", function (d) { return height - y(d.Frequency); })
+            .attr("id", function(d){return d.Month + "Bar";})
             //giving each state bar in the chart an ID so that each can be reached later for manipulation
             .on("mouseover", function(d){
                 triggerMapHighlight(d.States);
