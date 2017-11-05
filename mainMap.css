@@ -1,10 +1,12 @@
 #map {
-    width: 800px;
+    float: right;
+    width: 60%;
     height: 500px;
 }
 
 #svgHolderDiv {
-    width: 800px;
+    float: left;
+    width: 40%;
     height: 500px;
 }
 
