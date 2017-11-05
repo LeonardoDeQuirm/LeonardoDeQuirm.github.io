@@ -9,13 +9,13 @@ var info = L.control();
 window.onload = function () {
     renderMyMap();
     renderMyChart();
-}
+};
 
 function triggerMapHighlight(stateName){
     //an array holding all the "layers" the geojson "layerGroup"
     var layers = geojson.getLayers();
 
-    //iterate through laters
+    //iterate through layers
     for(var i=0; i<layers.length; i++){
         //only if the state name is the same as the one passed to the function, change style
         if(layers[i].feature.properties.name===stateName){
