@@ -34,7 +34,7 @@ function renderMyChart() {
     }, function (error, data) {
         if (error) throw error;
 
-        x.domain(data.map(function (d) { return d.Month; }));
+        x.domain(data.map(function (d) { return d.allYearMonths; }));
         y.domain([0, d3.max(data, function (d) { return d.Frequency; })]);
 
         g.append("g")
@@ -56,11 +56,11 @@ function renderMyChart() {
             .data(data)
             .enter().append("rect")
             .attr("class", "bar")
-            .attr("x", function (d) { return x(d.Month); })
+            .attr("x", function (d) { return x(d.allYearMonths); })
             .attr("y", function (d) { return y(d.Frequency); })
             .attr("width", x.bandwidth())
             .attr("height", function (d) { return height - y(d.Frequency); })
-            .attr("id", function(d){return d.Month + "Bar";})
+            .attr("id", function(d){return d.allYearMonths + "Bar";})
             //giving each state bar in the chart an ID so that each can be reached later for manipulation
             .on("mouseover", function(d){
                 triggerMapHighlight(d.States);
