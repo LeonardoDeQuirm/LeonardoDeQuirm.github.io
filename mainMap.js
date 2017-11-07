@@ -99,7 +99,12 @@ function renderMyMap() {
 
     legend.addTo(map);
 
-    L.geoJson(incidents).addTo(map);
+    var incidentsLayerGroup=L.geoJson(incidents);
+
+    var clusters = L.markerClusterGroup();
+    clusters.addLayer(incidentsLayerGroup);
+    map.addLayer(clusters);
+    map.fitBounds(incidentsLayerGroup.getBounds());
 }
 
 
