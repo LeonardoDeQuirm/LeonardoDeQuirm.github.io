@@ -104,7 +104,6 @@ function renderMyMap() {
     var clusters = L.markerClusterGroup();
     clusters.addLayer(incidentsLayerGroup);
     map.addLayer(clusters);
-    map.fitBounds(incidentsLayerGroup.getBounds());
 }
 
 
