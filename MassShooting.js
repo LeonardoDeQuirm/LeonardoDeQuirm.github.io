@@ -1194,8 +1194,8 @@ var incidents =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+            35.169966,
+            -89.9218763
         ]
       }
     },
