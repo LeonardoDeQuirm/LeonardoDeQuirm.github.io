@@ -52,6 +52,21 @@ function triggerMapReset(stateName){
     }
 }
 
+function pointToMarker(feature, latlng) {
+    var geojsonMarkerOptions = {
+        radius: 8,
+        fillColor: "#1262e2",
+        color: "#000",
+        weight: 1,
+        opacity: 1,
+        fillOpacity: 0.8
+    };
+
+    var circleMarker = L.circleMarker(latlng, geojsonMarkerOptions);
+
+    return circleMarker
+}
+
 function renderMyMap() {
 
     map = L.map('map').setView([37.8, -96], 4);
@@ -70,7 +85,8 @@ function renderMyMap() {
     //geojson is declared as a global variable, outside the function assigned to the window.onload
     geojson = L.geoJson(statesData, {
         style: style,
-        onEachFeature: onEachFeature
+        onEachFeature: onEachFeature,
+        pointToLayer: pointToMarker
     }).addTo(map);
 
     map.attributionControl.addAttribution('Population data &copy; <a href="http://census.gov/">US Census Bureau</a>');
@@ -182,6 +198,7 @@ function onEachFeature(feature, layer) {
     layer.on({
         mouseover: highlightFeature,
         mouseout: resetHighlight,
-        click: zoomToFeature
+        click: zoomToFeature,
     });
+
 }
