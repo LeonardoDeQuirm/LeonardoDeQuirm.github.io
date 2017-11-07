@@ -98,6 +98,8 @@ function renderMyMap() {
     };
 
     legend.addTo(map);
+
+    L.geoJson(incidents).addTo(map);
 }
 
 

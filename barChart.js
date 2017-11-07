@@ -27,7 +27,7 @@ function renderMyChart() {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     // change the dataset
-    d3.csv("MassShooting.csv", function (d) {
+    d3.csv("MassShootingMonthFrequency.csv", function (d) {
         // change the y value
         d.Frequency = +d.Frequency;
         return d;
