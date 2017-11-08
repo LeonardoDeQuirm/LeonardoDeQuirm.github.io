@@ -51,6 +51,27 @@ function renderMyChart() {
             .attr("dy", "0.71em")
             .attr("text-anchor", "end")
             .text("Population");
+        svg.append("text")
+            .attr("class", "x label")
+            .attr("text-anchor", "end")
+            .attr("x", width - 150)
+            .attr("y", height + 50)
+            .attr("y", height + 50)
+            .attr("y", height + 50)
+            .attr("y", height + 50)
+            .attr("y", height + 50)
+            .attr("y", height + 50)
+            .text("Month");
+
+        svg.append("text")
+            .attr("class", "y label")
+            .attr("text-anchor", "end")
+            .attr("text-anchor", "end")
+            .attr("y", 10)
+            .attr("x", -200)
+            .attr("dy", ".75em")
+            .attr("transform", "rotate(-90)")
+            .text("Frequency");
 
 var allMonths = [0,0,0,0,0,0,0,0,0,0,0,0];
         g.selectAll(".bar")
@@ -66,7 +87,7 @@ var allMonths = [0,0,0,0,0,0,0,0,0,0,0,0];
             
             .on("click", function(d){
                 console.log(d.allYearMonths);
-                if( allMonths[d.allYearMonths-1] == 0){
+                if( allMonths[d.allYearMonths-1] === 0){
                     allMonths[d.allYearMonths-1]=1;
                     triggerMapPoints(d.allYearMonths);
                     triggerBarHighlight(d.allYearMonths);
