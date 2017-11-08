@@ -10,46 +10,40 @@ window.onload = function () {
     renderMyMap();
     renderMyChart();
 };
+var clusters = L.markerClusterGroup();
+var monthLayerGroup=L.geoJson;
+function triggerMapPoints(Month){
+           
+   monthLayerGroup=L.geoJson(incidents, {filter: monthFilter});
+    
+    function monthFilter(feature) {
+        if (feature.properties.Month === Month) return true
+    };
+    
+    clusters.addLayer(monthLayerGroup);
+    map.addLayer(clusters);
 
-function triggerMapHighlight(stateName){
-    //an array holding all the "layers" the geojson "layerGroup"
-    var layers = geojson.getLayers();
-
-    //iterate through layers
-    for(var i=0; i<layers.length; i++){
-        //only if the state name is the same as the one passed to the function, change style
-        if(layers[i].feature.properties.name===stateName){
-            
-            var layer = layers[i];
-
-            layer.setStyle({
-                weight:5,
-                color: '#666',
-                dashArray: '',
-                fillOpacity: 0.7
-            });
-
-            if(!L.Browser.ie && !L.Browser.opera && !L.Browser.edge){
-                layer.bringToFront();
-            }
-
-            info.update(layer.feature.properties);
-        }
+    if(!L.Browser.ie && !L.Browser.opera && !L.Browser.edge){
+        clusters.bringToFront();
     }
 
+    //info.update(incidents.feature.properties);
 }
 
-function triggerMapReset(stateName){
-    //an array holding all the "layers" the geojson "layerGroup"
-    var layers = geojson.getLayers();
-    //iterate through layers
-    for(var i=0; i<layers.length; i++){
-        if (layers[i].feature.properties.name === stateName){
-            var layer = layers[i];
-            geojson.resetStyle(layer);
-            info.update();
+function triggerMapReset(allMonths) {
+    clusters.clearLayers();
+    for (var i=0; i<allMonths.length; i++){
+        if(allMonths[i] == 1){
+            monthLayerGroup=L.geoJson(incidents, {filter: monthFilter});
+            
+            function monthFilter(feature) {
+                if (feature.properties.Month == i+1) return true
+            };
+            clusters.addLayer(monthLayerGroup);
+            map.addLayer(clusters);
         }
     }
+    
 }
 
 function renderMyMap() {
@@ -98,14 +92,7 @@ function renderMyMap() {
     };
 
     legend.addTo(map);
-
-    var incidentsLayerGroup=L.geoJson(incidents);
-
-    var clusters = L.markerClusterGroup();
-    clusters.addLayer(incidentsLayerGroup);
-    map.addLayer(clusters);
 }
-
 
 //When adding the info
 info.onAdd = function (map) {
@@ -162,16 +149,12 @@ function highlightFeature(e) {
     }
 
     info.update(layer.feature.properties);
-
-    triggerBarHighlight(layer.feature.properties.name)
 }
 
 
 function resetHighlight(e) {
     geojson.resetStyle(e.target);
     info.update();
-
-    triggerBarReset(e.target.feature.properties.name);
 }
 
 function zoomToFeature(e) {

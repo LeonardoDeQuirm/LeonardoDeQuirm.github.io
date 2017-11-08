@@ -2,14 +2,14 @@
 
 //window.onload = renderMyChart;
 
-function triggerBarHighlight(stateName) {
-    document.getElementById(stateName+'Bar').classList.remove('bar');
-    document.getElementById(stateName+'Bar').classList.add('barHover');
+ function triggerBarHighlight(Month) {
+    document.getElementById(Month+'Bar').classList.remove('bar');
+    document.getElementById(Month+'Bar').classList.add('barHover');
 }
 
-function triggerBarReset(stateName){
-    document.getElementById(stateName+'Bar').classList.remove('barHover');
-    document.getElementById(stateName+'Bar').classList.add('bar');
+function triggerBarReset(Month){
+    document.getElementById(Month+'Bar').classList.remove('barHover');
+    document.getElementById(Month+'Bar').classList.add('bar');
 }
 
 function renderMyChart() {
@@ -52,6 +52,7 @@ function renderMyChart() {
             .attr("text-anchor", "end")
             .text("Population");
 
+var allMonths = [0,0,0,0,0,0,0,0,0,0,0,0];
         g.selectAll(".bar")
             .data(data)
             .enter().append("rect")
@@ -62,11 +63,19 @@ function renderMyChart() {
             .attr("height", function (d) { return height - y(d.Frequency); })
             .attr("id", function(d){return d.allYearMonths + "Bar";})
             //giving each state bar in the chart an ID so that each can be reached later for manipulation
-            .on("mouseover", function(d){
-                triggerMapHighlight(d.States);
-            })
-            .on("mouseout", function (d){
-                triggerMapReset(d.States);
-            })
+            
+            .on("click", function(d){
+                console.log(d.allYearMonths);
+                if( allMonths[d.allYearMonths-1] == 0){
+                    allMonths[d.allYearMonths-1]=1;
+                    triggerMapPoints(d.allYearMonths);
+                    triggerBarHighlight(d.allYearMonths);
+                }
+                else{
+                    allMonths[d.allYearMonths-1]=0;                    
+                    triggerBarReset(d.allYearMonths);
+                    triggerMapReset(allMonths);
+                }
+            });
     });
 }
