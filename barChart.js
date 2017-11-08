@@ -56,11 +56,6 @@ function renderMyChart() {
             .attr("text-anchor", "end")
             .attr("x", width - 150)
             .attr("y", height + 50)
-            .attr("y", height + 50)
-            .attr("y", height + 50)
-            .attr("y", height + 50)
-            .attr("y", height + 50)
-            .attr("y", height + 50)
             .text("Month");
 
         svg.append("text")
