@@ -3,6 +3,8 @@
 //global variables:
 var geojson;
 var map;
+//empty variable to be used later
+var displayPopUp = {};
 // control that shows state info on hover
 var info = L.control();
 
@@ -10,40 +12,51 @@ window.onload = function () {
     renderMyMap();
     renderMyChart();
 };
+//assigning displayPopUp to the fuction
+displayPopUp.addPopups = function (feature, layer) {
+
+    layer.bindPopup("<b>Address: </b>" + feature.properties.Address);
+}
 var clusters = L.markerClusterGroup();
-var monthLayerGroup=L.geoJson;
-function triggerMapPoints(Month){
-           
-   monthLayerGroup=L.geoJson(incidents, {filter: monthFilter});
-    
+var monthLayerGroup = L.geoJson;
+function triggerMapPoints(Month) {
+
+    monthLayerGroup = L.geoJson(incidents, {
+        filter: monthFilter,
+        onEachFeature: displayPopUp.addPopups,
+
+    });
+
     function monthFilter(feature) {
         if (feature.properties.Month === Month) return true
     };
-    
+
     clusters.addLayer(monthLayerGroup);
     map.addLayer(clusters);
 
-    if(!L.Browser.ie && !L.Browser.opera && !L.Browser.edge){
+    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
         clusters.bringToFront();
     }
 
     //info.update(incidents.feature.properties);
 }
 
+
+
 function triggerMapReset(allMonths) {
     clusters.clearLayers();
-    for (var i=0; i<allMonths.length; i++){
-        if(allMonths[i] == 1){
-            monthLayerGroup=L.geoJson(incidents, {filter: monthFilter});
-            
+    for (var i = 0; i < allMonths.length; i++) {
+        if (allMonths[i] == 1) {
+            monthLayerGroup = L.geoJson(incidents, { filter: monthFilter });
+
             function monthFilter(feature) {
-                if (feature.properties.Month == i+1) return true
+                if (feature.properties.Month == i + 1) return true
             };
             clusters.addLayer(monthLayerGroup);
             map.addLayer(clusters);
         }
     }
-    
+
 }
 
 function pointToMarker(feature, latlng) {
