@@ -97,7 +97,7 @@ function renderMyMap() {
         pointToLayer: pointToMarker
     }).addTo(map);
 
-    map.attributionControl.addAttribution('Population data &copy; <a href="http://census.gov/">US Census Bureau</a>');
+    map.attributionControl.addAttribution('Gun Voilence data &copy; <a href="http://www.gunviolencearchive.org/">Gun Violence Archive</a>');
 
     var legend = L.control({ position: 'bottomright' });
 
