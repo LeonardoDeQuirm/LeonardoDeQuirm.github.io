@@ -15,7 +15,7 @@ window.onload = function () {
 //assigning displayPopUp to the fuction
 displayPopUp.addPopups = function (feature, layer) {
 
-    layer.bindPopup("<b>Address: </b>" + feature.properties.Address + " " + feature.properties.CityOrCounty + ", " + feature.properties.State);
+    layer.bindPopup("<b>Address: </b>" + feature.properties.Address + " " + feature.properties.CityOrCounty + ", " + feature.properties.State + " <b>Date: </b>" + feature.properties.Month + "/" + feature.properties.Year);
 }
 var clusters = L.markerClusterGroup();
 var monthLayerGroup = L.geoJson;
