@@ -11,6 +11,7 @@ var info = L.control();
 window.onload = function () {
     renderMyMap();
     renderMyChart();
+    renderMyLine();
 };
 //assigning displayPopUp to the fuction
 displayPopUp.addPopups = function (feature, layer) {
