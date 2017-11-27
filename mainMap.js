@@ -106,7 +106,7 @@ function renderMyMap() {
 
         var div = L.DomUtil.create('div', 'info legend'),
             grades = [0, 10, 20, 50, 100],
-            labels = ['<strong> Incedents by State </strong>'],
+            labels = ['<strong> Incidents by State </strong>'],
             from, to;
 
         for (var i = 0; i < grades.length; i++) {
