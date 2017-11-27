@@ -41,18 +41,17 @@ function triggerMapPoints(Month) {
 
     //info.update(incidents.feature.properties);
 }
-
+function monthFilter(feature) {
+    if (feature.properties.Month === i + 1) return true
+}
 
 
 function triggerMapReset(allMonths) {
     clusters.clearLayers();
     for (var i = 0; i < allMonths.length; i++) {
-        if (allMonths[i] == 1) {
+        if (allMonths[i] === 1) {
             monthLayerGroup = L.geoJson(incidents, { filter: monthFilter });
 
-            function monthFilter(feature) {
-                if (feature.properties.Month == i + 1) return true
-            };
             clusters.addLayer(monthLayerGroup);
             map.addLayer(clusters);
         }
