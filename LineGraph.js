@@ -150,7 +150,7 @@ function renderMyLine() {
                 div.transition()
                     .duration(200)
                     .style("opacity", .9);
-                div.html(formatTime(d.date) + "<br/>" + d.sam)
+                div.html(d.sam)
                     .style("left", (d3.event.pageX) + "px")
                     .style("top", (d3.event.pageY - 28) + "px");
             })
