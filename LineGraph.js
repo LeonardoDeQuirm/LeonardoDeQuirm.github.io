@@ -110,7 +110,7 @@ function renderMyLine() {
         // add the steelblue line legend
         svg.append("text")
             .attr("x", 0)
-            .attr("y", 500)
+            .attr("y", 340)
             .attr("class", "legend")
             .style("fill", "steelblue")
             .text("2014");
@@ -118,7 +118,7 @@ function renderMyLine() {
         // add the red line legend
         svg.append("text")
             .attr("x", 0)
-            .attr("y", 515)
+            .attr("y", 355)
             .attr("class", "legend")
             .style("fill", "red")
             .text("2015");
@@ -126,7 +126,7 @@ function renderMyLine() {
         // add the black line legend
         svg.append("text")
             .attr("x", 0)
-            .attr("y", 530)
+            .attr("y", 370)
             .attr("class", "legend")
             .style("fill", "black")
             .text("2016");
@@ -134,7 +134,7 @@ function renderMyLine() {
         // add the green line legend
         svg.append("text")
             .attr("x", 0)
-            .attr("y", 545)
+            .attr("y", 385)
             .attr("class", "legend")
             .style("fill", "green")
             .text("2017");
