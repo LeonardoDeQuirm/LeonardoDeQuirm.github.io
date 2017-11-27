@@ -100,13 +100,13 @@ function renderMyMap() {
 
     map.attributionControl.addAttribution('Gun Voilence data &copy; <a href="http://www.gunviolencearchive.org/">Gun Violence Archive</a>');
 
-    var legend = L.control({ position: 'bottomright' });
+    var legend = L.control({ position: 'bottomright'});
 
     legend.onAdd = function (map) {
 
         var div = L.DomUtil.create('div', 'info legend'),
             grades = [0, 10, 20, 50, 100],
-            labels = [],
+            labels = ['<strong> Incedents by State </strong>'],
             from, to;
 
         for (var i = 0; i < grades.length; i++) {
@@ -142,7 +142,7 @@ info.update = function (props) {
 };
 
 
-// get color depending on population density value
+// get color depending on incedent density value
 function getColor(d) {
     return d > 1000 ? '#800026' :
         d > 500 ? '#BD0026' :
