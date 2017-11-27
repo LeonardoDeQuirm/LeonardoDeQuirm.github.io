@@ -7,16 +7,32 @@ function renderMyLine() {
         height = 450;
 
     // parse the date / time
-    var parseTime = d3.timeParse("%d-%b-%y");
+    var parseTime = d3.timeParse("%d-%b");
 
     // set the ranges
     var x = d3.scaleTime().range([0, width]);
     var y = d3.scaleLinear().range([height, 0]);
 
-    // define the line
+    // define the 1st line
     var valueline = d3.line()
         .x(function (d) { return x(d.date); })
-        .y(function (d) { return y(d.close); });
+        .y(function (d) { return y(d.sam); });
+
+    //define the 2nd line    
+    var valueline2 = d3.line()
+        .x(function (d) { return x(d.date); })
+        .y(function (d) { return y(d.joe); });
+
+    //define the 3rd line
+    var valueline3 = d3.line()
+        .x(function (d) { return x(d.date); })
+        .y(function (d) { return y(d.kyle); });
+
+    //define the 4th line
+    var valueline4 = d3.line()
+        .x(function (d) { return x(d.date); })
+        .y(function (d) { return y(d.tom); });
+
 
     // append the svg obgect to the body of the page
     // appends a 'group' element to 'svg'
@@ -36,12 +52,16 @@ function renderMyLine() {
         // format the data
         data.forEach(function (d) {
             d.date = parseTime(d.date);
-            d.close = +d.close;
+            d.sam = +d.sam;
+            d.joe = +d.joe;
+            d.kyle = +d.kyle;
+            d.tom = +d.tom;
+
         });
 
         // Scale the range of the data
         x.domain(d3.extent(data, function (d) { return d.date; }));
-        y.domain([0, d3.max(data, function (d) { return d.close; })]);
+        y.domain([0, d3.max(data, function (d) { return Math.max(d.sam, d.joe, d.kyle, d.tom); })]);
 
         // Add the valueline path.
         svg.append("path")
@@ -49,21 +69,67 @@ function renderMyLine() {
             .attr("class", "line")
             .attr("d", valueline);
 
+        // Add the valueline2 path
+        svg.append("path")
+            .data([data])
+            .attr("class", "line")
+            .style("stroke", "red")
+            .attr("d", valueline2);
+
+        // Add the valueline3 path
+        svg.append("path")
+            .data([data])
+            .attr("class", "line")
+            .style("stroke", "black")
+            .attr("d", valueline3);
+
+        // Add the valueline4 path
+        svg.append("path")
+            .data([data])
+            .attr("class", "line")
+            .style("stroke", "green")
+            .attr("d", valueline4);
+
         // Add the X Axis
         svg.append("g")
-            .attr("class", "axis")
             .attr("transform", "translate(0," + height + ")")
-            .call(d3.axisBottom(x).ticks(10))
-            .selectAll("text")
-            .style("text-anchor", "end")
-            .attr("dx", "-.8em")
-            .attr("dy", ".15em")
-            .attr("transform", "rotate(-65)");
+            .call(d3.axisBottom(x));
 
         // Add the Y Axis
         svg.append("g")
-            .attr("class", "axis")
             .call(d3.axisLeft(y));
+
+        // add the steelblue line legend
+        svg.append("text")
+            .attr("x", 0)
+            .attr("y", 500)
+            .attr("class", "legend")
+            .style("fill", "steelblue")
+            .text("2014");
+
+        // add the red line legend
+        svg.append("text")
+            .attr("x", 0)
+            .attr("y", 515)
+            .attr("class", "legend")
+            .style("fill", "red")
+            .text("2015");
+
+        // add the black line legend
+        svg.append("text")
+            .attr("x", 0)
+            .attr("y", 530)
+            .attr("class", "legend")
+            .style("fill", "black")
+            .text("2016");
+
+        // add the green line legend
+        svg.append("text")
+            .attr("x", 0)
+            .attr("y", 545)
+            .attr("class", "legend")
+            .style("fill", "green")
+            .text("2017");
 
     });
 }
