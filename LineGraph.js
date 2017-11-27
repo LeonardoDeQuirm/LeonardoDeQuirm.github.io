@@ -139,6 +139,15 @@ function renderMyLine() {
             .style("fill", "green")
             .text("2017");
 
+        // add title to line graph
+        svg.append("text")
+            .attr("x", (width / 2))
+            .attr("y", -10)
+            .attr("text-anchor", "middle")
+            .style("font-size", "24px")
+            .style("text-decoration", "underline")
+            .text("Yealy Incident Report");
+            
         // add the dots with tooltips
         svg.selectAll("dot")
             .data(data)
@@ -150,7 +159,7 @@ function renderMyLine() {
                 div.transition()
                     .duration(200)
                     .style("opacity", .9);
-                div.html(d.sam)
+                div.html(formatTime(d.date) + "<br/>" + d.sam)
                     .style("left", (d3.event.pageX) + "px")
                     .style("top", (d3.event.pageY - 28) + "px");
             })
