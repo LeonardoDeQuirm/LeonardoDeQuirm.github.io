@@ -146,7 +146,7 @@ function renderMyLine() {
             .attr("text-anchor", "middle")
             .style("font-size", "24px")
             .style("text-decoration", "underline")
-            .text("Yealy Incident Report");
+            .text("Yearly Incident Report");
 
         // add the dots with tooltips
         svg.selectAll("dot")
