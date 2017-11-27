@@ -3,8 +3,8 @@ function renderMyLine() {
 
     // set the dimensions and margins of the graph
     var margin = { top: 100, right: 100, bottom: 100, left: 100 },
-        width = 600,
-        height = 450;
+        width = 1000,
+        height = 300;
 
     // parse the date / time
     var parseTime = d3.timeParse("%d-%b");
