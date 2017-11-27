@@ -9,6 +9,9 @@ function renderMyLine() {
     // parse the date / time
     var parseTime = d3.timeParse("%d-%b");
 
+    // format/parse time
+    var formatTime = d3.timeFormat("%e %B");
+
     // set the ranges
     var x = d3.scaleTime().range([0, width]);
     var y = d3.scaleLinear().range([height, 0]);
@@ -32,6 +35,11 @@ function renderMyLine() {
     var valueline4 = d3.line()
         .x(function (d) { return x(d.date); })
         .y(function (d) { return y(d.tom); });
+
+    //declare div
+    var div = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
 
 
     // append the svg obgect to the body of the page
@@ -131,5 +139,25 @@ function renderMyLine() {
             .style("fill", "green")
             .text("2017");
 
+        // add the dots with tooltips
+        svg.selectAll("dot")
+            .data(data)
+            .enter().append("circle")
+            .attr("r", 5)
+            .attr("cx", function (d) { return x(d.date); })
+            .attr("cy", function (d) { return y(d.sam); })
+            .on("mouseover", function (d) {
+                div.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                div.html(formatTime(d.date) + "<br/>" + d.sam)
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");
+            })
+            .on("mouseout", function (d) {
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });
     });
 }
