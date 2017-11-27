@@ -30,7 +30,7 @@ function triggerMapPoints(Month) {
 
     function monthFilter(feature) {
         if (feature.properties.Month === Month) return true
-    };
+    }
 
     clusters.addLayer(monthLayerGroup);
     map.addLayer(clusters);
