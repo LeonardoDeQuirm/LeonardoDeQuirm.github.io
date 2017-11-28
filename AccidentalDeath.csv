@@ -1,0 +1,501 @@
+IncidentDate,State,CityOrCounty,Address,Killed,Injured,Latitude,Longitude
+November 24 2017,Texas,Bulverde,N/A,1,0,29.77473807,-98.44180073
+November 24 2017,North Carolina,Apex,2000 Block of Walden Glade Run,1,0,35.7282406,-78.862489
+November 24 2017,Illinois,Delavan,22000 Armington Rd,1,0,40.37147528,-89.54447343
+November 23 2017,Kentucky,Irvington,JE Haynes Road,1,0,37.87793366,-86.28470433
+November 22 2017,New York,Sherman,2998 Armenian Rd,1,0,42.6687355,-75.44096178
+November 21 2017,Louisiana,Moreauville,10363 Bayou des Glaises St,1,0,31.0341754,-91.98171374
+November 20 2017,West Virginia,New Martinsville,N/A,1,0,39.66345582,-80.85687088
+November 19 2017,Indiana,Elizabeth,N/A,1,0,38.12387083,-85.97296393
+November 19 2017,Ohio,Republic,8782 E TR 8,1,0,40.42858964,-82.70242359
+November 18 2017,Ohio,West Chester,8600 block of Meadowview Dr,1,0,39.33520876,-84.4145443
+November 17 2017,Oregon,Roseburg,300 block of Temple Brown Rd,1,0,43.22205176,-123.3522361
+November 16 2017,Colorado,Saguache,CO 788,1,0,38.99766277,-105.5495049
+November 13 2017,Alabama,Adger,Valley Ford Rd and Buford Rd,1,0,32.63501642,-86.80937931
+November 13 2017,North Carolina,Lillington,2091 N.C. Highway 27,1,0,35.40071548,-78.81395276
+November 12 2017,Tennessee,Dresden,Evergreen Street,1,0,36.27843905,-88.69390046
+November 11 2017,Minnesota,Aurora,5800 block of Stepetz Road 53,1,0,46.36813604,-93.71317296
+November 10 2017,Tennessee,Memphis,3527 S Mendenhall Rd,1,0,35.0526303,-89.8864951
+November 9 2017,Tennessee,Nashville,2000 block of South Lyle Lane,1,0,36.16746379,-86.78570268
+November 9 2017,Pennsylvania,Philadelphia,200 block of W Godfrey,1,0,40.00763806,-75.1339627
+November 8 2017,Texas,Kountze,2600 block of FM 418,1,0,30.37243226,-94.3159442
+November 5 2017,Louisiana,Allen (county),N/A,1,0,30.8956711,-91.67752985
+November 4 2017,New Hampshire,Exeter (Brentwood),Pine Rd,1,0,43.73857152,-71.51309929
+November 2 2017,Nevada,Henderson,900 block of Seven Hills Dr,1,0,36.0122334,-115.0374619
+November 2 2017,Connecticut,Wethersfield,26-28 Alison Ln,1,0,41.70129647,-72.67034633
+November 2 2017,Virginia,Williamsburg,1700 block of Skiffes Creek Circle,1,0,37.26917247,-76.70719886
+November 2 2017,Louisiana,Arnaudville,1000 block of Kennedy Drive,1,0,30.40220726,-91.93199259
+November 2 2017,Louisiana,Plaquemine,Marshall St and Bubba St,1,0,30.28320339,-91.24300709
+October 31 2017,Mississippi,Columbus,Poplar St,1,0,33.50858606,-88.41339952
+October 31 2017,Georgia,Atlanta,300 Block of Fairburn Rd,1,0,33.76265247,-84.4231419
+October 30 2017,Maryland,Glenn Dale,10400 Good Luck Rd,1,0,38.98333245,-76.80403733
+October 29 2017,Oklahoma,Lawton,2100 block of NW Lincoln,1,0,34.61597795,-98.420562
+October 29 2017,Illinois,Chicago,6600 S Marquette Rd,1,0,41.83861021,-87.68661087
+October 29 2017,Indiana,Indianapolis,8000 Wildwood Farms Dr,1,0,39.77710046,-86.14634767
+October 29 2017,New York,New York (Manhattan),111 Wadsworth Ave,1,1,42.6687355,-75.44096178
+October 28 2017,Illinois,Chicago,4800 W Hutchinson St,1,0,41.83861021,-87.68661087
+October 28 2017,Texas,Fort Worth,5400 block of Wilson Rd,1,0,32.7795423,-97.3463354
+October 28 2017,Maine,Hebron,490 Greenwood Mountain Rd,1,0,44.1799485,-70.3714033
+October 26 2017,Georgia,Forest Park,Boca Grande Boulevard,1,0,33.6209416,-84.35920961
+October 26 2017,Arkansas,Altheimer,700 block of Short Front St,1,0,34.32403166,-91.84845916
+October 23 2017,New York,Greig,7899 Woodcook Dr,1,0,43.70439,-75.24647928
+October 23 2017,Alabama,Cullman (county),N/A,1,0,32.63501642,-86.80937931
+October 21 2017,Pennsylvania,Bangor,10124A Upper Little Creek Rd,1,0,40.86795657,-75.208025
+October 21 2017,Oklahoma,Tulsa,2600 block of 28th St,1,0,36.13544967,-95.91306967
+October 20 2017,Oregon,Sherwood,19200 block of SW Cipole Rd,1,0,45.35980655,-122.8430593
+October 20 2017,Kentucky,Georgetown,200 Block of North Court Street,1,0,38.22464939,-84.54788396
+October 19 2017,Kentucky,Nicholasville,N/A,1,0,37.89377487,-84.56549687
+October 19 2017,Kentucky,Covington,E 6th St,1,0,39.03350961,-84.51667779
+October 18 2017,Indiana,Muncie,420 E McGalliard Rd,1,0,40.19891031,-85.39370322
+October 17 2017,South Carolina,Warrenville,Beckham Rd,1,0,33.54608584,-81.79897901
+October 14 2017,Washington,Kelso,1500 block of Carroll Rd,1,0,46.12510902,-122.8912636
+October 11 2017,Oklahoma,Oklahoma City,1505 Kinkaid Dr,1,0,35.422422,-97.543986
+October 11 2017,Kentucky,Somerset,KY-1003,1,0,37.0811133,-84.60871778
+October 9 2017,South Carolina,West Columbia,200 block of Hunters Mill Dr,1,0,33.990459,-81.0951262
+October 9 2017,Tennessee,Clarksville,160 State Line Rd,1,0,36.56968315,-87.34323717
+October 9 2017,Michigan,Detroit,Goodwin St and Caniff St,1,0,41.93132091,-83.3292499
+October 8 2017,North Carolina,Elizabeth City,S Desert Rd,1,0,36.29397687,-76.23494065
+October 7 2017,Missouri,Saint Louis (University City),6600 block of Bartmer Ave,1,0,38.30885939,-92.50820581
+October 7 2017,Kentucky,Hopkinsville,Beaumont Ct,1,0,36.83765012,-87.47762026
+October 7 2017,Tennessee,Nashville,N 7th St,1,0,36.16746379,-86.78570268
+October 7 2017,Utah,Santaquin,N/A,1,0,39.97212335,-111.7926968
+October 6 2017,Arkansas,Helena,300 block of Dinan St,1,0,34.87946371,-92.38111209
+October 6 2017,Oklahoma,Wynnewood,25803 N CR 3250,1,0,34.6441776,-97.16268269
+October 5 2017,Nebraska,Omaha,183rd St and Emiline St,1,0,41.26588379,-96.05382374
+October 3 2017,Texas,Dallas,Whitehurst Dr and Skillman St,1,0,32.79464486,-96.76633721
+October 3 2017,Pennsylvania,Berwick,W 2nd St,1,0,41.05549012,-76.24923993
+October 3 2017,Florida,Orlando,222 Neighborhood Market Rd,1,0,28.4158857,-81.2987497
+October 2 2017,Mississippi,Falkner,N/A,1,0,34.83807483,-88.9424349
+October 1 2017,Georgia,Augusta,2300 Block of Barton Chapel Rd,1,0,32.6176611,-83.39219224
+October 1 2017,Indiana,Indianapolis,1800 block of N Routiers Ave,1,0,39.77710046,-86.14634767
+October 1 2017,South Carolina,Bowman,N/A,1,0,33.85416558,-80.90959195
+September 30 2017,Florida,Port Charlotte,Dorchester St,1,0,26.99028206,-82.11344826
+September 30 2017,Mississippi,Horn Lake,Longwood Cove,1,1,34.95119955,-90.05012568
+September 30 2017,Texas,Cleveland (Plum Grove),CR 3560,1,0,31.53834907,-99.6497468
+September 30 2017,Georgia,Augusta,2400 Block of Amsterdam Dr,1,0,32.6176611,-83.39219224
+September 28 2017,Texas,Tornillo,19000 block of Highland,1,0,31.43659002,-106.1033047
+September 28 2017,Ohio,Cleveland (Parma),6600 block of Brownfield Dr,1,0,40.42858964,-82.70242359
+September 26 2017,Texas,Garland,3700 block of Burning Tree Ln,1,0,32.91008028,-96.6304259
+September 24 2017,New York,Yonkers,201 Warburton Ave,1,0,40.94660166,-73.86737618
+September 23 2017,Missouri,Saint Louis,5400 block of Arlington Ave,1,0,38.30885939,-92.50820581
+September 23 2017,Missouri,Salem,CR 621,1,0,37.64005199,-91.53696488
+September 22 2017,Kansas,Lawrence,606 N Michigan St,1,0,38.99377565,-95.25146685
+September 22 2017,Kentucky,Franklin,303 Pepper St,1,0,36.71929482,-86.56535088
+September 21 2017,Colorado,Grand Junction,2100 block of N 17th Cir,1,0,39.0863664,-108.5687469
+September 19 2017,Texas,Manvel,5000 block of CR 48,1,0,29.47617021,-95.35448477
+September 17 2017,Ohio,Fremont,300 block of Jackson St,1,0,40.42858964,-82.70242359
+September 15 2017,South Carolina,Hartsville,Folly Rd,1,0,34.36826076,-80.08166824
+September 14 2017,Florida,Jacksonville,4600 block of Ricker Road,1,0,30.27926997,-81.37452585
+September 14 2017,Missouri,Pineville,Good Life Cir and Brush Creek Rd,1,0,36.57751425,-94.38880551
+September 14 2017,Florida,Tampa,N/A,1,0,27.96800236,-82.4763859
+September 13 2017,South Carolina,Starr,Gentry Rd,1,0,34.376921,-82.69588194
+September 13 2017,Oklahoma,Tulsa,W 4th St and S 33rd W Ave,1,0,36.13544967,-95.91306967
+September 12 2017,California,Oakland,7100 block of International Blvd,1,0,37.77108878,-122.2249767
+September 11 2017,Tennessee,Clarksville,1768 Madison Street,1,0,36.56968315,-87.34323717
+September 10 2017,Ohio,Madison,3800 block of Wade Rd,1,0,41.77224045,-81.05297561
+September 9 2017,Mississippi,De Kalb,Bealman Road,1,0,32.77068945,-88.655965
+September 8 2017,Alaska,Manokotak,N/A,1,0,58.99570976,-159.0019461
+September 6 2017,South Carolina,Columbia,2400 block of Truax Ln,2,0,34.0297833,-80.8965664
+September 3 2017,Mississippi,Horn Lake,Carroll Cove West,1,0,34.95119955,-90.05012568
+September 2 2017,Indiana,Hammond,7200 block of Osborn Ave,2,0,39.82203943,-86.38015459
+September 2 2017,Texas,Haltom City,3500 block of Parker Rd E,1,0,32.81758668,-97.27065856
+September 2 2017,Tennessee,Springfield,10th Ave,1,0,36.49437452,-86.87151451
+August 31 2017,Nevada,Las Vegas,6800 block of Fallona Ave,1,0,36.2277116,-115.2640448
+August 30 2017,Mississippi,Cleveland,1700 block of South Chrisman Avenue,1,0,33.74312012,-90.72901275
+August 28 2017,Maine,Scarborough,17 Milliken St,1,0,43.5778114,-70.3788129
+August 28 2017,Florida,Pinellas Park,6500 87th Ave N,1,0,27.85074772,-82.7267795
+August 28 2017,Texas,Scurry,9500 block of Timber Trail,1,0,32.51282228,-96.38543728
+August 27 2017,Georgia,Marietta,790 Wilson Circle,1,0,33.9498298,-84.5766598
+August 24 2017,Pennsylvania,East Stroudsburg,126 E Barnum St,1,0,40.9988613,-75.1886403
+August 23 2017,Colorado,Colorado Springs (Fort Carson),6001 Wetzel Ave,1,0,38.99766277,-105.5495049
+August 22 2017,Louisiana,Baton Rouge,10900 block of Florida Blvd,1,0,30.4507665,-91.12584647
+August 21 2017,New York,Syracuse,107 Hartson St,1,0,42.6687355,-75.44096178
+August 20 2017,Missouri,Saint Joseph,2600 Mary St,1,0,38.30885939,-92.50820581
+August 20 2017,Tennessee,Memphis,1000 block of Parkland Road,1,0,35.10520292,-89.97735447
+August 19 2017,Tennessee,Memphis,1400 block of Hickory Way,1,0,35.10520292,-89.97735447
+August 19 2017,Tennessee,Clarksville,1219 Shorehaven Dr,2,0,36.56968315,-87.34323717
+August 17 2017,North Carolina,Winston Salem (Winston-salem),4365 Wakeman Dr,1,0,35.3662481,-79.42939386
+August 16 2017,Alaska,Togiak,N/A,1,0,61.32535,-154.56505
+August 15 2017,Arizona,Queen Creek,N/A,1,0,33.23972885,-111.6396721
+August 15 2017,Washington,Spokane,N Washington St and Spokane Falls Blvd,1,0,47.66255658,-117.2345719
+August 14 2017,Kentucky,Covington,1840 Holman Ave,1,0,39.0666926,-84.5103495
+August 14 2017,Alabama,Birmingham,4100 Messer Airport Hwy,1,0,32.63501642,-86.80937931
+August 13 2017,Indiana,Monticello,8148 NW Shafer Dr,1,0,40.74548547,-86.76693645
+August 12 2017,Missouri,Festus,1900 block of Iditarod Trail,1,0,38.21951355,-90.40970144
+August 9 2017,Oklahoma,Tulsa,5000 block of S Hudson,1,0,36.13544967,-95.91306967
+August 9 2017,Pennsylvania,West Mifflin,108 Dover Ln,1,0,40.35808796,-79.90723365
+August 8 2017,Wisconsin,Loganville,Highway 23,1,0,43.43883106,-90.03734572
+August 7 2017,Texas,Wichita Falls,1509 Trigg Ln,1,0,33.90727399,-98.52929817
+August 6 2017,Missouri,Kansas City,9600 block of Lydia Avenue,1,0,38.30885939,-92.50820581
+August 5 2017,Indiana,Crown Point,7700 block of East 120th Avenue,1,0,41.41345465,-87.34430395
+August 4 2017,Tennessee,Nashville,100 block of Donald St,1,0,36.16746379,-86.78570268
+August 4 2017,Texas,San Antonio,6200 block of Big Valley Dr,1,0,31.53834907,-99.6497468
+August 4 2017,Mississippi,Gulfport,3600 block of Sabine Street,1,0,30.42114042,-89.0691754
+August 2 2017,New York,Glen Cove,Williams St,1,0,40.8914755,-73.64414355
+August 1 2017,Nevada,Las Vegas,9500 block of Chandler Springs Ave,1,0,36.2277116,-115.2640448
+August 1 2017,Montana,Helena,246 Hope Road,1,0,46.59622802,-112.0194346
+July 31 2017,Illinois,Springfield,6300 block of Cherylwood Dr,1,0,39.7639077,-89.6708323
+July 31 2017,Kentucky,Louisville,6509 Huff Lane,1,0,38.1895252,-85.869544
+July 31 2017,South Carolina,Lancaster,509 E Dunlap St,1,0,33.85416558,-80.90959195
+July 30 2017,Texas,Bacliff,4700 block of 6th St,1,0,29.50772471,-94.98786157
+July 30 2017,Florida,Sarasota,2000 block of Arlington St,1,0,27.30925191,-82.47885263
+July 30 2017,Florida,Tampa,1020 E Hannah Ave,1,0,27.96800236,-82.4763859
+July 30 2017,Maine,Baldwin,Burnell Rd,1,0,43.8329357,-70.71885626
+July 29 2017,Florida,Saint Augustine,4600 block of FL 16,1,0,28.14683286,-83.20422736
+July 29 2017,South Dakota,Sioux Falls,4404 S Louise Ave,1,0,43.5383351,-96.7319985
+July 29 2017,South Carolina,Columbia,8720 Windsor Lake Blvd,1,0,34.0297833,-80.8965664
+July 29 2017,Missouri,Miller,N/A,1,0,37.21476983,-93.84057779
+July 26 2017,Wisconsin,Waupaca,E410 Rieben Rd,1,0,44.35092478,-89.07210812
+July 26 2017,California,Oakland,2300 block of Fruitvale Ave,1,0,37.77108878,-122.2249767
+July 24 2017,Ohio,Newark,N 21st and Log Pond,1,1,40.07107065,-82.42509931
+July 24 2017,Ohio,Cincinnati,900 block of McPherson Ave,1,0,39.14291321,-84.50366914
+July 23 2017,Missouri,Saint Louis,1400 block of Kealty Ln,1,0,38.30885939,-92.50820581
+July 23 2017,Ohio,Miamisburg,155 Prestige Pl,1,0,39.6336282,-84.2292953
+July 22 2017,Pennsylvania,Pittsburgh,5100 block of Lougean Ave,1,0,40.43946574,-79.97631573
+July 22 2017,Maryland,Jessup,8900 Block of Good Harvest Rd,1,0,39.14566235,-76.77444962
+July 22 2017,Tennessee,Memphis,1541 Northside Dr,1,0,35.2321991,-90.0120705
+July 22 2017,South Carolina,Columbia,8720 Windsor Lake Blvd,1,0,34.0297833,-80.8965664
+July 21 2017,Mississippi,Starkville,100 block of Maxwell St,1,0,33.46083149,-88.82974123
+July 20 2017,Texas,Humble (Atascocita),19900 block of River Brook Dr,1,0,31.53834907,-99.6497468
+July 19 2017,Texas,San Angelo,1800 block of Edmund Blvd,1,0,31.53834907,-99.6497468
+July 19 2017,Georgia,Athens,Hollow Ridge Drive,1,0,33.95081707,-83.36894174
+July 18 2017,Arizona,Mesa,600 block of E Kino Dr,1,0,33.4019259,-111.7173787
+July 17 2017,Idaho,Troy,Nora Creek Rd,1,0,46.73751213,-116.7722298
+July 14 2017,Louisiana,New Orleans,6200 block of Cameron St,1,0,30.06880013,-89.9308814
+July 14 2017,Louisiana,Westwego (Bridge City),9200 block of E Claiborne Pkwy,1,0,30.8956711,-91.67752985
+July 14 2017,Illinois,Chicago (Englewood),6100 block of S Winchester Ave,1,0,40.10756121,-89.1611563
+July 13 2017,Illinois,Chicago,6100 block of S Winchester,1,0,41.83861021,-87.68661087
+July 13 2017,Mississippi,Columbus,Florence St,1,0,33.50858606,-88.41339952
+July 12 2017,Wisconsin,Racine,1800 block of Howe St,1,0,42.72898437,-87.80711716
+July 12 2017,New York,Gowanda,Bagdad Rd,1,0,42.46120527,-78.93382338
+July 8 2017,Tennessee,Greeneville,573 Warrensburg Road,1,0,36.16802019,-82.8196659
+July 8 2017,Illinois,Des Plaines,9900 block of Linda Ln,1,0,42.03434088,-87.90082981
+July 6 2017,West Virginia,Princeton,Low Gap Rd,1,0,37.36887952,-81.09615236
+July 6 2017,Louisiana,Harvey,2400 block of Alex Kornman Blvd,1,0,29.8869868,-90.06642184
+July 5 2017,Florida,Palm Beach (county),US 27,1,0,28.14683286,-83.20422736
+July 5 2017,Washington,Federal Way,2400 block of South Star Lake Rd,1,0,47.30908515,-122.3357556
+July 5 2017,Florida,Merritt Island,1000 block of Loring St,1,0,28.31464297,-80.67125925
+July 4 2017,Texas,San Antonio,3134 Mission Gate,1,0,31.53834907,-99.6497468
+July 4 2017,Mississippi,Louisville,4000 block of Highpoint Weir Road,1,0,33.12239929,-89.05535763
+July 4 2017,Florida,Wildwood,935 CR 229,1,0,28.14683286,-83.20422736
+July 4 2017,Georgia,Atlanta,2591 Etheridge Dr NW,1,0,33.78910074,-84.47280476
+July 1 2017,Indiana,Hammond,7300 block of Harrison Avenue,1,0,39.82203943,-86.38015459
+July 1 2017,Mississippi,Jackson,3720 Cromwell Street,1,0,32.31702909,-90.21275137
+July 1 2017,Oregon,Blue River,NF-15,1,0,44.07297028,-120.6425598
+July 1 2017,Georgia,Cordele,Culpepper Rd,1,0,31.95669419,-83.76909545
+July 1 2017,Colorado,Sedalia,Elk Canyon Ct and Elk Canyon Cir,1,0,39.43970478,-104.9699099
+June 30 2017,Georgia,Jenkins (county),N/A,1,0,32.6176611,-83.39219224
+June 29 2017,Arizona,Phoenix,4302 W Indian School Rd,1,0,33.4955968,-112.1521333
+June 29 2017,Mississippi,Pascagoula,2214 Catalpa Ave,1,0,32.60010548,-89.72682633
+June 26 2017,Indiana,Indianapolis,7100 block of Warrior Trail,1,0,39.77710046,-86.14634767
+June 26 2017,Alabama,Montgomery,1714 Coral Ln,1,1,32.3162463,-86.2918362
+June 26 2017,Minnesota,Halstad,549 US Highway 75,1,0,47.35103677,-96.8246316
+June 25 2017,Arkansas,El Dorado,N/A,1,0,33.21822258,-92.66412493
+June 24 2017,South Carolina,Greenville,1509 Grove Rd,1,0,34.8369021,-82.362997
+June 24 2017,Pennsylvania,Red Lion,2500 block of Myers School Rd,1,0,39.89860905,-76.60773531
+June 24 2017,Missouri,Saint Louis,10000 block of Toelle Ln,1,0,38.30885939,-92.50820581
+June 24 2017,Tennessee,Nashville,Hurst Dr,1,1,36.16746379,-86.78570268
+June 22 2017,Florida,Bradenton,300 block of 12th Ave W,1,0,27.48965598,-82.57816978
+June 21 2017,Tennessee,Memphis,4800 block of Rickard Rd,1,0,35.10520292,-89.97735447
+June 20 2017,Michigan,Clinton,24204 Lotus Drive,1,0,42.06993607,-83.96860332
+June 20 2017,Arkansas,Danville,Belleville Ridge Road,1,0,35.05272511,-93.39023513
+June 19 2017,Ohio,Barberton,Pasadena Pl,1,0,41.00959421,-81.60368904
+June 19 2017,Georgia,Macon,152 Bradstone Circle,1,0,32.83205682,-83.64960509
+June 18 2017,Pennsylvania,Saylorsburg,500 block of Ash Lane,1,0,40.89973574,-75.3179614
+June 17 2017,Oklahoma,Tulsa,5400 block of North Hartford,1,2,36.13544967,-95.91306967
+June 16 2017,Texas,San Antonio,300 block of Langton,1,0,31.53834907,-99.6497468
+June 16 2017,Georgia,Dallas,Double Branches Lane,1,0,33.9144325,-84.8425332
+June 16 2017,South Carolina,Spartanburg,Whitener Avenue,1,0,34.9422944,-81.9269074
+June 14 2017,Oklahoma,Tulsa,1000 Block of E 51st Pl N,1,0,36.13544967,-95.91306967
+June 14 2017,Florida,Palm Bay,Willard Rd,1,0,27.98605927,-80.66280174
+June 12 2017,Texas,Dayton,CR 2342,1,0,30.03562378,-94.90244073
+June 11 2017,Alabama,Montgomery,3300 block of Fountain Lane,1,0,32.34724369,-86.2672602
+June 11 2017,Georgia,Columbus,Warm Springs Rd,1,0,32.5099615,-84.87704106
+June 11 2017,Pennsylvania,Washington,2151 N Main St,1,0,40.17396328,-80.24672879
+June 10 2017,Indiana,Hobart,100 block of East 10th Avenue,1,0,41.51387579,-87.27274687
+June 10 2017,South Dakota,Tripp (county),N/A,1,0,44.33413091,-100.153875
+June 10 2017,California,Pacifica,700 block of Big Bend Drive,1,0,37.61115422,-122.4780428
+June 8 2017,California,Antioch,4300 Block of Palomar Dr,1,0,37.97787558,-121.7969287
+June 8 2017,Louisiana,Farmerville (Rocky Branch),N/A,1,0,30.8956711,-91.67752985
+June 8 2017,Florida,Cape Coral,4717 SW 13th Ave,1,1,26.563807,-82.0016913
+June 8 2017,Mississippi,Monticello,88 Mt Olive Rd,1,0,31.55253779,-90.11453859
+June 7 2017,Virginia,Chesterfield,Welch Dr and Old Creek Rd,1,0,37.64882817,-78.70157159
+June 7 2017,Arkansas,Conway,1952 Bruce Street,1,0,35.08139936,-92.4518292
+June 7 2017,Florida,Fort Lauderdale (Lauderhill),4100 block of NW 21st St,1,0,28.14683286,-83.20422736
+June 6 2017,Tennessee,Nashville,766 Lewis Street,1,0,36.16746379,-86.78570268
+June 5 2017,Illinois,Joliet,300 block of North Broadway St,1,0,41.5180664,-88.1583542
+June 4 2017,Missouri,Saint Louis,200 block of Bates St,1,0,38.30885939,-92.50820581
+June 4 2017,South Carolina,Anderson,N/A,1,0,34.52247869,-82.64706127
+June 3 2017,Louisiana,Opelousas,600 Block of East St,1,0,30.52714715,-92.08493154
+June 3 2017,Pennsylvania,Chester,2902 Bethel Road,1,0,39.84562785,-75.37183417
+June 2 2017,Colorado,Lafayette,200 W Baseline Road,1,0,39.99463778,-105.0991896
+June 1 2017,Missouri,Saint Louis,2500 block of Hodiamont Ave,1,0,38.30885939,-92.50820581
+June 1 2017,Missouri,Saint Louis,1500 block of Cochran Pl,1,0,38.30885939,-92.50820581
+June 1 2017,Texas,Houston,13800 block of Northlake Dr,1,0,29.7804724,-95.3863425
+June 1 2017,Tennessee,Arlington,12000 block of S Fork,1,0,35.2595149,-89.66801568
+May 31 2017,Kansas,Topeka,715 SW 16th Ave,1,0,39.03818505,-95.68698069
+May 30 2017,Oklahoma,Chickasha,1214 W Chickasha Ave,1,0,35.56938633,-97.9483721
+May 27 2017,Texas,Jefferson,SR 134,1,1,32.76340092,-94.35115833
+May 26 2017,Arkansas,West Helena,257 N Baringo St,1,0,34.87946371,-92.38111209
+May 26 2017,Louisiana,New Orleans,3400 block of Esplanade Avenue,1,0,30.06880013,-89.9308814
+May 24 2017,Illinois,Springfield,200 block of East Scarritt Street,1,0,39.7639077,-89.6708323
+May 24 2017,South Carolina,Sumter,Miller Road,1,0,33.940848,-80.3955428
+May 21 2017,Wisconsin,Ontario,Pisgah Road,1,0,43.72216976,-90.59411868
+May 21 2017,Virginia,Norfolk,1300 block of Lead Street,1,0,36.92334179,-76.24561422
+May 21 2017,Wisconsin,Appleton,535 W. College Ave,1,1,44.2788191,-88.3926255
+May 20 2017,Connecticut,Waterbury,N/A,1,0,41.55824432,-73.03612983
+May 20 2017,Kentucky,Campbellsville,Busy Baker Road,1,0,37.34365765,-85.3466324
+May 20 2017,Illinois,Des Plaines,2106 David Drive,1,0,42.03434088,-87.90082981
+May 18 2017,Arkansas,Gillett,Neals Ln,1,0,34.1190388,-91.37887774
+May 15 2017,Virginia,Locust Grove,10438 Cecelia Lane,1,0,38.2567783,-77.8436831
+May 15 2017,Virginia,Locust Grove,Mine Run Rd,1,0,37.64882817,-78.70157159
+May 13 2017,Tennessee,Memphis,Covington Pike,1,0,35.10520292,-89.97735447
+May 12 2017,Texas,Big Spring,1601 W 11th Place,1,0,32.23871397,-101.4801578
+May 12 2017,South Carolina,Starr,500 block of  Agnew Road,1,0,34.376921,-82.69588194
+May 11 2017,Indiana,East Chicago,3500 block of Guthrie Street,1,0,41.65000235,-87.45180276
+May 10 2017,Georgia,Winder,2500 block of Avalon Cir,1,0,33.99292704,-83.72095817
+May 10 2017,Arizona,Tucson,3700 block of E 5th St,1,0,32.15690153,-110.8775061
+May 8 2017,Louisiana,Eunice,E Dean St,1,0,30.49037133,-92.4190641
+May 7 2017,Washington,Yakima,S 3rd St and Arlington St,1,0,46.59260449,-120.5478201
+May 7 2017,Montana,Shepherd,362 Crooked Creek Rd,1,0,45.94680509,-108.3463477
+May 6 2017,Ohio,Columbus,6302 Busch Blvd,1,0,40.91903272,-84.05946017
+May 5 2017,Louisiana,Baton Rouge,11320 Greenwell Springs Rd,1,0,30.4931301,-91.0561101
+May 3 2017,Minnesota,Goodridge,N/A,1,0,48.14412047,-95.80393233
+May 2 2017,Washington,Spanaway,1700 block of 211th St Ct E,1,0,47.09788737,-122.4232572
+May 2 2017,Connecticut,Bridgeport,Read Street and Beatrice Street,1,0,41.18705826,-73.19553341
+May 1 2017,Michigan,Muskegon,1751 Evanston Ave,1,0,43.2213169,-86.2019731
+April 30 2017,Virginia,Henrico,1600 block of Henrico Arms Place,1,0,37.64882817,-78.70157159
+April 30 2017,Alabama,Leeds,4100 block of Oak Trail Way,1,0,33.5413334,-86.5620585
+April 30 2017,Florida,Jacksonville,Willow Branch Avenue,1,0,30.3369138,-81.66090703
+April 29 2017,Virginia,Chesapeake,1200 block of Seaboard Avenue,1,0,36.67775211,-76.30243259
+April 25 2017,Indiana,Fort Wayne,4033 Robinwood Dr,1,0,41.08849204,-85.14358989
+April 25 2017,Pennsylvania,Mckeesport,1300 Block of Ridge St,1,0,40.99568088,-77.78712223
+April 25 2017,Florida,Homestead (Florida City),421 NW 167th St,1,0,28.14683286,-83.20422736
+April 23 2017,South Dakota,Pennington (county),W Hwy 44 and Hwy 385,1,0,44.33413091,-100.153875
+April 23 2017,Mississippi,Vicksburg,2004 Ford St,1,0,32.3420319,-90.8742214
+April 21 2017,Ohio,Akron,600 block of Fulmer Ave,1,0,41.08004268,-81.52186217
+April 21 2017,Florida,West Palm Beach,704 S. Military Trail,1,0,26.74681035,-80.13150971
+April 21 2017,Georgia,Dalton,1502 E Morris St,1,0,34.7692219,-84.9704204
+April 19 2017,Texas,Freeport,1200 W 8th St,1,0,28.94192268,-95.36208303
+April 17 2017,Alabama,Rainbow City,3030 Rainbow Dr,1,0,33.93132878,-86.09162895
+April 15 2017,North Dakota,Bismarck,500 block of Assiniboin Dr,1,0,46.81146344,-100.7692263
+April 14 2017,Alabama,Selma,County Road 67 and County Road 145,1,0,32.41659706,-87.03358936
+April 13 2017,Texas,Katy,21323 Finbury Oaks Lane,1,0,29.79110761,-95.82679839
+April 13 2017,Alabama,Hazel Green,100 block of Atwilder Dr,1,0,34.92367369,-86.56705651
+April 13 2017,New Mexico,Grants,Lobo Canyon Rd,1,0,35.15384157,-107.834702
+April 12 2017,California,Oakland,800 block of E 18th St,1,0,37.77108878,-122.2249767
+April 10 2017,Florida,Orlando,Ziegler Rd,1,0,28.4158857,-81.2987497
+April 10 2017,Georgia,Forest Park,5539 Pineridge Ct,1,0,33.6209416,-84.35920961
+April 10 2017,Texas,Fort Worth,4800 block of Madyson Ridge Dr,1,0,32.7795423,-97.3463354
+April 9 2017,Indiana,Indianapolis,2300 block of Raceway Rd,1,0,39.77710046,-86.14634767
+April 9 2017,Tennessee,Chattanooga,2516 E 21st St,1,0,35.0168579,-85.2735324
+April 8 2017,Texas,Arlington,1700 block of Aberdeen Dr,1,0,32.69987097,-97.12592206
+April 8 2017,Pennsylvania,Macungie,3900 block of Orchard Drive,1,0,40.51643225,-75.55448352
+April 7 2017,Illinois,Pekin,1800 block of Victoria Dr,0,0,40.56748022,-89.62621989
+April 4 2017,Kansas,Wichita,9700 block of Westlawn,1,0,37.6906938,-97.3426776
+April 4 2017,Indiana,Bluffton,503 W. Wiley St,1,0,40.74236207,-85.17301575
+April 2 2017,Nebraska,Omaha,2701 Camden Ave,1,0,41.3056176,-95.9519967
+April 2 2017,Texas,Corpus Christi,1000 block of Vaky Street,1,0,27.73759861,-97.28696423
+April 1 2017,Virginia,Richmond,Jahnke Rd,1,0,37.64882817,-78.70157159
+March 30 2017,Texas,San Antonio,7400 block of Clint Ln,1,0,31.53834907,-99.6497468
+March 30 2017,Florida,Fountain,Sandy Mountain Church Rd,1,0,28.14683286,-83.20422736
+March 30 2017,Wisconsin,Cadott,9864 Boulevard Rd,1,0,44.7536765,-89.63679943
+March 29 2017,Georgia,Duluth,Hailston Drive,1,0,34.00568357,-84.14911121
+March 27 2017,California,Victorville,Sunny Vista and Olivine road,1,0,34.52700004,-117.3536862
+March 27 2017,Florida,Orlando,Kitty Hawk Ave,1,0,28.4158857,-81.2987497
+March 26 2017,Oklahoma,Ochelata,North 3950 Road,1,0,36.60094314,-95.98119023
+March 25 2017,North Carolina,High Point,1301 Filbert Place,1,0,35.95498956,-79.99005784
+March 25 2017,Illinois,Galesburg,1100 block of Bateman Street,1,0,40.95189288,-90.37433823
+March 24 2017,Ohio,Louisville,6550 Columbus Road NE,1,0,40.83640179,-81.2645727
+March 23 2017,Texas,Whitney,200 block of FM 1534,1,0,31.95202012,-97.3192658
+March 23 2017,Oregon,Eagle Point,Heppsie Mountain Road,1,0,42.46772421,-122.8016084
+March 23 2017,Michigan,Iron Mountain,N/A,1,0,44.81566738,-86.14800697
+March 23 2017,Texas,Killeen,800 block of Green Ave,1,0,31.07570201,-97.72990892
+March 22 2017,Texas,Houston,4002 Corder St,2,0,29.6827575,-95.3634794
+March 22 2017,Indiana,Gary,2600 block of Tyler Street,1,0,41.59560282,-87.3452059
+March 22 2017,Texas,El Paso,400 Block of Hardy Circle,1,0,31.8491633,-106.4326601
+March 21 2017,Ohio,Dayton,2138 Claggett Drive,1,0,39.8165035,-84.194445
+March 21 2017,Kentucky,Mount Olivet,4214 Pinhook Road,1,0,38.53175558,-84.03721357
+March 20 2017,Michigan,Grand Rapids,800 Block of Kalamazoo Ave SE,1,0,42.96148154,-85.65568585
+March 20 2017,Arizona,Phoenix,3428 W Rosewood Ave,1,0,33.5721625,-112.0879662
+March 19 2017,South Dakota,Charles Mix (county),N/A,1,0,44.33413091,-100.153875
+March 19 2017,New York,Rochester,Orange Street,1,0,42.6687355,-75.44096178
+March 18 2017,Michigan,Pontiac,100 block of Wall St,1,0,42.64932157,-83.28780622
+March 18 2017,New Jersey,Newark,878 S 19th St,1,0,40.72417185,-74.17242155
+March 17 2017,Tennessee,Memphis,2500 block of Hanwood,1,0,35.10520292,-89.97735447
+March 16 2017,Virginia,Hampton,Regal Way,1,0,37.04872093,-76.29536561
+March 16 2017,Indiana,South Bend,800 block of Bendix,2,0,41.67725366,-86.26911678
+March 14 2017,Missouri,Saint Louis,3300 block of Michigan Ave,1,0,38.30885939,-92.50820581
+March 13 2017,Illinois,Lake Villa,West Monaville Road and West Old Monaville Road,1,0,42.4183469,-88.08287423
+March 13 2017,Texas,Orange,1500 block of Main Ave,1,0,27.95620302,-97.93855251
+March 13 2017,Louisiana,Baton Rouge,4747 Southpark Drive,1,0,30.4063458,-91.0590637
+March 12 2017,Pennsylvania,Pittsburgh (Mount Washington),714 Southern Ave,1,0,40.99568088,-77.78712223
+March 10 2017,Texas,Spring,21300 block of Greenham Dr.,1,0,27.76152923,-97.74187314
+March 10 2017,Washington,Seattle,10200 block of 23rd Court Southwest,1,0,47.62024593,-122.3506866
+March 9 2017,Georgia,Warner Robins,506 S 3rd Street,1,0,32.5970961,-83.653936
+March 7 2017,Arkansas,Hope,402 E 3rd St,1,0,33.66832258,-93.5895434
+March 6 2017,Kentucky,Dry Ridge,Kelly Drive,1,0,37.59576387,-85.40914763
+March 5 2017,Mississippi,Woodland,County Road 269,1,0,33.77967503,-89.05069001
+March 4 2017,Missouri,Otterville,6249 Kaiser Rd,1,0,38.70292473,-93.00276916
+March 2 2017,Missouri,Joplin,2400 Block of  South Pennsylvania,1,0,37.07596793,-94.50214662
+March 1 2017,Pennsylvania,Tionesta,Lake Lucy Road,1,0,41.49366089,-79.44799706
+February 27 2017,Arkansas,Beebe,South Cypress Street,1,0,35.07130026,-91.90015759
+February 27 2017,Colorado,Pueblo,4103 N Elizabeth St,1,0,38.3104295,-104.6164738
+February 26 2017,Tennessee,Clifton,2373 Culps Bend Road,1,0,35.37683838,-87.99366381
+February 25 2017,Georgia,Grovetown,Coventry Avenue,1,0,33.44946676,-82.2064765
+February 25 2017,Minnesota,Sebeka,N/A,1,0,46.62904935,-95.08780992
+February 23 2017,Louisiana,Lake Charles,1700 block of Rena St,1,0,30.8956711,-91.67752985
+February 23 2017,California,Patterson,100 block of Washburn Street,1,0,36.37951811,-119.2956021
+February 22 2017,Florida,Miami,14990 NW Ninth Court,1,0,25.77525637,-80.20885121
+February 22 2017,Oklahoma,Quapaw,East 22 Road,1,0,36.95858483,-94.78155251
+February 21 2017,Indiana,Bloomington,South Camden Drive,1,0,39.82203943,-86.38015459
+February 20 2017,Louisiana,Harrisonburg,N/A,1,0,31.76801255,-91.82508744
+February 20 2017,Wisconsin,Green Bay,1800 block of Harold St,1,0,44.52070927,-87.98541795
+February 18 2017,Michigan,Holton,192nd Ave and Cleveland Rd,1,0,43.42475631,-86.09849397
+February 18 2017,Arkansas,Texarkana,E. 50th Street,1,0,33.43646449,-93.99608663
+February 16 2017,Oklahoma,Tulsa,1000 block of N Delaware Pl,1,0,36.13544967,-95.91306967
+February 16 2017,Texas,Houston,1400 block of Dairy Ashford,1,0,29.7804724,-95.3863425
+February 14 2017,Indiana,Indianapolis,3600 block of Glen Arm Rd,1,0,39.77710046,-86.14634767
+February 13 2017,Missouri,Saint Louis (Jennings),Minnie Ave,1,0,38.30885939,-92.50820581
+February 12 2017,Ohio,Lorain,400 block of Iowa Ave,1,0,41.44096014,-82.18391979
+February 11 2017,Wisconsin,Kenosha,3600 block of 48th St.,1,0,42.5847398,-87.8736961
+February 11 2017,Washington,Spanaway,13100 block of A Street South,1,0,47.09788737,-122.4232572
+February 7 2017,North Dakota,Edgeley,N/A,1,0,46.36233779,-98.71239314
+February 6 2017,Georgia,Fort Valley,1103 E Church St,1,0,32.55224903,-83.88135404
+February 5 2017,Georgia,Danielsville,Peaceful Ln,1,0,34.12306007,-83.21998552
+February 4 2017,Texas,Austin,1500 W William Cannon Dr,1,0,30.2014702,-97.7996585
+February 4 2017,Florida,Jacksonville,700 N Lincoln St,1,1,30.3369138,-81.66090703
+February 3 2017,Massachusetts,Dudley,N/A,1,0,42.055014,-71.93521584
+February 2 2017,Idaho,Peck,22400 block of Big Canyon Road,1,0,46.47442835,-116.4258196
+February 2 2017,South Carolina,Myrtle Beach,Afton Court,1,0,33.7108008,-78.8858621
+February 1 2017,New Mexico,Carlsbad,900 block of Lamont Street,1,0,32.40633489,-104.2385096
+January 31 2017,Nebraska,Omaha,14122 Manderson Plaza,1,0,41.2938657,-96.1342467
+January 30 2017,Arkansas,Earle,Lincoln Ave,1,0,35.27343935,-90.46426967
+January 28 2017,New Jersey,Toms River (Berkeley Township),Locker Street,1,0,40.12272985,-74.70346139
+January 26 2017,Oregon,Portland,7510 Southwest Aloma Way,1,0,45.5371811,-122.6499872
+January 26 2017,South Carolina,Sumter,Somerset Drive,1,0,33.940848,-80.3955428
+January 23 2017,Colorado,Denver,3000 block of West Colorado Ave,1,0,39.76144202,-104.8767568
+January 22 2017,Pennsylvania,Larimer,129 Finley St,1,0,39.7883489,-78.92590894
+January 22 2017,Kentucky,Bowling Green,2800 Scottsville Road,1,0,36.9472439,-86.4224831
+January 22 2017,South Carolina,Elgin,200 block of Cherrywood Dr,1,0,34.17022189,-80.79299936
+January 21 2017,Nevada,Henderson,1071 W Sunset Rd,1,0,36.0631548,-115.0345676
+January 21 2017,Illinois,Chicago,0 block of North Sacramento,1,0,41.83861021,-87.68661087
+January 20 2017,Florida,Auburndale,100 block of Lakeside Hills Loop,1,0,28.100985,-81.7937179
+January 20 2017,North Carolina,Goldsboro,108 Dee Dee Pl,1,0,35.3305332,-78.1079282
+January 19 2017,Idaho,Twin Falls,232 2nd Ave N,1,0,42.56301485,-114.4639957
+January 15 2017,Missouri,Saint Louis,2000 block of N Florissant Ave,1,0,38.30885939,-92.50820581
+January 15 2017,Indiana,Greenwood,2000 block of Jaden Lane,1,0,39.60881864,-86.10633798
+January 14 2017,California,Corona,14995 River Road,1,0,33.9226065,-117.62296
+January 14 2017,Tennessee,Crossville,1000 block of Old Mail Rd,1,0,35.9536368,-85.02825114
+January 14 2017,Nevada,Reno,1000 E 6th Street,1,0,39.5341183,-119.7995211
+January 13 2017,Ohio,Toledo,1500 block of East Broadway St,1,0,41.66409973,-83.58189036
+January 13 2017,Missouri,Carthage,1054 James Street,1,0,37.15042458,-94.32262021
+January 12 2017,Arizona,Tempe,7250 S Kyrene Rd,1,0,33.38829246,-111.931833
+January 11 2017,California,Chowchilla,205 Alameda Avenue,1,0,37.1195411,-120.2565345
+January 11 2017,Ohio,Covington,124 Regency Court,1,0,40.10834,-84.3521766
+January 11 2017,North Carolina,Raleigh,6500 block of Creedmoor Road,1,0,35.8302035,-78.6414394
+January 10 2017,Oregon,La Pine,15000 block of Greenwood Dr,1,0,43.68651678,-121.4855937
+January 9 2017,Montana,Lolo,10565 US 12,2,0,46.7755913,-114.1018051
+January 8 2017,Tennessee,Cedar Hill,6110 Smith Road,1,0,36.55117588,-87.00068588
+January 7 2017,New Hampshire,Alstead,22 March Hill Rd,1,0,43.0840667,-72.3585433
+January 6 2017,Tennessee,Jackson,220 Vann Dr,1,0,35.64931359,-88.83075059
+January 5 2017,Virginia,Bluefield,201 Neel St,1,0,37.23530855,-81.2745295
+January 4 2017,Ohio,New London,3741 Prospect Rd,1,0,41.07962403,-82.40661941
+January 3 2017,North Carolina,Pinetown,334 Main Street,1,0,35.61103018,-76.8557994
+January 3 2017,New Mexico,Albuquerque,100 block of Cynthia Loop NW,1,0,35.1055517,-106.6473884
+January 2 2017,Wisconsin,East Troy,Emery Court,1,0,42.78472104,-88.39728055
+January 2 2017,Oregon,Molalla,800 block of June Dr,1,0,44.07297028,-120.6425598
+January 1 2017,Alabama,Athens,16931 Buckskin Drive,1,0,34.7847183,-86.95090322
+January 1 2017,Nevada,Las Vegas,3700 block of Cambridge,1,0,36.2277116,-115.2640448
+December 31 2016,Florida,Miami (Cutler Bay),20549 Southwest 93rd Avenue,1,0,28.14683286,-83.20422736
+December 31 2016,Texas,Houston,4235 Oak Shadows,1,0,29.84348366,-95.45072543
+December 31 2016,Ohio,Newton Falls,Ridge Road,1,0,41.18861112,-80.97012928
+December 31 2016,Indiana,Indianapolis,4006 Newburgh Drive,1,0,39.77710046,-86.14634767
+December 31 2016,New Jersey,Stratford,Union Ave,1,0,39.82895688,-75.01545765
+December 31 2016,Oregon,Grants Pass,Robertson Bridge Rd,1,0,42.4340234,-123.3324735
+December 31 2016,Pennsylvania,Greencastle,400 block of West Baltimore Street,1,0,39.79067002,-77.72667392
+December 30 2016,Georgia,Webster (county),N/A,1,0,32.6176611,-83.39219224
+December 30 2016,Mississippi,Meridian,803 29th St,1,0,32.38453325,-88.68968173
+December 30 2016,Illinois,Chicago,4800 block of West Ferdinand Street,1,0,41.83861021,-87.68661087
+December 29 2016,Mississippi,Macon (Prairie Point),Buggs Ferry Road,1,0,32.60010548,-89.72682633
+December 28 2016,Louisiana,Sterlington,101 Lighthouse Lane,1,0,32.68860796,-92.06019294
+December 28 2016,Georgia,Valdosta,1000 block of Cherry Creek Drive,1,0,30.84940853,-83.27924556
+December 28 2016,Maine,Sanford,Brunell Avenue,1,0,43.44007343,-70.78014959
+December 28 2016,California,Pittsburg (Bay Point),2279 Willow Pass Rd,1,0,37.24004903,-119.5032355
+December 27 2016,Indiana,Elkhart,25908 San Lu Rae Drive,1,0,41.69184954,-85.96623839
+December 26 2016,South Carolina,Andrews,1358 Mount Pleasant Dr,1,0,33.44942679,-79.56596985
+December 26 2016,West Virginia,Princeton,110 Erica Lane,1,0,37.36887952,-81.09615236
+December 26 2016,South Carolina,Anderson,605 Murphy Rd,1,0,34.4650044,-82.7700943
+December 25 2016,Tennessee,Henderson (county),6000 block of Middleburg Road,1,0,35.85185663,-86.27777991
+December 24 2016,Louisiana,Plaquemine,N/A,1,0,30.28320339,-91.24300709
+December 24 2016,Iowa,Allison,N/A,1,0,42.75174813,-92.79576056
+December 23 2016,Texas,Palestine,500 block of Anderson County Road 350,1,0,31.75471225,-95.64717448
+December 23 2016,Indiana,Elkhart,29508 San Lu Rae Drive,1,0,41.69184954,-85.96623839
+December 23 2016,Ohio,Cleveland,3811 Library Avenue,1,0,41.4577533,-81.7101428
+December 22 2016,Alabama,Geneva (county),County Road 41,1,0,32.63501642,-86.80937931
+December 21 2016,Arkansas,Little Rock,2510 Romine Road,1,0,34.7303361,-92.3811415
+December 21 2016,Ohio,Columbus,2700 block of Noe Bixby,1,0,39.9847989,-82.9850438
+December 21 2016,Michigan,Detroit,791 Tennessee Street,1,0,41.93132091,-83.3292499
+December 20 2016,Ohio,Grove City,4048 Parkmead Drive,1,0,39.8804936,-83.0629424
+December 19 2016,Arkansas,Miller (county),11000 block of Highway 71,1,0,34.87946371,-92.38111209
+December 17 2016,Mississippi,Meridian,188 Mt. Horeb Rd,1,0,32.38453325,-88.68968173
+December 17 2016,Kansas,Wichita,1300th block of North Erie,1,0,37.6906938,-97.3426776
+December 15 2016,Indiana,Logansport,800 block of 21st Street,1,0,40.75018003,-86.3559161
+December 15 2016,Washington,Everett,Cleveland Avenue,1,0,47.96131252,-122.1865365
+December 14 2016,Oklahoma,Fort Gibson,2 Mile Road,1,0,35.77669193,-95.25996737
+December 14 2016,Illinois,Springfield,2041 E Lawrence Ave,1,0,39.7639077,-89.6708323
+December 13 2016,Alaska,Anchorage,5500 Lake Otis Parkway,1,0,61.17095577,-149.8392301
+December 12 2016,Michigan,Detroit,4300 block of Tireman,1,0,41.93132091,-83.3292499
+December 12 2016,New Mexico,Farmington,1 Rd 3959,1,0,34.31080523,-106.1079173
+December 12 2016,Indiana,Columbus,300 block of Cleveland Street,1,0,39.2095928,-85.91785988
+December 12 2016,Texas,Austin,501 East Stassney Lane,1,0,30.2018519,-97.7718743
+December 11 2016,Vermont,Danby (Mount Tabor),602 Brooklyn Road,1,0,44.02009856,-72.61472563
+December 11 2016,Ohio,North Canton,2331 Vixen Street NW,1,0,40.874325,-81.39679791
+December 10 2016,Missouri,Mountain View,210 W. Second St.,1,0,36.99342426,-91.70229677
+December 10 2016,Nevada,Las Vegas,5801 W. Lake Mead Boulevard,1,0,36.2277116,-115.2640448
+December 10 2016,South Carolina,Union,Buffalo Street,1,0,33.85416558,-80.90959195
+December 9 2016,Florida,Pensacola,2200 block of Brookpark Road,1,0,28.14683286,-83.20422736
+December 8 2016,Missouri,Vanduser,Bugg Street,1,0,36.99103689,-89.68651891
+December 8 2016,Louisiana,Franklin,600 block of Curtis Street,1,0,29.78505741,-91.50977503
+December 8 2016,Ohio,Cleveland,2201 West 93rd Street,1,0,41.51121521,-81.56356397
+December 6 2016,Georgia,Mableton,6660 Mableton Pkwy SE,1,0,33.81322182,-84.56540896
+December 4 2016,California,Tarzana,Vanalden Avenue,1,0,37.24004903,-119.5032355
+December 4 2016,Ohio,Toledo,2400 block of Seaman Street,1,0,41.66409973,-83.58189036
+December 2 2016,Virginia,Mineral,Daniel Road,1,0,38.00679197,-77.90608085
+December 2 2016,Alabama,Flomaton (Pollard),Foshee Road and Highway 31,1,0,32.63501642,-86.80937931
+December 2 2016,Virginia,Charlotte (county),Mt. Carmel Road,1,0,37.64882817,-78.70157159
+December 1 2016,New York,Norwich,Division Street,1,0,42.53332261,-75.52275911
+November 30 2016,Texas,Bonham,Highway 78,0,0,31.53834907,-99.6497468
+November 28 2016,Florida,Winter Haven,2520 US Hwy 92 West,1,0,28.0458354,-81.7327423
+November 28 2016,Texas,Del Rio,406 W Martinez St,2,0,29.37019321,-100.8797589
+November 28 2016,New York,Busti,Orr Street Extension and Garfield Road,1,0,42.04232483,-79.27890125
+November 27 2016,California,Chino,5900 block of Notre Dame Avenue,1,0,33.98358813,-117.6652966
+November 27 2016,New York,Caledonia,W River Road,1,0,42.97547297,-77.85711308
+November 27 2016,Pennsylvania,Republic,218 Republic Rd,1,0,40.99568088,-77.78712223
+November 27 2016,Kentucky,Edmonton,Cedar Flat Rd,1,0,37.59576387,-85.40914763
+November 26 2016,California,Antelope,3300 block of Langley Way,1,0,38.71532309,-121.3609605
+November 26 2016,Maryland,Sabillasville,6600 block of Eylers Valley Flint Road,1,0,39.69737593,-77.45618176
+November 26 2016,Tennessee,Niota,County Road 278,1,0,35.51591927,-84.54913967
+November 26 2016,Ohio,Grand Rapids,SR Route 65,1,0,41.40775047,-83.86796091
+November 26 2016,Michigan,Branch (county),Gunthorpe Road,1,0,44.81566738,-86.14800697
+November 25 2016,South Carolina,Gaston,Pineturn Lane,1,0,33.81815163,-81.09968656
+November 24 2016,New York,Sandy Creek,Kehoe Road,1,0,43.64336689,-76.08631566
+November 24 2016,Florida,Levy (county),N/A,1,0,28.14683286,-83.20422736
+November 23 2016,West Virginia,Troy,Highway 47 West,1,0,38.87760022,-80.36684481
+November 23 2016,Michigan,Marquette,N 1311 County Rd KCI,1,0,46.55065449,-87.39598714
+November 22 2016,Indiana,Anderson,1600 block of West 7th Street,1,0,40.08949108,-85.68939741
+November 22 2016,Virginia,Christiansburg,700 block of Dabney Road,1,0,37.14137707,-80.40276384
+November 22 2016,Arkansas,Searcy (county),N/A,1,0,34.87946371,-92.38111209
+November 20 2016,Louisiana,Many (Sabine),N/A,1,0,30.8956711,-91.67752985
+November 20 2016,Virginia,Dinwiddie (county),I-85,1,0,37.64882817,-78.70157159
+November 17 2016,New Jersey,Trenton (Hamilton Township),2000 block of Genesee Street,1,0,40.12272985,-74.70346139
+November 16 2016,Arkansas,Bentonville,Punkin Hollow and Miller Church Roads,1,0,36.3587973,-94.2291321
+November 15 2016,Montana,Park (county),Daisy Dean Road,1,0,46.91471155,-109.7498422
+November 13 2016,Colorado,Park (county),N/A,1,0,38.99766277,-105.5495049
+November 13 2016,Georgia,Jasper (county),Highway 16,1,0,32.6176611,-83.39219224
+November 13 2016,Michigan,Ypsilanti,212 Stevens Drive,1,0,42.2352631,-83.6374204
+November 12 2016,South Carolina,Union,200 block of Wilson Road,1,0,33.85416558,-80.90959195
+November 12 2016,Colorado,Grand Junction (Fruitvale),3060 Sandpiper Avenue,1,0,39.0657072,-108.4849277
+November 12 2016,Montana,Libby,N/A,1,0,48.38713044,-115.5559901
+November 12 2016,Colorado,La Salle,18000 block of County Road 43,1,0,40.34872593,-104.7059025
+November 12 2016,Texas,Palestine,CR 4452,1,0,31.75471225,-95.64717448
