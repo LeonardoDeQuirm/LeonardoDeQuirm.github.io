@@ -3,11 +3,14 @@ function renderMyLine() {
 
     // set the dimensions and margins of the graph
     var margin = { top: 100, right: 100, bottom: 100, left: 100 },
-        width = 600,
-        height = 450;
+        width = 1000,
+        height = 300;
 
     // parse the date / time
     var parseTime = d3.timeParse("%d-%b");
+
+    // format/parse time
+    var formatTime = d3.timeFormat("%e %B");
 
     // set the ranges
     var x = d3.scaleTime().range([0, width]);
@@ -32,6 +35,11 @@ function renderMyLine() {
     var valueline4 = d3.line()
         .x(function (d) { return x(d.date); })
         .y(function (d) { return y(d.tom); });
+
+    //declare div
+    var div = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
 
 
     // append the svg obgect to the body of the page
@@ -102,7 +110,7 @@ function renderMyLine() {
         // add the steelblue line legend
         svg.append("text")
             .attr("x", 0)
-            .attr("y", 500)
+            .attr("y", 340)
             .attr("class", "legend")
             .style("fill", "steelblue")
             .text("2014");
@@ -110,7 +118,7 @@ function renderMyLine() {
         // add the red line legend
         svg.append("text")
             .attr("x", 0)
-            .attr("y", 515)
+            .attr("y", 355)
             .attr("class", "legend")
             .style("fill", "red")
             .text("2015");
@@ -118,7 +126,7 @@ function renderMyLine() {
         // add the black line legend
         svg.append("text")
             .attr("x", 0)
-            .attr("y", 530)
+            .attr("y", 370)
             .attr("class", "legend")
             .style("fill", "black")
             .text("2016");
@@ -126,10 +134,99 @@ function renderMyLine() {
         // add the green line legend
         svg.append("text")
             .attr("x", 0)
-            .attr("y", 545)
+            .attr("y", 385)
             .attr("class", "legend")
             .style("fill", "green")
             .text("2017");
 
+        // add title to line graph
+        svg.append("text")
+            .attr("x", (width / 2))
+            .attr("y", -10)
+            .attr("text-anchor", "middle")
+            .style("font-size", "24px")
+            .style("text-decoration", "underline")
+            .text("Yearly Incident Report");
+
+        // add the dots with tooltips
+        svg.selectAll("dot")
+            .data(data)
+            .enter().append("circle")
+            .attr("r", 5)
+            .attr("cx", function (d) { return x(d.date); })
+            .attr("cy", function (d) { return y(d.sam); })
+            .on("mouseover", function (d) {
+                div.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                div.html(d.sam)
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");
+            })
+            .on("mouseout", function (d) {
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });
+
+        svg.selectAll("dot")
+            .data(data)
+            .enter().append("circle")
+            .attr("r", 5)
+            .attr("cx", function (d) { return x(d.date); })
+            .attr("cy", function (d) { return y(d.joe); })
+            .on("mouseover", function (d) {
+                div.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                div.html(d.joe)
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");
+            })
+            .on("mouseout", function (d) {
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });
+
+        svg.selectAll("dot")
+            .data(data)
+            .enter().append("circle")
+            .attr("r", 5)
+            .attr("cx", function (d) { return x(d.date); })
+            .attr("cy", function (d) { return y(d.kyle); })
+            .on("mouseover", function (d) {
+                div.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                div.html(d.kyle)
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");
+            })
+            .on("mouseout", function (d) {
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });
+
+        svg.selectAll("dot")
+            .data(data)
+            .enter().append("circle")
+            .attr("r", 5)
+            .attr("cx", function (d) { return x(d.date); })
+            .attr("cy", function (d) { return y(d.tom); })
+            .on("mouseover", function (d) {
+                div.transition()
+                    .duration(200)
+                    .style("opacity", .9);
+                div.html(d.tom)
+                    .style("left", (d3.event.pageX) + "px")
+                    .style("top", (d3.event.pageY - 28) + "px");
+            })
+            .on("mouseout", function (d) {
+                div.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });
     });
 }

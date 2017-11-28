@@ -68,6 +68,13 @@ function renderMyChart() {
             .attr("transform", "rotate(-90)")
             .text("Frequency");
 
+        svg.append("text")
+            .attr("x", ((width/2)+ 60))
+            .attr("y", 15)
+            .attr("text-anchor", "middle")
+            .attr("font-size", "20px")
+            .text("Total Incidents by Month (Click to see points)");
+
 var allMonths = [0,0,0,0,0,0,0,0,0,0,0,0];
         g.selectAll(".bar")
             .data(data)

@@ -24,13 +24,12 @@ function triggerMapPoints(Month) {
 
     monthLayerGroup = L.geoJson(incidents, {
         filter: monthFilter,
-        onEachFeature: displayPopUp.addPopups,
-
+        onEachFeature: displayPopUp.addPopups
     });
 
     function monthFilter(feature) {
         if (feature.properties.Month === Month) return true
-    };
+    }
 
     clusters.addLayer(monthLayerGroup);
     map.addLayer(clusters);
@@ -41,18 +40,17 @@ function triggerMapPoints(Month) {
 
     //info.update(incidents.feature.properties);
 }
-
+function monthFilter(feature) {
+    if (feature.properties.Month === i + 1) return true
+}
 
 
 function triggerMapReset(allMonths) {
     clusters.clearLayers();
     for (var i = 0; i < allMonths.length; i++) {
-        if (allMonths[i] == 1) {
+        if (allMonths[i] === 1) {
             monthLayerGroup = L.geoJson(incidents, { filter: monthFilter });
 
-            function monthFilter(feature) {
-                if (feature.properties.Month == i + 1) return true
-            };
             clusters.addLayer(monthLayerGroup);
             map.addLayer(clusters);
         }
@@ -98,15 +96,15 @@ function renderMyMap() {
         pointToLayer: pointToMarker
     }).addTo(map);
 
-    map.attributionControl.addAttribution('Gun Voilence data &copy; <a href="http://www.gunviolencearchive.org/">Gun Violence Archive</a>');
+    map.attributionControl.addAttribution('Gun Violence data &copy; <a href="http://www.gunviolencearchive.org/">Gun Violence Archive</a>');
 
-    var legend = L.control({ position: 'bottomright' });
+    var legend = L.control({ position: 'bottomright'});
 
     legend.onAdd = function (map) {
 
         var div = L.DomUtil.create('div', 'info legend'),
             grades = [0, 10, 20, 50, 100],
-            labels = [],
+            labels = ['<strong> Incidents by State </strong>'],
             from, to;
 
         for (var i = 0; i < grades.length; i++) {
@@ -142,7 +140,7 @@ info.update = function (props) {
 };
 
 
-// get color depending on population density value
+// get color depending on incedent density value
 function getColor(d) {
     return d > 1000 ? '#800026' :
         d > 500 ? '#BD0026' :
@@ -195,8 +193,7 @@ function zoomToFeature(e) {
 function onEachFeature(feature, layer) {
     layer.on({
         mouseover: highlightFeature,
-        mouseout: resetHighlight,
-        click: zoomToFeature,
+        mouseout: resetHighlight
     });
 
 }
