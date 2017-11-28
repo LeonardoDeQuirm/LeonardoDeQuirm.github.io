@@ -40,17 +40,17 @@ function triggerMapPoints(Month) {
 
     //info.update(incidents.feature.properties);
 }
-function monthFilter(feature) {
-    if (feature.properties.Month === i + 1) return true
-}
+
 
 
 function triggerMapReset(allMonths) {
     clusters.clearLayers();
     for (var i = 0; i < allMonths.length; i++) {
-        if (allMonths[i] === 1) {
+        if (allMonths[i] == 1) {
             monthLayerGroup = L.geoJson(incidents, { filter: monthFilter });
-
+            function monthFilter(feature) {
+                if (feature.properties.Month == i + 1) return true
+            };
             clusters.addLayer(monthLayerGroup);
             map.addLayer(clusters);
         }
@@ -81,8 +81,8 @@ function renderMyMap() {
         maxZoom: 10,
         minZoom: 4,
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-        '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-        'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+            '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+            'Imagery © <a href="http://mapbox.com">Mapbox</a>',
         id: 'mapbox.light'
     }).addTo(map);
 
@@ -98,7 +98,7 @@ function renderMyMap() {
 
     map.attributionControl.addAttribution('Gun Violence data &copy; <a href="http://www.gunviolencearchive.org/">Gun Violence Archive</a>');
 
-    var legend = L.control({ position: 'bottomright'});
+    var legend = L.control({ position: 'bottomright' });
 
     legend.onAdd = function (map) {
 
