@@ -14,9 +14,14 @@ window.onload = function () {
     renderMyLine();
 };
 //assigning displayPopUp to the fuction
-displayPopUp.addPopups = function (feature, layer) {
-
-    layer.bindPopup("<b>Address: </b>" + feature.properties.Address + " " + feature.properties.CityOrCounty + ", " + feature.properties.State + " <b>Date: </b>" + feature.properties.Month + "/" + feature.properties.Year);
+function addPopups(feature, layer) {
+    var monthFixed = feature.properties.Month;
+    if (feature.properties.Month<10){
+        monthFixed="0"+feature.properties.Month;
+    }
+    layer.bindPopup("<b>Address: </b>" + feature.properties.Address + 
+    "</br>" + feature.properties.CityOrCounty + ", " + feature.properties.StateAbr + 
+    "</br> <b>Date: </b>" + monthFixed+ "/" + feature.properties.Year);
 }
 var clusters = L.markerClusterGroup();
 var monthLayerGroup = L.geoJson;
@@ -24,7 +29,7 @@ function triggerMapPoints(Month) {
 
     monthLayerGroup = L.geoJson(incidents, {
         filter: monthFilter,
-        onEachFeature: displayPopUp.addPopups
+        onEachFeature: addPopups
     });
 
     function monthFilter(feature) {
@@ -47,7 +52,7 @@ function triggerMapReset(allMonths) {
     clusters.clearLayers();
     for (var i = 0; i < allMonths.length; i++) {
         if (allMonths[i] == 1) {
-            monthLayerGroup = L.geoJson(incidents, { filter: monthFilter });
+            monthLayerGroup = L.geoJson(incidents, { filter: monthFilter, onEachFeature: addPopups});
             function monthFilter(feature) {
                 if (feature.properties.Month == i + 1) return true
             };
