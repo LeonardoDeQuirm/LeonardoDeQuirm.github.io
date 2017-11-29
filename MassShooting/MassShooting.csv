@@ -1,3 +1,4 @@
+<<<<<<< HEAD:MassShooting/MassShooting.csv
 Address,CityOrCounty,State,Month,Day ,Year,Latitude,Longitude,StateAbr
 81st Street and Western Avenue,Los Angeles,California,12,31,2014,34.10482229,-118.4110473,CA
 Poydras and Bolivar,New Orleans,Louisiana,12,29,2014,30.06880013,-89.9308814,LA
@@ -1281,3 +1282,1288 @@ Hawkins Street and Christie Street,Newark,New Jersey,1,11,2017,40.72417185,-74.1
 114 North Greyer Street,Winstonville,Mississippi,1,1,2017,33.91229227,-90.75288358,MS
 9220 Skillman Street,Dallas,Texas,1,1,2017,32.9021858,-96.7143019,TX
 8000 block of NW 14th Ave,Miami,Florida,1,1,2017,25.77525637,-80.20885121,FL
+=======
+Address,CityOrCounty,State,Month,Day ,Year,Latitude,Longitude,StateAbr,Killed,Injured
+81st Street and Western Avenue,Los Angeles,California,12,31,2014,34.10482229,-118.4110473,CA,1,3
+Poydras and Bolivar,New Orleans,Louisiana,12,29,2014,30.06880013,-89.9308814,LA,0,4
+8800 block of South Figueroa Street,Los Angeles,California,12,27,2014,34.10482229,-118.4110473,CA,1,3
+4000 block of May Street,Sacramento,California,12,27,2014,38.56663215,-121.4682998,CA,0,4
+2500 block of Summit Avenue,East St. Louis,Illinois,12,26,2014,38.61532048,-90.13041434,IL,1,3
+18th and Pine,Saint Louis,Missouri,12,24,2014,38.30885939,-92.50820581,MO,1,3
+260 Oxford Drive,Winchester,Kentucky,12,23,2014,37.59576387,-85.40914763,KY,1,3
+191 Lake Road,Webster,New York,12,22,2014,43.21507648,-77.42239211,NY,1,3
+Charlevoix and Philip,Detroit,Michigan,12,22,2014,41.93132091,-83.3292499,MI,4,2
+5700 block of South Green Street,Chicago,Illinois,12,22,2014,41.83861021,-87.68661087,IL,0,5
+South Washington Boulevard,Sarasota,Florida,12,21,2014,27.30925191,-82.47885263,FL,2,2
+Central Avenue,Waynesboro,Mississippi,12,21,2014,31.67733135,-88.63532467,MS,1,4
+600 block of Escanba,Calumet City,Illinois,12,21,2014,41.61332017,-87.55057632,IL,1,8
+3200 block of Montrose Avenue,Rockford,Illinois,12,20,2014,42.26315005,-89.06121191,IL,4,0
+Anna Street,Elizabeth,New Jersey,12,16,2014,40.66531908,-74.19168022,NJ,0,4
+1311 Northwest 2nd Avenue,Miami,Florida,12,14,2014,25.77525637,-80.20885121,FL,7,0
+810 E. Skagway Ave.,Tampa,Florida,12,13,2014,27.96800236,-82.4763859,FL,1,4
+717 North Killingsworth Court,Portland,Oregon,12,12,2014,45.56202487,-122.6742725,OR,0,5
+2822 Bloomfield Drive,Macon,Georgia,12,12,2014,32.83205682,-83.64960509,GA,0,4
+16000 block of Roosevelt Road,South Bend,Indiana,12,7,2014,41.67725366,-86.26911678,IN,0,4
+6000 block of Virginia Avenue,Saint Louis,Missouri,12,2,2014,38.30885939,-92.50820581,MO,1,5
+6128 Jefferson Ave ,Newport News,Virginia,12,2,2014,37.07603548,-76.51651981,VA,0,5
+375 Remsen Avenue,Brooklyn,New York,11,30,2014,40.63439283,-73.95026864,NY,0,4
+2412 East 13th Street ,Chattanooga,Tennessee,11,30,2014,35.0246564,-85.2711177,TN,0,5
+1600 block of Richmond Avenue,Atlanta,Georgia,11,29,2014,33.76265247,-84.4231419,GA,3,2
+348 S Orange Ave,Newark,New Jersey,11,29,2014,40.72417185,-74.17242155,NJ,1,3
+1849 East Brooks Road ,Memphis,Tennessee,11,28,2014,35.0604872,-90.0021573,TN,0,4
+Pvt Rd 934,Georgetown,Texas,11,27,2014,30.66267037,-97.69285694,TX,2,3
+Mission and 13th streets,San Francisco,California,11,26,2014,37.75971499,-122.6939756,CA,0,6
+Parksley Road,Accomack County,Virginia,11,23,2014,37.64882817,-78.70157159,VA,0,4
+Federal Boulevard and 16th Avenue,Denver,Colorado,11,23,2014,39.76144202,-104.8767568,CO,1,4
+1400 block of East 92nd Street,Cleveland,Ohio,11,22,2014,41.51121521,-81.56356397,OH,4,1
+Fourth Avenue,Sisseton,South Dakota,11,22,2014,45.66249829,-97.0452929,SD,4,1
+Clifton Avenue and Rice Street,Springfield,Ohio,11,22,2014,39.92952538,-83.79298401,OH,1,3
+600 block of Miller Avenue,Pittsburgh,Pennsylvania,11,21,2014,40.43946574,-79.97631573,PA,0,6
+700 block of North St. Louis Avenue,Chicago,Illinois,11,19,2014,41.83861021,-87.68661087,IL,1,3
+Englestad Street,North Las Vegas,Nevada,11,18,2014,36.28967984,-115.087181,NV,0,4
+1891 East Market Street,Akron,Ohio,11,16,2014,41.08004268,-81.52186217,OH,1,4
+115 S. Durango,El Paso,Texas,11,16,2014,31.8491633,-106.4326601,TX,0,6
+2555 N. Glenstone,Springfield,Missouri,11,15,2014,37.24367934,-93.26212835,MO,4,0
+NW 55th and 12th,Miami,Florida,11,15,2014,25.77525637,-80.20885121,FL,1,3
+499 E. Arrow Highway,Pomona,California,11,8,2014,37.24004903,-119.5032355,CA,0,5
+136th Street ,Compton,California,11,7,2014,33.89316026,-118.2256332,CA,0,4
+East 126th Street and North Compton Avenue,Los Angeles,California,11,7,2014,34.10482229,-118.4110473,CA,0,4
+1100 block of Alabama Street ,San Francisco,California,11,5,2014,37.75971499,-122.6939756,CA,0,4
+Yale Road and Ramill Road,Memphis,Tennessee,10,29,2014,35.10520292,-89.97735447,TN,0,5
+1410 Old Dover Road,Cadiz,Kentucky,10,26,2014,36.86936692,-87.8052169,KY,4,0
+5611 108th St Ne,Marysville,Washington,10,24,2014,48.095824,-122.1540407,WA,5,1
+2030 Arden Way,Sacramento,California,10,24,2014,38.56663215,-121.4682998,CA,2,3
+33-02 Queens Blvd,Queens,New York,10,18,2014,40.65749262,-73.8387599,NY,0,4
+192 Breezy Hill Road,Graniteville,South Carolina,10,18,2014,33.56458827,-81.8078973,SC,1,3
+Lenox Road,Brooklyn,New York,10,18,2014,40.63439283,-73.95026864,NY,0,4
+Mogul Street,Detroit,Michigan,10,16,2014,41.93132091,-83.3292499,MI,1,3
+6505 Bannor Lane,Peachtree Corners,Georgia,10,14,2014,32.6176611,-83.39219224,GA,3,2
+85 Mount Zion Road,Atlanta,Georgia,10,13,2014,33.6733216,-84.392133,GA,0,4
+1100 block of East March Lane,Stockton,California,10,12,2014,37.97672722,-121.3121116,CA,3,1
+Arthur Langford Jr Place,Atlanta,Georgia,10,12,2014,33.76265247,-84.4231419,GA,1,3
+222 Bleecker Street,Utica,New York,10,11,2014,43.09608173,-75.22610651,NY,0,5
+Auburn Avenue and Edgewood Avenue,Atlanta,Georgia,10,8,2014,33.76265247,-84.4231419,GA,0,4
+1846 Western Ave,Guilderland,New York,10,8,2014,42.70793931,-73.96310648,NY,4,0
+East 7 Mile Road and Sherwood Street,Detroit,Michigan,10,5,2014,42.38402073,-83.10165683,MI,1,5
+7300 block of Linda Drive,Jacksonville,Florida,10,5,2014,30.27926997,-81.37452585,FL,3,1
+1400 block of Gherald Street,Memphis,Tennessee,10,4,2014,35.169966,-89.920782,TN,0,4
+1925 West Holt Avenue ,Pomona,California,10,4,2014,34.062094,-117.7842994,CA,1,7
+29 Sandy Dam Lane,Walterboro,South Carolina,9,29,2014,32.8850099,-80.62033974,SC,0,4
+2300 block of West Fountain Way ,Fresno,California,9,29,2014,36.7826736,-119.794492,CA,0,4
+2800 block of Hope Street,Philadelphia,Pennsylvania,9,28,2014,40.00763806,-75.1339627,PA,0,15
+NW 7th Ave and NW 64th Street,Miami,Florida,9,28,2014,25.77525637,-80.20885121,FL,0,5
+2000 block East John Avenue,Saint Louis,Missouri,9,27,2014,38.30885939,-92.50820581,MO,1,4
+600 block of Turner Road,Darlington County,South Carolina,9,26,2014,33.85416558,-80.90959195,SC,0,4
+440 First St,East Liverpool,Ohio,9,21,2014,40.6307322,-80.5529596,OH,2,2
+N/A,Panola County,Mississippi,9,20,2014,32.60010548,-89.72682633,MS,0,4
+32-14 106th St,Queens,New York,9,19,2014,40.65749262,-73.8387599,NY,8,0
+NW 30th Street and NW 39th Terrace,Bell,Florida,9,18,2014,29.75687102,-82.86180347,FL,0,5
+Chef Menteur Highway and Dale Street,New Orleans,Louisiana,9,15,2014,30.06880013,-89.9308814,LA,3,1
+229 Naval Air Station Drive,Flour Bluff,Texas,9,14,2014,31.53834907,-99.6497468,TX,0,6
+225 E Fifth,Anchorage,Alaska,9,14,2014,61.2178547,-149.8800773,AK,1,7
+14000 block of Patton,Detroit,Michigan,9,11,2014,42.38402073,-83.10165683,MI,0,4
+2015 Orange Blossom Trail,Orlando,Florida,9,6,2014,28.4158857,-81.2987497,FL,0,5
+576 Poplar Street,Macon,Georgia,9,6,2014,32.83205682,-83.64960509,GA,0,5
+2400 block of Martin Luther King Boulevard,Flint,Michigan,9,4,2014,43.02363394,-83.69206403,MI,0,6
+East 27th and Stanford ,Los Angeles,California,9,3,2014,34.10482229,-118.4110473,CA,0,5
+25000 block of Fifth Street ,Highland,California,9,2,2014,34.11130069,-117.1652611,CA,2,3
+3622 Medgar Evers Boulevard,Jackson,Mississippi,9,2,2014,32.31702909,-90.21275137,MS,0,5
+200 block of South Q Street ,Livermore,California,8,31,2014,37.68593335,-121.7648896,CA,3,1
+820 Peach St,Brooksville,Florida,8,29,2014,28.54036852,-82.39050061,FL,1,3
+16600 block of Edmore,Detroit,Michigan,8,27,2014,42.38402073,-83.10165683,MI,3,4
+1400 block of Celis Street ,San Fernando,California,8,24,2014,34.28865208,-118.4362407,CA,1,3
+8300 block of South Halsted Street,Chicago,Illinois,8,24,2014,41.83861021,-87.68661087,IL,1,3
+1013 Carrie Street,Augusta,Georgia,8,24,2014,33.4665855,-81.974216,GA,0,5
+1400 block of Briarcrest Lane,Memphis,Tennessee,8,20,2014,35.10520292,-89.97735447,TN,0,4
+Main and Hyacinth streets,Saint Martinville,Louisiana,8,18,2014,30.8956711,-91.67752985,LA,1,3
+Purdue Street and Georgetown Avenue,East Palo Alto,California,8,17,2014,37.4670994,-122.1347052,CA,0,4
+Owens Avenue and H Street,Las Vegas,Nevada,8,17,2014,36.2277116,-115.2640448,NV,0,4
+153-38 118th Ave,Queens,New York,8,17,2014,40.65749262,-73.8387599,NY,0,4
+Edinboro Street,Boston,Massachusetts,8,17,2014,42.3322209,-71.01643176,MA,1,3
+West 3rd Street and Monroe Avenue,Plainfield,New Jersey,8,16,2014,40.61527819,-74.41587935,NJ,0,6
+122 Pierpont Avenue,Salt Lake City,Utah,8,16,2014,40.7640319,-111.8949274,UT,1,3
+797 Pope Street,Memphis,Tennessee,8,14,2014,35.1540216,-89.9560474,TN,0,4
+Treeland Drive,Clarksville,Tennessee,8,13,2014,36.56968315,-87.34323717,TN,0,4
+New Orleans and North Rocheblave streets,New Orleans,Louisiana,8,13,2014,30.06880013,-89.9308814,LA,1,3
+Oakmont Avenue,Buffalo,New York,8,12,2014,42.89225205,-78.85941404,NY,2,3
+Brent Circle,Bartow County,Georgia,8,12,2014,32.6176611,-83.39219224,GA,2,5
+5400 block of Burgundy St,New Orleans,Louisiana,8,10,2014,30.06880013,-89.9308814,LA,0,7
+16300 block of Heather Glen Road ,Moreno Valley,California,8,10,2014,33.92443141,-117.2045019,CA,0,6
+N Street SW,Washington,District of Columbia,8,10,2014,38.90477236,-77.01628888,DC,0,6
+N/A,Wrightsville,Georgia,8,10,2014,32.72650684,-82.71971422,GA,1,8
+400 3rd Ave N,Minneapolis,Minnesota,8,9,2014,44.98289244,-93.2753577,MN,0,4
+3000 block of N. 28th Street ,Milwaukee,Wisconsin,8,8,2014,43.0641114,-87.96721631,WI,1,3
+3426 Vassar NE,Albuquerque,New Mexico,8,8,2014,35.11925964,-106.614787,NM,0,4
+Second Street and Todd Place NE,Washington,District of Columbia,8,8,2014,38.90477236,-77.01628888,DC,3,1
+1700 block of Quincy Street ,Bakersfield,California,8,6,2014,35.35014666,-119.0312755,CA,0,5
+1100 block of Joseph E. Boone Boulevard NW,Atlanta,Georgia,8,4,2014,33.76265247,-84.4231419,GA,0,7
+3403 FM 1960,Humble,Texas,8,3,2014,29.99200229,-95.26578468,TX,0,5
+5200 block of Thekla ,Saint Louis,Missouri,8,3,2014,38.30885939,-92.50820581,MO,5,0
+4400 block of Rixeyville Road,Culpeper,Virginia,8,3,2014,37.64882817,-78.70157159,VA,0,5
+East 9th Street and Bridge Street,Columbia,Tennessee,8,3,2014,35.62237396,-87.04833843,TN,3,1
+5125 Wynell Street,Dallas,Texas,8,2,2014,32.6858348,-96.7825017,TX,0,7
+Acushnet Avenue,New Bedford,Massachusetts,8,2,2014,41.66149045,-70.93819641,MA,1,5
+Penn Avenue and 29th Street,Pittsburgh,Pennsylvania,8,2,2014,40.43946574,-79.97631573,PA,1,3
+1500 block of South Etting Street,Philadelphia,Pennsylvania,8,1,2014,40.00763806,-75.1339627,PA,3,2
+926 Bramblegate Road,Hope Mills,North Carolina,7,30,2014,34.96858368,-78.92175334,NC,1,4
+4900 block of North Front Street,Philadelphia,Pennsylvania,7,28,2014,40.00763806,-75.1339627,PA,0,5
+2000 block of East John Avenue,Saint Louis,Missouri,7,27,2014,38.30885939,-92.50820581,MO,1,3
+N/A,Pine Bluff,Arkansas,7,26,2014,34.21194436,-92.0173818,AR,0,8
+Royal Street,Sylvester,Georgia,7,26,2014,31.53039349,-83.83560546,GA,5,0
+35 Water Street,Saco,Maine,7,26,2014,43.4979291,-70.4488997,ME,1,6
+700 South California Avenue,Chicago,Illinois,7,25,2014,41.83861021,-87.68661087,IL,0,4
+700 block of Hickory St,Braddock,Pennsylvania,7,23,2014,40.41800581,-79.86292626,PA,0,4
+300 block of Foote Park Lane,Memphis,Tennessee,7,21,2014,35.10520292,-89.97735447,TN,0,6
+36 Welland Avenue,Irvington,New Jersey,7,21,2014,40.72418535,-74.23178999,NJ,1,3
+5103 block of Bunkum Rd,East Saint Louis,Illinois,7,20,2014,40.10756121,-89.1611563,IL,1,3
+Rancho Drive 3400 block ,Las Vegas,Nevada,7,20,2014,36.2277116,-115.2640448,NV,0,4
+1300 North Mason Avenue,Chicago,Illinois,7,19,2014,41.83861021,-87.68661087,IL,1,4
+Fulton Avenue ,Sacramento,California,7,14,2014,38.56663215,-121.4682998,CA,0,5
+84 West Park Place,Stamford,Connecticut,7,13,2014,41.0535459,-73.541298,CT,0,4
+1700 block of Lincoln Road NE,Washington,District of Columbia,7,13,2014,38.90477236,-77.01628888,DC,0,5
+12600 Renton Avenue South ,Skyway,Washington,7,13,2014,47.39092238,-120.7168928,WA,3,2
+1700 block of Summit Avenue,Pasadena,California,7,12,2014,34.15976348,-118.1389217,CA,1,3
+5200 West Quincy Street,Chicago,Illinois,7,11,2014,41.83861021,-87.68661087,IL,6,1
+711 Leaflet Ln,Spring,Texas,7,9,2014,29.78959742,-95.50408624,TX,0,5
+35 March Street,Providence,Rhode Island,7,8,2014,41.8416471,-71.424938,RI,0,4
+KY 194E,Stopover,Kentucky,7,7,2014,37.59576387,-85.40914763,KY,1,4
+312  E Baseline Street ,San Bernardino,California,7,7,2014,34.13970281,-117.2942335,CA,2,2
+NW 20th Ave and NW 62nd St,Miami,Florida,7,6,2014,25.77525637,-80.20885121,FL,0,4
+4600 block of Natural Bridge Avenue,Saint Louis,Missouri,7,6,2014,38.30885939,-92.50820581,MO,0,4
+100 block of Erb Street,Buffalo,New York,7,6,2014,42.89225205,-78.85941404,NY,0,4
+N/A,Kalamazoo,Michigan,7,5,2014,42.27491205,-85.58815842,MI,1,4
+333 SE 122ND Ave,Portland,Oregon,7,5,2014,45.51993074,-122.5382346,OR,0,7
+Broad Ripple Avenue,Indianapolis,Indiana,7,5,2014,39.77710046,-86.14634767,IN,0,5
+4700 Piggott Avenue,Centreville,Illinois,7,5,2014,38.58268811,-90.10060236,IL,0,6
+1700 Almeda-Genoa,Houston,Texas,7,5,2014,29.7804724,-95.3863425,TX,0,7
+861 W. 36th Street,Norfolk,Virginia,7,5,2014,36.8782415,-76.2974231,VA,0,5
+1722 Thurgood Street,Norfolk,Virginia,7,4,2014,36.8259323,-76.26244,VA,0,5
+1400 block of West Congress Street,Chester,Pennsylvania,7,2,2014,40.89023896,-78.22929368,PA,1,3
+Scottsdale Circle,Lexington,Kentucky,6,30,2014,38.0423254,-84.45872596,KY,1,9
+1100 block of North Vermont Avenue,Los Angeles,California,6,29,2014,34.10482229,-118.4110473,CA,1,5
+700 Bourbon Street,New Orleans,Louisiana,6,29,2014,29.9586123,-90.0654629,LA,0,4
+2800 block of Dayton,Saint Louis,Missouri,6,29,2014,38.30885939,-92.50820581,MO,0,7
+5500 Cedar Point Way,Antioch,California,6,28,2014,37.97787558,-121.7969287,CA,0,4
+Fifth Avenue and West 139th Street,Manhattan,New York,6,28,2014,40.77427471,-73.96981042,NY,1,3
+1800 block of Cathy Street,San Diego,California,6,27,2014,32.81689046,-117.1333353,CA,1,3
+1600 block of Cathy Street,San Diego,California,6,27,2014,32.81689046,-117.1333353,CA,2,2
+Grand Street and Lasalle Street,Detroit,Michigan,6,27,2014,41.93132091,-83.3292499,MI,2,2
+Grand St,Detroit,Michigan,6,26,2014,41.93132091,-83.3292499,MI,0,5
+24th and Locust,Milwaukee,Wisconsin,6,26,2014,43.0641114,-87.96721631,WI,0,5
+Midland Street,Lowell,Massachusetts,6,25,2014,42.63887273,-71.3217144,MA,2,7
+Northwest 12th Avenue and 65th Street,Miami,Florida,6,24,2014,25.77525637,-80.20885121,FL,1,3
+Windsor Avenue,Windsor,California,6,22,2014,38.5417584,-122.808561,CA,0,4
+Florida Avenue and U Street NW,Washington,District of Columbia,6,21,2014,38.90477236,-77.01628888,DC,0,5
+2119 East Alcy Road,Memphis,Tennessee,6,21,2014,35.0777944,-89.9918915,TN,0,4
+6600 block of Greig Street,Seat Pleasant,Maryland,6,20,2014,38.8953124,-76.90140836,MD,0,4
+5100 Clinton Drive,Kokomo,Indiana,6,15,2014,40.47551079,-86.1327861,IN,0,4
+200 Berry Street,Park Forest,Illinois,6,15,2014,41.48175571,-87.68679054,IL,3,1
+8600 block of South Figueroa Street,Los Angeles,California,6,13,2014,34.10482229,-118.4110473,CA,0,6
+Rosa Parks Boulevard and Godwin Avenue,Paterson,New Jersey,6,9,2014,40.9146875,-74.16241812,NJ,1,4
+611 Hardin Street,Opp,Alabama,6,8,2014,31.2848263,-86.25698094,AL,1,5
+Tish Lane,Moncks Corner,South Carolina,6,7,2014,33.1961361,-79.9785296,SC,1,3
+10811 W. Ten Mile Rd.,Oak Park,Michigan,6,7,2014,42.46499395,-83.18233058,MI,1,3
+4900 West West End Avenue,Chicago,Illinois,6,4,2014,41.83861021,-87.68661087,IL,1,4
+Auburn Avenue,Atlanta,Georgia,6,3,2014,33.76265247,-84.4231419,GA,0,7
+2660 E. 79th St,Chicago,Illinois,6,2,2014,41.83861021,-87.68661087,IL,1,5
+West Ferdinand Street and North Lavergne Avenue ,Chicago,Illinois,6,1,2014,41.83861021,-87.68661087,IL,0,4
+6500 46th Street,Sacramento,California,6,1,2014,38.56663215,-121.4682998,CA,1,3
+N/A,San Bernardino,California,5,31,2014,34.13970281,-117.2942335,CA,1,3
+2100 block of Joffre Avenue,Toledo,Ohio,5,25,2014,41.66409973,-83.58189036,OH,0,4
+Strathmoor Street,Detroit,Michigan,5,24,2014,41.93132091,-83.3292499,MI,3,1
+Ocean Boulevard near First Avenue North,Myrtle Beach,South Carolina,5,24,2014,33.7108008,-78.8858621,SC,4,8
+840 Embarcadero Del Norte,Goleta (Isla Vista),California,5,23,2014,37.24004903,-119.5032355,CA,1,7
+6200 block of Eads Street,New Orleans,Louisiana,5,23,2014,30.06880013,-89.9308814,LA,2,2
+9541 Flower Street,Bellflower,California,5,23,2014,33.88804179,-118.1271002,CA,1,3
+4500 block of Village Fair Drive,Dallas,Texas,5,21,2014,32.79464486,-96.76633721,TX,0,7
+1643 Cleveland Rd,Sandusky,Ohio,5,18,2014,41.4426595,-82.6860756,OH,1,3
+84000 block of Pedro Drive,Coachella,California,5,17,2014,33.69102002,-116.145093,CA,0,5
+2200 block of Adams Place NE,Washington,District of Columbia,5,17,2014,38.90477236,-77.01628888,DC,0,5
+Panther Trail and Childress Drive,Atlanta,Georgia,5,13,2014,33.76265247,-84.4231419,GA,0,4
+3400 West 24th Street,Chicago,Illinois,5,12,2014,41.83861021,-87.68661087,IL,1,6
+Peregrine Park,Sacramento,California,5,11,2014,38.56663215,-121.4682998,CA,0,7
+2517 Shasta,Memphis,Tennessee,5,11,2014,35.1688035,-89.9730998,TN,1,3
+1100 To Lani Farm Road,Stone Mountain,Georgia,5,10,2014,32.6176611,-83.39219224,GA,1,6
+Natomas,Sacramento,California,5,10,2014,38.56663215,-121.4682998,CA,2,3
+Shamrock Drive ,Decatur,Georgia,5,10,2014,33.77121517,-84.29675277,GA,1,3
+500 West Erie Street,Chicago,Illinois,5,4,2014,41.83861021,-87.68661087,IL,0,4
+12100 W 44th,Wheat Ridge,Colorado,5,4,2014,39.77276295,-105.1031431,CO,4,4
+2201 Moore Road; Dalton Farmer Drive; County Road 664,Jonesboro,Arkansas,5,3,2014,35.82081215,-90.67949917,AR,0,4
+7200 South Phillips Avenue,Chicago,Illinois,4,30,2014,41.83861021,-87.68661087,IL,1,6
+1675 Airport Road,Kennesaw,Georgia,4,29,2014,34.02554801,-84.61742735,GA,0,5
+Fourth Street,Troy,New York,4,27,2014,42.73545935,-73.67513394,NY,2,3
+2000 Chelsea Avenue,Memphis,Tennessee,4,25,2014,35.10520292,-89.97735447,TN,1,3
+6419 Brynhurst Avenue,Los Angeles,California,4,22,2014,33.98108521,-118.334191,CA,0,6
+1300 block of Jackson St,Montgomery,Illinois,4,20,2014,41.7240358,-88.36341049,IL,2,2
+2902 N. 32nd St.,Tampa,Florida,4,20,2014,27.96800236,-82.4763859,FL,0,5
+6600 South Michigan Ave,Chicago,Illinois,4,20,2014,41.83861021,-87.68661087,IL,0,4
+1500 block of 19th Street,Washington,District of Columbia,4,14,2014,38.90477236,-77.01628888,DC,1,3
+2100 block of Pauger Street,New Orleans,Louisiana,4,12,2014,30.06880013,-89.9308814,LA,0,4
+North 15th and H Streets,Richmond,Indiana,4,11,2014,39.82203943,-86.38015459,IN,3,1
+Kellys Ferry Road and Kellys Ferry Place,Lookout Valley,Tennessee,4,9,2014,35.85185663,-86.27777991,TN,0,4
+300 North Sunset,Rockford,Illinois,4,9,2014,42.26315005,-89.06121191,IL,0,4
+500 block of South Alexander Street,New Orleans,Louisiana,4,7,2014,30.06880013,-89.9308814,LA,0,4
+90 Worthington St.,Springfield,Massachusetts,4,6,2014,42.1154978,-72.53952541,MA,0,4
+Northwest 29th Street and Portland Avenue,Oklahoma City,Oklahoma,4,6,2014,35.46760197,-97.51913834,OK,1,5
+4300 W Wilcox Street,Chicago,Illinois,4,5,2014,41.83861021,-87.68661087,IL,1,3
+West Palm Lane near 54th Avenue,Phoenix,Arizona,4,5,2014,33.5721625,-112.0879662,AZ,0,4
+Orchid Street ,Fairfield,California,4,5,2014,38.25583678,-122.0393174,CA,4,16
+Motor Pool Road and Tank Destroyer Boulevard,Fort Hood,Texas,4,2,2014,31.53834907,-99.6497468,TX,0,5
+N/A,Starkville,Mississippi,3,30,2014,33.46083149,-88.82974123,MS,0,5
+4300 Sunset Road,Charlotte,North Carolina,3,30,2014,35.20787221,-80.83007545,NC,1,3
+2700 Majesty Drive,Arlington,Texas,3,23,2014,32.69987097,-97.12592206,TX,1,3
+601 Long Beach Boulevard,Long Beach,California,3,23,2014,33.77447058,-118.1897737,CA,0,7
+Turk and Taylor,San Francisco,California,3,23,2014,37.75971499,-122.6939756,CA,0,4
+7550 Dorchester Road,North Charleston,South Carolina,3,21,2014,32.90326565,-80.07882812,SC,3,1
+S 4th St,Beaumont,Texas,3,16,2014,31.53834907,-99.6497468,TX,0,4
+4960 Highway 80 West ,Waynesboro,Georgia,3,16,2014,33.09111228,-82.01459104,GA,0,4
+S. Second and Roebling Sts,Brooklyn,New York,3,14,2014,40.63439283,-73.95026864,NY,3,1
+531 W State St,Fremont,Ohio,3,9,2014,40.42858964,-82.70242359,OH,0,6
+ 4900 block of West Race Avenue,Austin,Texas,3,9,2014,30.3071816,-97.7559964,TX,0,6
+4900 West Race Ave,Chicago,Illinois,3,8,2014,41.83861021,-87.68661087,IL,1,3
+1600 block of First Street,Richmond,California,3,8,2014,37.24004903,-119.5032355,CA,3,2
+Law Street,Pelzer,South Carolina,3,5,2014,34.64489401,-82.46048327,SC,1,4
+Hamilton Avenue,Pittsburgh,Pennsylvania,3,1,2014,40.43946574,-79.97631573,PA,0,4
+7800 Gratiot Av.,Detroit,Michigan,3,1,2014,41.93132091,-83.3292499,MI,5,1
+Graceland Lane,Glade Spring,Virginia,2,25,2014,36.78996138,-81.77253778,VA,0,4
+1200 block of W Papeete St,Wilmington,California,2,22,2014,37.24004903,-119.5032355,CA,4,2
+300 W 1st St,Alturas,California,2,20,2014,41.49111133,-120.5490909,CA,4,0
+3400 block of South Parker,Indianapolis,Indiana,2,20,2014,39.77710046,-86.14634767,IN,1,4
+ 115 NW 25th St.,Fort Worth,Texas,2,16,2014,32.7897197,-97.3500396,TX,1,6
+4500 block of Riviera Shores ,Orange County,Florida,2,16,2014,28.14683286,-83.20422736,FL,1,4
+1187 S. Edgewood Ave.,Jacksonville,Florida,2,16,2014,30.3085542,-81.713339,FL,1,7
+2600 block of South Harwood Street,Dallas,Texas,2,16,2014,32.79464486,-96.76633721,TX,0,5
+Lafayette Street and East Tillman Road,Fort Wayne,Indiana,2,16,2014,41.08849204,-85.14358989,IN,0,5
+Sahara and Maryland ,Las Vegas,Nevada,2,15,2014,36.2277116,-115.2640448,NV,0,5
+2220 block of Broadway,Gary,Indiana,2,12,2014,41.59560282,-87.3452059,IN,1,3
+37th and International ,Oakland,California,2,12,2014,37.77108878,-122.2249767,CA,1,3
+Constitution Park,Stockton,California,2,12,2014,37.97672722,-121.3121116,CA,0,5
+Northwest 41st Street and 9th Avenue ,Miami,Florida,2,7,2014,25.77525637,-80.20885121,FL,0,4
+4600 block of Downman Road,New Orleans,Louisiana,2,6,2014,30.06880013,-89.9308814,LA,1,3
+6740 N Clark St,Chicago,Illinois,2,5,2014,41.83861021,-87.68661087,IL,3,2
+2100 block of Bridlewood Dr,Franklin,Indiana,2,3,2014,39.49341111,-86.0541974,IN,0,4
+821 Word Plaza,Rocky Mount,North Carolina,1,27,2014,35.3662481,-79.42939386,NC,1,4
+2nd Avenue South and South Main Street,Seattle,Washington,1,27,2014,47.62024593,-122.3506866,WA,1,4
+S. Union Av and W. 51st St,Chicago,Illinois,1,25,2014,41.83861021,-87.68661087,IL,0,4
+600 block of Covenant Drive,Belle Glade,Florida,1,25,2014,26.68571942,-80.66829208,FL,2,3
+Springfield Avenue ,Newark,New Jersey,1,21,2014,40.72417185,-74.17242155,NJ,0,4
+8509 Rixlew Ln,Manassas,Virginia,1,20,2014,38.772486,-77.5017812,VA,5,0
+37 N. 630 West,Spanish Fork,Utah,1,16,2014,40.1103537,-111.6654104,UT,2,4
+N/A,Ardmore,Oklahoma,1,16,2014,34.19465273,-97.12487423,OK,0,4
+West 86th Street,Los Angeles,California,1,14,2014,34.10482229,-118.4110473,CA,0,4
+800 block of Calvert St,Detroit,Michigan,1,13,2014,41.93132091,-83.3292499,MI,0,6
+3600 block of Highway 80 W,Tallulah,Louisiana,1,12,2014,30.8956711,-91.67752985,LA,0,5
+University Drive,Huntsville,Alabama,1,12,2014,34.7842707,-86.5389964,AL,0,5
+300 block of North Street,Elgin,Illinois,1,12,2014,42.0396386,-88.3217094,IL,1,3
+Farmers Boulevard and 133rd Avenue,Queens,New York,1,3,2014,40.65749262,-73.8387599,NY,2,2
+Rockingham Street and Berkley Avenue Extended,Norfolk,Virginia,1,1,2014,36.92334179,-76.24561422,VA,0,6
+1900 block of Amelia Street,New Orleans,Louisiana,12,31,2015,30.06880013,-89.9308814,LA,0,4
+North Parkway,Jackson,Tennessee,12,27,2015,35.64931359,-88.83075059,TN,0,4
+4210 Macalester St,Philadelphia,Pennsylvania,12,26,2015,40.01431508,-75.12100204,PA,0,4
+Franklin and Odessa,Jacksonville,Florida,12,25,2015,30.27926997,-81.37452585,FL,0,4
+785 Schillinger Rd S,Mobile,Alabama,12,25,2015,30.6729471,-88.2216501,AL,0,4
+14600 block of East 14th Street,San Leandro,California,12,21,2015,37.70433697,-122.1632161,CA,1,4
+11th and Castle Street,Wilmington,North Carolina,12,20,2015,35.3662481,-79.42939386,NC,1,4
+21630 Southwest 120th Avenue,Miami (Goulds),Florida,12,20,2015,28.14683286,-83.20422736,FL,0,4
+Northeast Seventh Avenue and Northeast 166th Street,Miami-dade (county),Florida,12,20,2015,28.14683286,-83.20422736,FL,1,3
+5550 S. Flower Street,Los Angeles,California,12,13,2015,34.10482229,-118.4110473,CA,0,4
+17000 block of Keelson Lane,Huntington Beach,California,12,13,2015,33.69062091,-118.0072308,CA,0,4
+Whitaker Street,Savannah,Georgia,12,12,2015,32.02831938,-81.17815866,GA,1,3
+307 Jefferson St,Lovejoy (Brooklyn),Illinois,12,12,2015,40.10756121,-89.1611563,IL,1,3
+5100 block of Park Heights Avenue,Baltimore,Maryland,12,11,2015,39.23545018,-76.63677351,MD,0,4
+200 block of  Brownsville Road,Pittsburgh (Mount Oliver),Pennsylvania,12,11,2015,40.99568088,-77.78712223,PA,1,3
+2300 block of Baltimore Avenue,Cincinnati (Fairmount),Ohio,12,8,2015,40.42858964,-82.70242359,OH,1,3
+Market Street,Raceland,Louisiana,12,6,2015,29.72820769,-90.63621156,LA,2,3
+North 108th Street and Military Road,Omaha,Nebraska,12,6,2015,41.26588379,-96.05382374,NE,16,19
+1365 South Waterman Avenue,San Bernardino,California,12,2,2015,34.0757659,-117.2774672,CA,1,3
+100 block of West 33rd Street,Savannah,Georgia,12,2,2015,32.02831938,-81.17815866,GA,0,5
+648 E. Court St,Kankakee,Illinois,11,29,2015,41.10161741,-87.86482915,IL,3,9
+3480 Centennial Blvd,Colorado Springs,Colorado,11,27,2015,38.8672553,-104.760749,CO,2,2
+7900 block of Florin Road,Sacramento,California,11,27,2015,38.56663215,-121.4682998,CA,0,4
+1321 Colletta Court,Horry (county),South Carolina,11,24,2015,33.85416558,-80.90959195,SC,4,1
+90 block of S. Terrace Avenue,Columbus,Ohio,11,23,2015,40.91903272,-84.05946017,OH,0,5
+Morgan Avenue North,Minneapolis,Minnesota,11,23,2015,44.96354079,-93.26783453,MN,0,4
+1800 block of FM 802,Brownsville,Texas,11,22,2015,26.00035625,-97.47037951,TX,0,4
+Broadway and Pike,Seattle,Washington,11,22,2015,47.62024593,-122.3506866,WA,0,5
+203 Broadway,Newburgh,New York,11,22,2015,41.50369729,-74.02047219,NY,1,3
+Park Circle,North Charleston,South Carolina,11,22,2015,32.9173424,-80.0651497,SC,0,4
+4100 block of West Roosevelt,Chicago,Illinois,11,22,2015,41.83861021,-87.68661087,IL,0,17
+1900 block of Gallier Street,New Orleans,Louisiana,11,22,2015,30.06880013,-89.9308814,LA,1,3
+Stricker and School,Baltimore,Maryland,11,21,2015,39.23545018,-76.63677351,MD,1,3
+Prospect Drive,Pittsburgh,Pennsylvania,11,20,2015,40.43946574,-79.97631573,PA,0,5
+California Avenue and Martin Luther King Jr. Boulevard,Fresno,California,11,18,2015,36.7826736,-119.794492,CA,3,1
+1400 block of County Road 664,Cherokee (county),Alabama,11,16,2015,32.63501642,-86.80937931,AL,0,4
+5600 block of Blakemore Street,Philadelphia,Pennsylvania,11,15,2015,40.00763806,-75.1339627,PA,5,0
+800 block of County Road 2217,Tennessee Colony,Texas,11,15,2015,31.53834907,-99.6497468,TX,0,4
+1159 Main St,Johnstown,Pennsylvania,11,14,2015,40.32547358,-78.91894525,PA,4,1
+1300 block of South Shirley Oaks Drive,Jacksonville,Florida,11,13,2015,30.27926997,-81.37452585,FL,2,2
+400 block of North Beville Ave,Indianapolis,Indiana,11,9,2015,39.77710046,-86.14634767,IN,1,3
+4397 NW 6th Drive,Des Moines,Iowa,11,8,2015,41.6402178,-93.6261485,IA,0,4
+13859 8 Mile Road,Warren,Michigan,11,8,2015,42.49280464,-83.02702386,MI,1,3
+Bayaud and Bannock,Denver,Colorado,11,7,2015,39.76144202,-104.8767568,CO,0,4
+1000 block of Feliz Drive,Bakersfield,California,11,6,2015,35.35014666,-119.0312755,CA,2,3
+Ella Street and Kings Road,Jacksonville,Florida,11,3,2015,30.3369138,-81.66090703,FL,4,0
+2217 Refuge Road,Pendleton,South Carolina,11,2,2015,34.6474007,-82.7484817,SC,1,3
+400 block of Morgan Street,Houma,Louisiana,10,28,2015,29.57986996,-90.70562347,LA,0,5
+1700 block of Southcrest Drive,Fort Worth,Texas,10,27,2015,32.7795423,-97.3463354,TX,0,5
+711 E Virginia St,Evansville,Indiana,10,26,2015,37.98671582,-87.53827073,IN,0,5
+2339 Stricklands Crossroads Road,Four Oaks,North Carolina,10,25,2015,35.45036974,-78.41724109,NC,1,4
+Seventh Street and Broadway,Phoenix,Arizona,10,25,2015,33.5721625,-112.0879662,AZ,0,5
+4300 block of Wheeler Road SE,Washington,District of Columbia,10,25,2015,38.90477236,-77.01628888,DC,0,4
+682 Dixie Ave.,Bamberg,South Carolina,10,24,2015,33.29959281,-81.03222935,SC,1,3
+3500 John A. Merritt Blvd,Nashville,Tennessee,10,22,2015,36.1683326,-86.828524,TN,0,6
+300 Campbell Avenue,Calumet City,Illinois,10,19,2015,41.61332017,-87.55057632,IL,0,4
+2600 block of Caffin Avenue,New Orleans,Louisiana,10,18,2015,30.06880013,-89.9308814,LA,1,4
+2224 First St,Fort Myers,Florida,10,17,2015,26.6439561,-81.8697314,FL,0,4
+160 Easy Shopping Place,Elkhart,Indiana,10,17,2015,41.69184954,-85.96623839,IN,0,4
+4731 Glenwood Road,Decatur,Georgia,10,12,2015,33.77121517,-84.29675277,GA,0,6
+6135 Mount Moriah Road,Memphis,Tennessee,10,10,2015,35.0702049,-89.8593567,TN,0,4
+1900 block of West Boulevard,Charlotte,North Carolina,10,10,2015,35.20787221,-80.83007545,NC,1,3
+2405 N Flora,Peoria,Illinois,10,10,2015,40.75167856,-89.61567418,IL,1,3
+216 E Mountain View Drive,Flagstaff,Arizona,10,9,2015,35.1888369,-111.6498032,AZ,0,5
+300 block of North Payson Street,Baltimore,Maryland,10,6,2015,39.23545018,-76.63677351,MD,1,4
+5400 Reisterstown Road,Baltimore,Maryland,10,2,2015,39.3460233,-76.6883337,MD,10,9
+1140 Umpqua College Rd,Roseburg,Oregon,10,1,2015,43.26473233,-123.3034787,OR,0,5
+1800 block of Hewitt Avenue,Cincinnati (Evanston),Ohio,9,28,2015,40.42858964,-82.70242359,OH,3,2
+300 block of West 42nd Street,Chicago,Illinois,9,28,2015,41.83861021,-87.68661087,IL,2,3
+5300 block of South Aberdeen Street,Chicago,Illinois,9,28,2015,41.83861021,-87.68661087,IL,0,4
+1921 Oakridge,Dayton,Ohio,9,28,2015,39.7583862,-84.2358021,OH,0,10
+1140 Hill Haven Road,Greenville,Georgia,9,27,2015,33.0322358,-84.71622391,GA,0,4
+5200 block of South Justine,Chicago,Illinois,9,27,2015,41.83861021,-87.68661087,IL,0,4
+1700 E. 18th St.,Kansas City,Missouri,9,27,2015,38.30885939,-92.50820581,MO,0,4
+1300 block of May Street,Danville,Illinois,9,25,2015,40.14209413,-87.61195,IL,0,5
+5100 block of South Morgan Street,Chicago,Illinois,9,24,2015,41.83861021,-87.68661087,IL,0,5
+2900 block of Peach Street,Shreveport,Louisiana,9,23,2015,30.8956711,-91.67752985,LA,0,4
+Dale Street and Veronica S. Shoemaker Boulevard,Fort Myers,Florida,9,23,2015,26.61950094,-81.83031527,FL,1,3
+1300 block of Reddington Lane,Norcross,Georgia,9,23,2015,33.94099007,-84.20981416,GA,1,3
+900 block of Pratt Street,Philadelphia,Pennsylvania,9,20,2015,40.00763806,-75.1339627,PA,1,5
+5700 block of South LaSalle,Chicago,Illinois,9,20,2015,41.83861021,-87.68661087,IL,0,6
+Pine and Yale,Tulsa,Oklahoma,9,20,2015,36.13544967,-95.91306967,OK,1,3
+3900 block of Graceland Avenue,Indianapolis,Indiana,9,19,2015,39.77710046,-86.14634767,IN,6,0
+36705 379th Street,Geddes,South Dakota,9,17,2015,43.25329266,-98.69784861,SD,0,4
+500 block of W. Broadwell Street,Albion,Michigan,9,17,2015,42.24778964,-84.75724624,MI,0,4
+Irvine Turner Boulevard and West Kinney Street,Newark,New Jersey,9,15,2015,40.72417185,-74.17242155,NJ,1,5
+1910 South Pine Avenue,Ocala,Florida,9,13,2015,29.1681687,-82.1388776,FL,0,4
+1500 block of Clanton Street,Shreveport,Louisiana,9,12,2015,30.8956711,-91.67752985,LA,2,4
+36 Woodward Street,Rochester,New York,9,12,2015,43.1644384,-77.5993455,NY,0,6
+1st Ave. and N. 5th St.,Minneapolis,Minnesota,9,12,2015,44.96354079,-93.26783453,MN,1,3
+1200 block of 22nd Ave. N.,Minneapolis,Minnesota,9,12,2015,44.96354079,-93.26783453,MN,0,5
+1000 North Carolina Music Factory Blvd.,Charlotte,North Carolina,9,11,2015,35.20787221,-80.83007545,NC,5,0
+Channel Drive,Excelsior (Greenwood),Minnesota,9,10,2015,46.36813604,-93.71317296,MN,0,4
+N/A,Berlin,Georgia,9,8,2015,31.0678495,-83.62387996,GA,0,4
+56th and Green,Chicago,Illinois,9,8,2015,41.83861021,-87.68661087,IL,2,4
+9300 block of Sunrise,Gary,Indiana,9,7,2015,41.59560282,-87.3452059,IN,0,4
+1909 Blake Street,Denver,Colorado,9,7,2015,39.75370287,-104.9955519,CO,1,3
+6800 block of Fieldvale Place,Charlotte,North Carolina,9,5,2015,35.20787221,-80.83007545,NC,0,4
+300 block of Pearl Street,Daytona Beach,Florida,9,5,2015,29.19768392,-81.08995843,FL,1,3
+5000 block of Hollywood Boulevard,Las Vegas,Nevada,9,5,2015,36.2277116,-115.2640448,NV,0,4
+1509 Ashley Street,Columbia,Missouri,9,5,2015,38.9479389,-92.3260968,MO,1,4
+3300 block of Sobota Circle,Memphis,Tennessee,8,30,2015,35.10520292,-89.97735447,TN,3,2
+618 Henson Road,Bristol,Tennessee,8,29,2015,36.55604316,-82.21430545,TN,1,3
+638 ENE Loop 323,Tyler,Texas,8,29,2015,32.3154021,-95.30500938,TX,1,3
+589 Flatbush Avenue,Brooklyn,New York,8,28,2015,40.63439283,-73.95026864,NY,2,2
+928 Blanco Circle,Salinas,California,8,27,2015,36.68891743,-121.631812,CA,2,2
+3025 W. Van Buren Ave,Chicago,Illinois,8,26,2015,41.83861021,-87.68661087,IL,0,4
+5000 block of Drew Avenue North,Minneapolis (Brooklyn Center),Minnesota,8,26,2015,46.36813604,-93.71317296,MN,2,2
+800 block of 19th Street,West Palm Beach,Florida,8,26,2015,26.74681035,-80.13150971,FL,1,3
+Fern Street and Olive Street,New Orleans,Louisiana,8,25,2015,30.06880013,-89.9308814,LA,1,7
+1100 block of Kansas Avenue,Modesto,California,8,23,2015,37.66031058,-120.989212,CA,0,4
+State Road 408,Orlando (Pine Hills),Florida,8,22,2015,28.14683286,-83.20422736,FL,3,1
+302 East Reed Street,Roswell,New Mexico,8,22,2015,33.37291265,-104.5293172,NM,0,8
+2700 block of Hinson Drive,Durham,North Carolina,8,21,2015,35.9809638,-78.9056471,NC,2,5
+Mathis and Prentice,Cincinnati,Ohio,8,21,2015,39.14291321,-84.50366914,OH,2,2
+FM 2360,Grulla (La Grulla),Texas,8,20,2015,31.53834907,-99.6497468,TX,3,4
+500 Genesee St,Rochester,New York,8,19,2015,42.6687355,-75.44096178,NY,0,6
+3651 Sycamore School Rd,Fort Worth,Texas,8,16,2015,32.7795423,-97.3463354,TX,0,4
+5400 block of West Division Street,Chicago,Illinois,8,16,2015,41.83861021,-87.68661087,IL,0,5
+Highway 38N,Bennettsville,South Carolina,8,16,2015,34.63040898,-79.68741982,SC,1,3
+West Prospect Avenue,Pittsburgh,Pennsylvania,8,15,2015,40.43946574,-79.97631573,PA,0,4
+57th Street and South Normandie Avenue,Los Angeles,California,8,15,2015,34.10482229,-118.4110473,CA,1,3
+2868 Bamberg Road,Orangeburg,South Carolina,8,15,2015,33.4788074,-80.9089569,SC,0,4
+1700 block of East 10th Street,Long Beach,California,8,10,2015,33.80574739,-118.1612131,CA,1,3
+Poplar Street,Forest,Mississippi,8,9,2015,32.35952155,-89.47611934,MS,1,3
+15200 block of Hazelridge,Detroit,Michigan,8,9,2015,42.38402073,-83.10165683,MI,0,4
+40th Street and Pennsylvania Avenue,Kansas City,Missouri,8,9,2015,38.30885939,-92.50820581,MO,2,3
+4908 Greenwood Drive,Gastonia,North Carolina,8,8,2015,35.19240603,-81.23976246,NC,1,11
+833 Anderson Street,Blytheville,Arkansas,8,8,2015,35.9193718,-89.8966749,AR,8,0
+2211 Falling Oaks,Houston,Texas,8,8,2015,29.91980399,-95.4518521,TX,4,0
+3182 Airport Road,Barre (Berlin),Vermont,8,7,2015,44.02009856,-72.61472563,VT,0,4
+1505 Garden Plaza,Columbia,South Carolina,8,6,2015,34.0297833,-80.8965664,SC,1,4
+2500 block of Semple,Saint Louis,Missouri,8,4,2015,38.30885939,-92.50820581,MO,0,5
+98 Dwight Street,Brooklyn,New York,8,3,2015,40.63439283,-73.95026864,NY,0,9
+Stanley Avenue and Crescent Street,Brooklyn,New York,8,2,2015,40.63439283,-73.95026864,NY,0,7
+2700 block of Garrison Avenue,Baltimore,Maryland,8,2,2015,39.30097988,-76.61064805,MD,1,4
+4800 block of West Kamerling Avenue,Chicago,Illinois,8,2,2015,41.83861021,-87.68661087,IL,0,5
+Barnard Street,Savannah,Georgia,8,2,2015,32.02831938,-81.17815866,GA,0,4
+6700 block of South Winchester Avenue,Chicago,Illinois,8,2,2015,41.83861021,-87.68661087,IL,0,4
+5801 Shenandoah Way,Orlando,Florida,8,1,2015,28.5323938,-81.3081236,FL,0,4
+Brushton Avenue,Pittsburgh,Pennsylvania,7,30,2015,40.43946574,-79.97631573,PA,0,5
+900 block of Kent Street,Rockford,Illinois,7,27,2015,42.26315005,-89.06121191,IL,2,3
+Thompson and Colorado,Kansas City,Missouri,7,26,2015,38.30885939,-92.50820581,MO,0,4
+Piety and Treasure street,New Orleans,Louisiana,7,26,2015,30.06880013,-89.9308814,LA,0,4
+500 block of N. 7th Ave,Hopewell,Virginia,7,25,2015,37.29136494,-77.29854198,VA,2,4
+200 block of W 29th St,Erie,Pennsylvania,7,24,2015,42.1166824,-80.07314347,PA,3,9
+3141 Johnson Street,Lafayette,Louisiana,7,23,2015,30.2115732,-92.0313942,LA,5,0
+5500 block of Old Atlanta Road,Suwanee,Georgia,7,22,2015,34.0505716,-84.06872212,GA,1,3
+Northwest 25th Avenue and Miami Gardens Drive,Miami Gardens,Florida,7,21,2015,25.94326339,-80.24253322,FL,0,6
+E. 153rd St. and the Grand Concourse,Bronx,New York,7,20,2015,40.84911597,-73.85295233,NY,0,4
+100 block of North Capitol Street,Suffolk,Virginia,7,19,2015,36.70178203,-76.63409891,VA,0,6
+2928 W Kentucky St,Louisville,Kentucky,7,19,2015,38.2436806,-85.802412,KY,0,4
+Interstate 64 and Raliegh Street,Rocky Mount,North Carolina,7,19,2015,35.3662481,-79.42939386,NC,0,4
+200 block of South Bancroft Street,San Diego,California,7,18,2015,32.81689046,-117.1333353,CA,0,5
+Ojai-Santa Paula Street,Santa Paula,California,7,18,2015,34.35208913,-119.0697213,CA,1,4
+1550 Weston Ct NE,Salem,Oregon,7,18,2015,44.92329071,-123.0249508,OR,2,2
+300 block of Brice Street,Baton Rouge,Louisiana,7,18,2015,30.4507665,-91.12584647,LA,0,5
+4400 block of W. Maypole,Chicago,Illinois,7,17,2015,41.83861021,-87.68661087,IL,0,4
+3100 block of Sunshine Avenue,Cincinnati (Westwood),Ohio,7,17,2015,40.42858964,-82.70242359,OH,6,2
+4051 Amnicola Highway,Chattanooga,Tennessee,7,16,2015,35.0950826,-85.2534227,TN,0,5
+Singleton and Hampton,Dallas,Texas,7,16,2015,32.79464486,-96.76633721,TX,0,5
+500 block of Center Hill Avenue,Atlanta,Georgia,7,15,2015,33.76265247,-84.4231419,GA,1,3
+3500 block of West Garrison Boulevard,Baltimore,Maryland,7,15,2015,39.30097988,-76.61064805,MD,0,7
+700 block of Thornhill,Cleveland,Ohio,7,15,2015,41.47926574,-81.68021483,OH,0,4
+9200 block of Memorial,Detroit,Michigan,7,15,2015,41.93132091,-83.3292499,MI,4,1
+7050 Old State Road,Holly Hill,South Carolina,7,15,2015,33.85416558,-80.90959195,SC,0,4
+1100 block of Riverview,Saint Louis,Missouri,7,14,2015,38.30885939,-92.50820581,MO,0,4
+11959 162nd Street,Norwalk,California,7,13,2015,33.90688083,-118.0829152,CA,1,4
+400 block of McCloud Avenue,Stockton,California,7,13,2015,37.97672722,-121.3121116,CA,2,3
+116 Lathrop Avenue,River Forest,Illinois,7,12,2015,41.8818791,-87.8148992,IL,0,4
+Sip and Van Wagenen avenues,Jersey City,New Jersey,7,12,2015,40.12272985,-74.70346139,NJ,1,3
+East 162nd Street and Miles Avenue,Cleveland,Ohio,7,7,2015,41.47926574,-81.68021483,OH,3,1
+900 block of West Fayette Street,Baltimore,Maryland,7,7,2015,39.23545018,-76.63677351,MD,0,8
+3500 block of Hearne Avenue,Shreveport,Louisiana,7,5,2015,30.8956711,-91.67752985,LA,0,9
+1400 block of McCulloch Street,Fort Wayne,Indiana,7,5,2015,41.08849204,-85.14358989,IN,1,3
+200 block of S. Clinton St,East Orange,New Jersey,7,5,2015,40.76505914,-74.21186062,NJ,1,3
+2600 Douglas Place SE,Washington,District of Columbia,7,4,2015,38.8566268,-76.988052,DC,0,4
+2500 block of West Broadway,Louisville,Kentucky,7,4,2015,38.1780769,-85.6667077,KY,1,4
+Dewey Avenue,Pittsfield,Massachusetts,7,4,2015,42.45170258,-73.26051754,MA,0,4
+Bellevue and Rich Street,Syracuse,New York,7,4,2015,42.6687355,-75.44096178,NY,0,4
+1100 block of West Avenue,San Antonio,Texas,7,4,2015,31.53834907,-99.6497468,TX,1,3
+Lynn and Michigan,Indianapolis,Indiana,7,2,2015,39.77710046,-86.14634767,IN,0,4
+13450 NW 30th Ave,Opa Locka,Florida,6,29,2015,28.14683286,-83.20422736,FL,0,5
+Gratiot and Loretto,Detroit,Michigan,6,28,2015,41.93132091,-83.3292499,MI,0,6
+N/A,Venice,Illinois,6,28,2015,38.67196255,-90.16885895,IL,0,6
+100 block of East St,Harrington,Delaware,6,28,2015,38.92443369,-75.57056872,DE,1,3
+Weir Street,Taunton,Massachusetts,6,27,2015,41.90358547,-71.09429142,MA,0,4
+Stringham Court,Detroit,Michigan,6,27,2015,42.38402073,-83.10165683,MI,0,4
+2110 Madison Ave,New York (Manhattan),New York,6,24,2015,42.6687355,-75.44096178,NY,0,7
+700 block of East Hilton Street,Philadelphia,Pennsylvania,6,22,2015,40.00763806,-75.1339627,PA,0,4
+Rebecca and East Swissvale Avenue,Pittsburgh (Wilkinsburg),Pennsylvania,6,21,2015,40.99568088,-77.78712223,PA,1,4
+726 Georgetown St,Lexington,Kentucky,6,21,2015,38.0423254,-84.45872596,KY,1,11
+Dexter and Webb,Detroit,Michigan,6,20,2015,42.38402073,-83.10165683,MI,0,4
+N/A,Morven,North Carolina,6,20,2015,34.8643106,-80.00001344,NC,0,11
+4100 block of Ogden Street,Philadelphia,Pennsylvania,6,20,2015,40.00763806,-75.1339627,PA,0,4
+80 River Street,Woonsocket,Rhode Island,6,19,2015,42.0003818,-71.5177178,RI,9,0
+110 Calhoun Street,Charleston,South Carolina,6,17,2015,32.7874404,-79.9330345,SC,0,4
+600 block of Northwest 177th Street,Miami Gardens,Florida,6,16,2015,25.94326339,-80.24253322,FL,0,4
+673 Flatbush Avenue,Brooklyn,New York,6,15,2015,40.63439283,-73.95026864,NY,1,3
+2800 block of Mitchell Street,Camden,New Jersey,6,14,2015,39.936191,-75.10729619,NJ,0,4
+1800 block of North Kingston,Tulsa,Oklahoma,6,14,2015,36.13544967,-95.91306967,OK,0,4
+1400 block of North Market Street,Saint Louis,Missouri,6,14,2015,38.30885939,-92.50820581,MO,1,4
+600 block of Highway 279,Fayetteville,Georgia,6,13,2015,33.44825966,-84.46125164,GA,1,3
+451 North Flynn Street,Milledgeville,Georgia,6,13,2015,33.0883377,-83.2411491,GA,0,5
+2409 Creston Avenue,Bronx,New York,6,13,2015,40.84911597,-73.85295233,NY,0,4
+500 block of Se 69th St,Oklahoma City,Oklahoma,6,13,2015,35.46760197,-97.51913834,OK,4,1
+1623 E. Hudson Street,Columbus,Ohio,6,13,2015,40.01337313,-82.96638132,OH,0,4
+24th Avenue and 36th Street,Allapattah,Florida,6,12,2015,28.14683286,-83.20422736,FL,1,8
+468 Trumbull Avenue,Bridgeport,Connecticut,6,11,2015,41.18705826,-73.19553341,CT,1,3
+3400 block of Burkett,Houston,Texas,6,11,2015,29.7804724,-95.3863425,TX,1,3
+South Vermont Avenue and West 88th Street,Los Angeles,California,6,10,2015,34.10482229,-118.4110473,CA,1,3
+North Market Street and North Spring Avenue,Saint Louis,Missouri,6,9,2015,38.30885939,-92.50820581,MO,5,0
+Boulder Creek Road,Deer Lodge,Montana,6,7,2015,46.39761789,-112.7329334,MT,1,4
+100 block of Warren Avenue,Buffalo,New York,6,6,2015,42.89225205,-78.85941404,NY,0,5
+100 block of North Lorel Avenue,Chicago,Illinois,6,6,2015,41.83861021,-87.68661087,IL,0,5
+900 block of West 3rd St,Davenport,Iowa,6,5,2015,41.55564824,-90.60545667,IA,1,3
+2100 block of Governor Nicholls Street,New Orleans,Louisiana,6,5,2015,30.06880013,-89.9308814,LA,3,1
+Davidson Street,Wyandanch,New York,6,3,2015,40.74674088,-73.37693842,NY,3,1
+16209 block of Laverne Avenue,Cleveland,Ohio,5,31,2015,41.47926574,-81.68021483,OH,1,3
+9222 Ardwick Ardmore Road,Springdale,Maryland,5,31,2015,38.93833208,-76.84227076,MD,0,5
+849 Chapel Street,New Haven,Connecticut,5,31,2015,41.3058756,-72.9251339,CT,3,2
+4669 Bell Road SE,Conyers,Georgia,5,31,2015,33.66436216,-83.99681243,GA,0,4
+4200 block of Market Street,San Diego,California,5,30,2015,32.81689046,-117.1333353,CA,0,4
+84th and Q,Omaha,Nebraska,5,28,2015,41.26588379,-96.05382374,NE,0,5
+6200 block of South Honore Street,Chicago,Illinois,5,28,2015,41.83861021,-87.68661087,IL,1,3
+2700 block of West 3rd Street,Chester,Pennsylvania,5,28,2015,39.84562785,-75.37183417,PA,2,2
+6700 block of Tara Lane,New Orleans,Louisiana,5,26,2015,30.06880013,-89.9308814,LA,1,4
+1816 N Water,Decatur,Illinois,5,25,2015,39.85565673,-88.93382251,IL,0,5
+1002 Main St,Brockton,Massachusetts,5,24,2015,42.08207137,-71.02416563,MA,0,7
+W. 12th Street and Hammerberg Road.,Flint,Michigan,5,24,2015,43.02363394,-83.69206403,MI,1,3
+Smiley Court,Montgomery,Alabama,5,24,2015,32.34724369,-86.2672602,AL,0,4
+2700 block of Dayton,Saint Louis,Missouri,5,24,2015,38.30885939,-92.50820581,MO,2,2
+2400 block of South 9th Street,Fresno,California,5,23,2015,36.7826736,-119.794492,CA,1,3
+800 block of Linwood Avenue,Baltimore,Maryland,5,20,2015,39.30097988,-76.61064805,MD,0,4
+8000 block of School Way,Kinloch,Missouri,5,18,2015,38.73840365,-90.32495329,MO,1,4
+Northwest 75th Street and Northwest 16th Avenue,Miami,Florida,5,18,2015,25.77525637,-80.20885121,FL,9,18
+4671 S Jack Kultgen Fwy,Waco,Texas,5,17,2015,31.55913715,-97.18666982,TX,0,5
+28th Street and Auer Avenue,Milwaukee,Wisconsin,5,16,2015,43.0641114,-87.96721631,WI,0,4
+188 Lewis Street,Rochester,New York,5,16,2015,43.1642834,-77.5928747,NY,0,5
+1700 block of North Broadway,Baltimore,Maryland,5,16,2015,39.30097988,-76.61064805,MD,1,4
+Pard Road,Capitol Heights,Maryland,5,12,2015,38.87695016,-76.90745885,MD,5,0
+800 block of West Calle Medina Road,Tucson,Arizona,5,12,2015,32.15690153,-110.8775061,AZ,1,4
+3600 block of Bosworth Rd,Cleveland,Ohio,5,10,2015,41.47926574,-81.68021483,OH,0,4
+Bostwick Avenue,Jersey City,New Jersey,5,10,2015,40.12272985,-74.70346139,NJ,1,3
+19th Avenue and South 16th Street,Newark,New Jersey,5,10,2015,40.72417185,-74.17242155,NJ,0,4
+2300 block of Baltimore Avenue,Cincinnati,Ohio,5,7,2015,39.14291321,-84.50366914,OH,0,4
+16000 block of Cathedral Street,Detroit,Michigan,5,7,2015,41.93132091,-83.3292499,MI,1,3
+100 block of Roosevelt Avenue,Buffalo,New York,5,4,2015,42.89225205,-78.85941404,NY,0,4
+1600 block of South William Street,South Bend,Indiana,5,3,2015,41.67725366,-86.26911678,IN,0,6
+San Jacinto at Elgin,Houston,Texas,5,3,2015,29.7804724,-95.3863425,TX,0,4
+University Avenue,Bronx,New York,5,3,2015,40.84911597,-73.85295233,NY,1,6
+2801 Germantown Street,Dayton,Ohio,5,3,2015,39.7387998,-84.2402221,OH,4,1
+Friendship Trail,Menasha,Wisconsin,5,3,2015,44.21353106,-88.42738001,WI,2,3
+3700 block of 37th Street,Milwaukee,Wisconsin,5,1,2015,43.0641114,-87.96721631,WI,2,4
+1365 Flatbush Ave,Brooklyn,New York,4,27,2015,40.63439283,-73.95026864,NY,2,2
+State Route 85,Gila Bend,Arizona,4,27,2015,32.98338575,-112.7345936,AZ,0,4
+Wood Street,Trenton,New Jersey,4,25,2015,40.223729,-74.76399433,NJ,1,6
+24 Hinchey Rd,Gates,New York,4,25,2015,43.1569298,-77.69300858,NY,2,3
+420 Gilmer St.,Killeen,Texas,4,21,2015,31.1241111,-97.7367645,TX,0,4
+200 block of West Hill Street,Richmond,Virginia,4,19,2015,37.64882817,-78.70157159,VA,0,5
+1800 block of Gibbs Court,Montgomery,Alabama,4,18,2015,32.34724369,-86.2672602,AL,0,5
+321 Pine St,Williamsport,Pennsylvania,4,18,2015,41.2406692,-77.0034136,PA,1,3
+Martin Luther King Drive,Lumberton,North Carolina,4,18,2015,34.63068701,-79.01818214,NC,0,4
+Bost Street,Charlotte,North Carolina,4,18,2015,35.20787221,-80.83007545,NC,1,3
+Rosa Parks Blvd and Godwin Ave,Paterson,New Jersey,4,18,2015,40.9146875,-74.16241812,NJ,5,0
+4300 block of East Anderson Drive,Phoenix,Arizona,4,16,2015,33.5721625,-112.0879662,AZ,1,3
+20 Copeland Street,Rome,Georgia,4,7,2015,34.26764516,-85.18809465,GA,1,3
+Dinwiddie Street,Pittsburgh,Pennsylvania,4,5,2015,40.43946574,-79.97631573,PA,1,4
+40th and Grand Street,Louisville,Kentucky,4,5,2015,38.1780769,-85.6667077,KY,0,5
+5000 block of Wildflower Court,Indianapolis,Indiana,4,5,2015,39.77710046,-86.14634767,IN,0,4
+1000 block of Blossom Lane,Benton Harbor,Michigan,4,5,2015,42.11604289,-86.44841017,MI,0,4
+300 block of Henry Butts Drive,Daytona Beach,Florida,4,3,2015,29.19768392,-81.08995843,FL,0,5
+1900 block of West Lanvale Street,Baltimore,Maryland,4,2,2015,39.23545018,-76.63677351,MD,0,7
+5312 Thomas Drive,Panama City Beach,Florida,3,27,2015,28.14683286,-83.20422736,FL,0,4
+3100 block of Redwood,Amarillo,Texas,3,26,2015,35.20038355,-101.8282925,TX,4,0
+3100 block of North Harding Street,Indianapolis,Indiana,3,24,2015,39.77710046,-86.14634767,IN,1,4
+900 block of Carpenter Street,Clarksville,Tennessee,3,23,2015,36.56968315,-87.34323717,TN,1,6
+10140 Lomas NE,Albuquerque,New Mexico,3,22,2015,35.1055517,-106.6473884,NM,0,4
+1802 Seventh Ave,Tampa,Florida,3,21,2015,27.96800236,-82.4763859,FL,1,5
+1500 block of Reynolds Street,Lancaster,Texas,3,20,2015,31.53834907,-99.6497468,TX,1,3
+200 block of Clinton Place,Newark,New Jersey,3,18,2015,40.72417185,-74.17242155,NJ,1,5
+1504 West Main Street,Mesa,Arizona,3,18,2015,33.4150455,-111.8633583,AZ,3,4
+748 N Madison St,Stockton,California,3,17,2015,37.97672722,-121.3121116,CA,0,4
+2700 block of West Alondra Boulevard,Compton,California,3,15,2015,33.89316026,-118.2256332,CA,0,5
+2900 block of Delmar Lane,Atlanta,Georgia,3,14,2015,33.76265247,-84.4231419,GA,0,4
+84000 block of Bagdad Avenue,Coachella,California,3,14,2015,33.69102002,-116.145093,CA,2,3
+1097 South First St.,Brookhaven,Mississippi,3,13,2015,31.58035526,-90.44323571,MS,0,5
+3023 Victory Drive,Columbus,Georgia,3,10,2015,32.5099615,-84.87704106,GA,1,3
+200 block of West 105th,Chicago,Illinois,3,9,2015,41.83861021,-87.68661087,IL,1,3
+Wells Highway,Seneca,South Carolina,3,8,2015,34.68035607,-82.96207895,SC,0,4
+3140 Olive St,Saint Louis,Missouri,3,7,2015,38.30885939,-92.50820581,MO,2,5
+190 block of West Club Center Drive,San Bernardino,California,3,4,2015,34.13970281,-117.2942335,CA,0,4
+4900 block of Steyr Street,Orange County,Florida,3,1,2015,28.14683286,-83.20422736,FL,1,5
+9855 Chalmers St,Detroit,Michigan,3,1,2015,42.38402073,-83.10165683,MI,1,3
+4300 block of Welbourne Road,Baltimore,Maryland,2,28,2015,39.30097988,-76.61064805,MD,8,1
+18279 Highway H,Tyrone,Missouri,2,26,2015,38.30885939,-92.50820581,MO,3,1
+5022 Mallow St,Houston,Texas,2,25,2015,29.65943987,-95.34769874,TX,0,4
+Sheridan Road,Daytona Beach,Florida,2,23,2015,29.19768392,-81.08995843,FL,4,1
+1706 Godman St.,Killeen,Texas,2,22,2015,31.120662,-97.6827687,TX,3,2
+281 Lower Pond Court,Clarkesville,Georgia,2,22,2015,34.6309815,-83.5977582,GA,0,4
+4224 Dorchester Road,Charleston,South Carolina,2,22,2015,32.8541985,-80.0058338,SC,0,4
+1417 R Street,Sacramento,California,2,20,2015,38.56663215,-121.4682998,CA,1,3
+7900 Scott Hamilton,Little Rock,Arkansas,2,17,2015,34.6779332,-92.3207959,AR,0,5
+200 block of W. 14th Street,Long Beach,California,2,15,2015,33.80574739,-118.1612131,CA,3,1
+9552 Adler Street,New Port Richey,Florida,2,9,2015,28.24656621,-82.71696025,FL,0,6
+251 Dupree Rd,Friendship,Tennessee,2,8,2015,35.90737763,-89.24079491,TN,5,2
+3640 Willow Tree Circle,Douglasville,Georgia,2,7,2015,33.73821118,-84.70627006,GA,1,4
+1219 N. Sheridan Road,Tulsa,Oklahoma,2,6,2015,36.13544967,-95.91306967,OK,3,3
+Harvard Road,Beachwood (Warrensville Heights),Ohio,2,5,2015,40.42858964,-82.70242359,OH,0,6
+1217 West Fayette Street,Syracuse,New York,2,1,2015,42.6687355,-75.44096178,NY,1,4
+3345 Broadway,New York (Manhattan),New York,2,1,2015,42.6687355,-75.44096178,NY,4,0
+100 block of Woodstream Trail,Lagrange,Georgia,1,31,2015,33.02943338,-85.03610052,GA,1,3
+1600 block of Panola Road,Dekalb County,Georgia,1,28,2015,32.6176611,-83.39219224,GA,1,3
+1500 block of E. 9th Street,Stockton,California,1,26,2015,37.97672722,-121.3121116,CA,4,1
+231-11 148th Avenue,Arverne (Queens),New York,1,24,2015,42.6687355,-75.44096178,NY,3,5
+3402 Parker St,Omaha,Nebraska,1,24,2015,41.2766659,-95.9632482,NE,0,6
+954 Parker Street,Boston,Massachusetts,1,23,2015,42.32421,-71.10047,MA,1,3
+321 Lansinger Lane,Clarksville,Tennessee,1,20,2015,36.56968315,-87.34323717,TN,2,5
+1000 block of Gibbs St.,San Antonio,Texas,1,19,2015,31.53834907,-99.6497468,TX,2,2
+4100 block of Portsmouth Boulevard,Portsmouth,Virginia,1,13,2015,36.85892862,-76.35663454,VA,0,5
+700 block of Oakley Avenue,Rockford,Illinois,1,13,2015,42.26315005,-89.06121191,IL,2,5
+1900 block of Gumberry Road,Hope Mills,North Carolina,1,11,2015,34.96859881,-78.95332579,NC,1,3
+7665 Chase Road,Lakeland,Florida,1,11,2015,28.1393481,-81.9818733,FL,0,5
+3840 Monterey Hwy,San Jose,California,1,11,2015,37.24004903,-119.5032355,CA,2,2
+4859 E Harry Street,Wichita,Kansas,1,10,2015,37.6906938,-97.3426776,KS,4,0
+Laguna and Page streets,San Francisco,California,1,9,2015,37.75971499,-122.6939756,CA,1,3
+104 Harrishof Street,Boston,Massachusetts,1,8,2015,42.31668,-71.08869,MA,1,3
+773 West Main Street,Chattanooga,Tennessee,1,7,2015,35.06804894,-85.24908097,TN,1,3
+1300 block of NW 62nd Street,Miami,Florida,1,6,2015,25.77525637,-80.20885121,FL,2,4
+3634 Shenandoah Ave NW,Roanoke,Virginia,1,4,2015,37.28100328,-79.99849222,VA,3,1
+2000 block of Ben Hur St.,Dallas,Texas,1,4,2015,32.79464486,-96.76633721,TX,1,4
+500 block of W. 54th Street,Savannah,Georgia,1,2,2015,32.02831938,-81.17815866,GA,0,5
+Interstate 240 and Poplar Avenue,Memphis,Tennessee,1,1,2015,35.10520292,-89.97735447,TN,2,2
+27 Briarwood Ct,Lenox (El Dorado),Georgia,12,31,2016,32.6176611,-83.39219224,GA,1,3
+3704 Fannin Street,Houston,Texas,12,31,2016,29.7804724,-95.3863425,TX,0,5
+3230 Possum Run Rd,Mansfield,Ohio,12,30,2016,40.76557206,-82.52756264,OH,2,2
+95 S Turnpike Road,Wallingford,Connecticut,12,30,2016,41.4486685,-72.846189,CT,1,4
+2914 10th Street,Columbus,Georgia,12,28,2016,32.5099615,-84.87704106,GA,0,4
+858 US-231,Ozark,Alabama,12,25,2016,31.44861044,-85.64654368,AL,3,4
+8600 block of South Maryland Avenue,Chicago,Illinois,12,25,2016,41.83861021,-87.68661087,IL,1,5
+4 North 3rd Avenue,Mount Vernon,New York,12,25,2016,40.91360085,-73.82910018,NY,0,7
+490 K Ford Rd,Madison,North Carolina,12,24,2016,36.38682806,-79.97493395,NC,4,0
+2241 Banks Lane East,Wilson,North Carolina,12,24,2016,35.7345877,-77.9314952,NC,1,3
+3813 Richard Arrington Boulevard North,Birmingham,Alabama,12,23,2016,32.63501642,-86.80937931,AL,0,4
+4900 block of West Hubbard,Chicago,Illinois,12,23,2016,41.83861021,-87.68661087,IL,0,4
+4115 N. Tryon Street,Charlotte,North Carolina,12,17,2016,35.20787221,-80.83007545,NC,5,0
+100 block of West 105th Street,Chicago (Roseland),Illinois,12,17,2016,40.10756121,-89.1611563,IL,2,2
+4300 block of South Rockwell,Chicago,Illinois,12,16,2016,41.83861021,-87.68661087,IL,0,4
+13th and South Kedzie,Chicago,Illinois,12,16,2016,41.83861021,-87.68661087,IL,1,3
+4800 block of Myrtle Avenue,Sacramento,California,12,12,2016,38.56663215,-121.4682998,CA,0,4
+192 Knickerbocker Ave,Brooklyn,New York,12,11,2016,40.63439283,-73.95026864,NY,1,4
+4305 N Pine Hills Rd,Orlando (Pine Hills),Florida,12,11,2016,28.5959774,-81.450956,FL,0,5
+3916 South Hanover Street,Baltimore,Maryland,12,11,2016,39.2349142,-76.6116844,MD,0,4
+1200 block of East Highland Ave,Rocky Mount,North Carolina,12,11,2016,35.3662481,-79.42939386,NC,4,0
+15300 block of Market,Channelview,Texas,12,9,2016,29.79136675,-95.11502412,TX,0,4
+842 Fresno Street,Fresno,California,12,9,2016,36.72772265,-119.8034045,CA,4,1
+1532 Stagecoach Lane,Albuquerque,New Mexico,12,5,2016,35.1055517,-106.6473884,NM,0,6
+91st Street and Western Avenue,Los Angeles,California,12,3,2016,34.10482229,-118.4110473,CA,0,6
+3 1st Ave,Bloomfield,New Jersey,12,2,2016,40.80982702,-74.18694884,NJ,1,3
+N/A,Clearlake Oaks,California,12,1,2016,39.02190323,-122.6591908,CA,2,4
+2901 Garrison Blvd,Baltimore,Maryland,11,30,2016,39.3207155,-76.6770759,MD,1,3
+1840 West Palma Vista Drive,Mission (Palmview),Texas,11,28,2016,31.53834907,-99.6497468,TX,0,4
+1067 McDonald Avenue,Wilmington,California,11,28,2016,37.24004903,-119.5032355,CA,0,4
+300 block of West 2nd Street,San Pedro,California,11,28,2016,37.24004903,-119.5032355,CA,1,9
+100 block of Bourbon Street,New Orleans,Louisiana,11,27,2016,30.06880013,-89.9308814,LA,0,7
+Gregory and Prospect,Kansas City,Missouri,11,27,2016,38.30885939,-92.50820581,MO,1,5
+8800 block of S Exchange Ave,Chicago,Illinois,11,26,2016,41.83861021,-87.68661087,IL,0,4
+Magnolia Street and Felicity Street,New Orleans,Louisiana,11,25,2016,30.06880013,-89.9308814,LA,2,4
+4501 W Broadway,Louisville,Kentucky,11,24,2016,38.2514994,-85.8275634,KY,1,3
+77 Central Ave,Albany,New York,11,24,2016,42.66639697,-73.79868263,NY,0,4
+928 Cross Road,Olive Branch,Mississippi,11,23,2016,34.8474141,-89.8654396,MS,1,4
+1068 Harlem Academy Avenue,Clewiston,Florida,11,22,2016,26.75320047,-80.93990713,FL,0,4
+5000 block of West Wabansia,Chicago,Illinois,11,18,2016,41.83861021,-87.68661087,IL,1,7
+160 Longfellow,Dyersburg,Tennessee,11,17,2016,36.04595613,-89.37819637,TN,3,2
+5105 Cleveland Rd,Jacksonville,Florida,11,13,2016,30.3649245,-81.7060216,FL,0,4
+8000 Midcrown,San Antonio,Texas,11,13,2016,31.53834907,-99.6497468,TX,3,2
+3800 block of Marlborough Avenue,San Diego,California,11,13,2016,32.81689046,-117.1333353,CA,0,4
+Conley Street and South Ivey Lane,Orlando,Florida,11,13,2016,28.4158857,-81.2987497,FL,1,5
+8600 block of Ardith Drive,Sacramento,California,11,12,2016,38.56663215,-121.4682998,CA,1,3
+21st St and Cleveland Ave,Kansas City,Missouri,11,12,2016,38.30885939,-92.50820581,MO,0,5
+2500 Park Avenue,Bridgeport,Connecticut,11,12,2016,41.18705826,-73.19553341,CT,0,4
+7705 Channelside Street,Houston,Texas,11,11,2016,29.7804724,-95.3863425,TX,1,3
+6610 S Sam Houston Pkwy W,Houston,Texas,11,10,2016,29.7804724,-95.3863425,TX,0,5
+1524 3rd Ave,Seattle,Washington,11,9,2016,47.6105993,-122.3380513,WA,1,3
+3400 block of W Monroe,Chicago,Illinois,11,9,2016,41.83861021,-87.68661087,IL,0,4
+1800 block of East Brooks Road,Memphis,Tennessee,11,9,2016,35.10520292,-89.97735447,TN,1,3
+3135 West Broward Boulevard,Fort Lauderdale (Lauderhill),Florida,11,5,2016,28.14683286,-83.20422736,FL,0,4
+10726 Perrin Beitel Rd,San Antonio,Texas,11,5,2016,31.53834907,-99.6497468,TX,0,5
+803 Main St,Myrtle Beach,South Carolina,11,5,2016,33.6935892,-78.8843059,SC,0,8
+420 14th Street,Oakland,California,11,5,2016,37.8042559,-122.2703024,CA,0,5
+4800 block of North Winthrop,Chicago,Illinois,11,5,2016,41.83861021,-87.68661087,IL,0,4
+5451 Springfield Ave,Philadelphia,Pennsylvania,11,4,2016,39.94000389,-75.22552609,PA,2,2
+8000 block of S Shore Dr,Chicago,Illinois,11,3,2016,41.83861021,-87.68661087,IL,2,2
+234 Cleveland Street,Orange,New Jersey,11,3,2016,40.12272985,-74.70346139,NJ,1,4
+2111 Bragg Street,Little Rock,Arkansas,11,2,2016,34.7280381,-92.2659877,AR,1,5
+5200 block of Zodiac Rd,Memphis,Tennessee,11,1,2016,35.10520292,-89.97735447,TN,0,4
+700 Block of W 68th St,Shreveport,Louisiana,10,31,2016,30.8956711,-91.67752985,LA,0,4
+742 Junction Ave,Toledo,Ohio,10,30,2016,41.6481458,-83.5770341,OH,0,4
+135 Ridge Street,New York (Manhattan),New York,10,30,2016,42.6687355,-75.44096178,NY,2,5
+119 First Street,Newburgh,New York,10,30,2016,41.50369729,-74.02047219,NY,3,3
+6860 Walker Mill Road,Capitol Heights,Maryland,10,30,2016,38.87695016,-76.90745885,MD,0,5
+2900 block of Aspen Meadow,San Antonio,Texas,10,30,2016,31.53834907,-99.6497468,TX,1,3
+2010 Cornell Ridge Dr,Dayton,Ohio,10,29,2016,39.77961307,-84.20082874,OH,0,5
+1600 block of Century Boulevard,Los Angeles,California,10,29,2016,34.10482229,-118.4110473,CA,0,4
+3500 block of Madison Street,Riverside,California,10,29,2016,33.93812516,-117.3948458,CA,0,6
+200 block of Lorenz Blvd,Jackson,Mississippi,10,28,2016,32.31702909,-90.21275137,MS,0,4
+Northwest 173rd Terrace and 27th Avenue,Miami Gardens,Florida,10,28,2016,25.94326339,-80.24253322,FL,4,0
+600 block of Moccasin Gap Road,Jackson,Georgia,10,27,2016,33.2910663,-83.96814417,GA,1,3
+3300 block of Riverside Dr,Dayton,Ohio,10,25,2016,39.77961307,-84.20082874,OH,2,3
+830 Campbell Avenue Southeast,Roanoke,Virginia,10,25,2016,37.27821818,-79.9581616,VA,1,5
+Highway 66 and N 3310 Rd,Wellston,Oklahoma,10,23,2016,35.68602046,-97.06146991,OK,0,7
+77th and Bancroft Avenues,Oakland,California,10,22,2016,37.77108878,-122.2249767,CA,0,4
+325 La Grande Ave,San Francisco,California,10,18,2016,37.75971499,-122.6939756,CA,1,4
+6700 block of South Winchester,Chicago (Englewood),Illinois,10,17,2016,40.10756121,-89.1611563,IL,0,5
+1800 block of St Stephens Road,Mobile,Alabama,10,15,2016,30.66726266,-88.10116594,AL,1,5
+7801 East State St,Rockford,Illinois,10,15,2016,42.26315005,-89.06121191,IL,4,11
+2918 Rimpau Blvd,Los Angeles,California,10,15,2016,34.0271838,-118.3508704,CA,1,6
+3300 block of W Maypole Ave,Chicago,Illinois,10,14,2016,41.83861021,-87.68661087,IL,0,4
+2700 block of West Lexington,Chicago,Illinois,10,13,2016,41.83861021,-87.68661087,IL,1,8
+1850 28th Street SE,Grand Rapids,Michigan,10,9,2016,42.96148154,-85.65568585,MI,1,3
+1696 Arden Way,Sacramento,California,10,9,2016,38.56663215,-121.4682998,CA,0,4
+7301 3rd Ave,Brooklyn,New York,10,8,2016,40.63439283,-73.95026864,NY,3,2
+3727 Ulloa Street,New Orleans,Louisiana,10,4,2016,29.9673614,-90.1018816,LA,0,4
+Fourth St and Hennepin Ave,Minneapolis,Minnesota,10,3,2016,44.96354079,-93.26783453,MN,1,4
+2600 South Flores Street,San Antonio,Texas,10,2,2016,31.53834907,-99.6497468,TX,4,0
+17250E Road,Pembroke Township,Illinois,10,1,2016,40.10756121,-89.1611563,IL,0,4
+3200 block of East Clay Avenue,Fresno,California,10,1,2016,36.7826736,-119.794492,CA,1,3
+400 block of Ellis Street,San Francisco,California,9,29,2016,37.75971499,-122.6939756,CA,0,4
+100 block of 5 Royales Dr,Winston Salem (Winston-salem),North Carolina,9,26,2016,35.3662481,-79.42939386,NC,0,4
+21219 Grand Linden Ct,Humble,Texas,9,26,2016,29.99200229,-95.26578468,TX,1,6
+5450 Weslayan St,Houston,Texas,9,26,2016,29.7804724,-95.3863425,TX,1,3
+300 block of E. Green St,Champaign,Illinois,9,25,2016,40.1138099,-88.2752997,IL,0,8
+Greenmount Avenue and Preston Street,Baltimore,Maryland,9,24,2016,39.23545018,-76.63677351,MD,5,0
+201 Cascade Mall Dr,Burlington,Washington,9,23,2016,48.46767358,-122.3298183,WA,0,4
+3001 Castor Avenue,Philadelphia,Pennsylvania,9,18,2016,39.98569718,-75.0859375,PA,1,3
+421 Rivermont Ave,Lynchburg,Virginia,9,18,2016,37.40041632,-79.19110808,VA,0,4
+1700 block of Brighton Place,Pittsburgh,Pennsylvania,9,18,2016,40.43946574,-79.97631573,PA,0,6
+20582 SW 119th Ave,Miami,Florida,9,17,2016,25.77525637,-80.20885121,FL,1,6
+3918 Columbia St,Orlando,Florida,9,17,2016,28.5268272,-81.4243508,FL,2,2
+2016 West 76th Street,Indianapolis,Indiana,9,17,2016,39.77710046,-86.14634767,IN,2,7
+2600 block of Birney Place SE,Washington,District of Columbia,9,17,2016,38.90477236,-77.01628888,DC,2,5
+5100 block of Sansom St,Philadelphia,Pennsylvania,9,16,2016,40.00763806,-75.1339627,PA,2,2
+555 N Heliotrope Dr,Los Angeles (Hollywood),California,9,16,2016,34.080683,-118.2954511,CA,1,3
+16000 block of Saybrook,Humble,Texas,9,14,2016,29.99200229,-95.26578468,TX,3,2
+1723 E Wayne St,Fort Wayne,Indiana,9,13,2016,41.08849204,-85.14358989,IN,3,1
+3006 Holton Avenue,Fort Wayne,Indiana,9,11,2016,41.08849204,-85.14358989,IN,1,5
+2349 S Claiborne Ave,New Orleans,Louisiana,9,11,2016,29.9447143,-90.0913642,LA,1,3
+87 Van Wagenen Ave,Jersey City,New Jersey,9,11,2016,40.12272985,-74.70346139,NJ,0,6
+500 block of Westport Rd,Kansas City,Missouri,9,11,2016,38.30885939,-92.50820581,MO,0,5
+2207 Pierce Road,Saginaw,Michigan,9,11,2016,43.4192825,-83.95032993,MI,0,5
+1100 block of Highway 70,New Bern,North Carolina,9,11,2016,35.09685768,-77.0731308,NC,1,3
+3451 Northwest 36 Street,Miami,Florida,9,10,2016,25.77525637,-80.20885121,FL,4,0
+8330 Linden Rd,Del Valle,Texas,9,8,2016,31.53834907,-99.6497468,TX,1,4
+300 block of Lacey St,Hot Springs National Park (Hot Springs),Arkansas,9,8,2016,34.87946371,-92.38111209,AR,2,3
+2700 block of W Lexington Ave,Chicago,Illinois,9,5,2016,41.83861021,-87.68661087,IL,0,4
+600 block of Moss Street,Reading,Pennsylvania,9,5,2016,40.33993195,-75.92661555,PA,1,10
+1020 Orange Ave NE,Roanoke,Virginia,9,4,2016,37.27821818,-79.9581616,VA,0,4
+100 block of North Seeley Avenue,Chicago,Illinois,9,3,2016,41.83861021,-87.68661087,IL,1,3
+600 block of North 30th Street,Wilmington,North Carolina,9,3,2016,35.3662481,-79.42939386,NC,0,4
+400 Merritts Avenue NE,Atlanta,Georgia,8,30,2016,33.7690147,-84.3744412,GA,0,4
+6800 block of South Ashland,Chicago (Englewood),Illinois,8,30,2016,40.10756121,-89.1611563,IL,1,5
+907 White Horse Pike,Egg Harbor City,New Jersey,8,29,2016,39.5639379,-74.59677963,NJ,5,0
+41450 Cruz Way,Temecula,California,8,29,2016,33.5196208,-117.0318351,CA,0,6
+2200 block of 17th St,Lubbock,Texas,8,28,2016,33.56662511,-101.8863357,TX,0,4
+514 E 156th St,Bronx,New York,8,28,2016,40.84911597,-73.85295233,NY,2,2
+S Grand Blvd and Montana St,Saint Louis,Missouri,8,28,2016,38.30885939,-92.50820581,MO,0,5
+512 E Columbus St,Dadeville,Alabama,8,28,2016,32.83258747,-85.76749401,AL,1,6
+3810 7th Ave,Bessemer (Brighton),Alabama,8,27,2016,32.63501642,-86.80937931,AL,2,4
+1900 block of NW 83rd Terr,Miami,Florida,8,27,2016,25.77525637,-80.20885121,FL,0,5
+Marion Street,Bridgeton,New Jersey,8,25,2016,39.42843443,-75.22836352,NJ,0,13
+19 Plymouth St,Bridgeport,Connecticut,8,21,2016,41.1983351,-73.1755087,CT,0,4
+Westview and Stratton Street,Boston,Massachusetts,8,21,2016,42.3322209,-71.01643176,MA,0,5
+900 block of Pacific Avenue,Tacoma,Washington,8,20,2016,47.25174587,-122.4596112,WA,0,4
+903 Dixwell Ave,Hamden,Connecticut,8,20,2016,41.39606285,-72.92152048,CT,5,0
+Jim Platt Road,Citronelle,Alabama,8,20,2016,31.0948704,-88.24735049,AL,0,4
+402 E Main Street,Waterbury,Connecticut,8,18,2016,41.5541628,-73.0340055,CT,0,4
+Mandela Parkway,Oakland,California,8,17,2016,37.77108878,-122.2249767,CA,0,4
+1600 block of Selden Avenue,Norfolk,Virginia,8,14,2016,36.92334179,-76.24561422,VA,0,5
+1717 Plymouth Ave N,Minneapolis,Minnesota,8,14,2016,44.9911983,-93.3025636,MN,0,4
+6300 block of 11th Avenue,Los Angeles,California,8,13,2016,34.10482229,-118.4110473,CA,2,2
+4001 West Fond Du Lac Ave,Milwaukee,Wisconsin,8,13,2016,43.0641114,-87.96721631,WI,0,4
+Jamaica Ave and 105th St,Richmond Hill,New York,8,13,2016,42.6687355,-75.44096178,NY,0,4
+1800 Connecticut Ave,Joplin,Missouri,8,13,2016,37.07596793,-94.50214662,MO,1,3
+100 block of West 38th Street,Jacksonville,Florida,8,12,2016,30.3369138,-81.66090703,FL,1,3
+10921 Estate Ln,Dallas,Texas,8,12,2016,32.8824461,-96.6970066,TX,0,4
+500 block of E Ashmead St,Philadelphia,Pennsylvania,8,11,2016,40.00763806,-75.1339627,PA,0,4
+Foster Street and Jackson Avenue,Evanston,Illinois,8,10,2016,42.04634675,-87.69394724,IL,1,3
+4000 Green Tree Drive,Sacramento,California,8,10,2016,38.56663215,-121.4682998,CA,2,2
+341 General Marshall Street NE,Albuquerque,New Mexico,8,8,2016,35.1055517,-106.6473884,NM,0,7
+1214 Labelle St,Jacksonville,Florida,8,8,2016,30.3002378,-81.7342565,FL,1,3
+5925 South Figueroa Street,Los Angeles,California,8,7,2016,33.986634,-118.2828613,CA,1,3
+4460 Clay St,Vicksburg,Mississippi,8,7,2016,32.3437295,-90.8295334,MS,2,2
+5400 block of Sheridan Boulevard,Arvada,Colorado,8,7,2016,39.8097397,-105.1066199,CO,0,4
+100 block of South Springfield,Chicago,Illinois,8,7,2016,41.83861021,-87.68661087,IL,5,0
+51 Winding Brook Drive,Reading (Sinking Spring),Pennsylvania,8,6,2016,40.99568088,-77.78712223,PA,1,3
+70 block of Thorpe Street,Pontiac,Michigan,8,5,2016,42.64932157,-83.28780622,MI,2,2
+21600 block of Rider St,Perris,California,8,5,2016,33.78973456,-117.2232918,CA,0,4
+Ayers Street and Griffith Avenue,Memphis,Tennessee,8,4,2016,35.10520292,-89.97735447,TN,1,3
+4110 Glenwood Road,Decatur,Georgia,8,3,2016,33.77121517,-84.29675277,GA,0,4
+5700 block of Hallandale Beach Blvd,Hollywood (West Park),Florida,8,2,2016,28.14683286,-83.20422736,FL,0,4
+South Bedford Avenue,Evansville,Indiana,8,1,2016,37.98671582,-87.53827073,IN,3,1
+Southwest 203rd Terrace and 115th Avenue,Miami,Florida,7,31,2016,25.77525637,-80.20885121,FL,1,4
+208 E 6th St,Austin,Texas,7,31,2016,30.2677772,-97.7408092,TX,0,5
+5000 block of Kensington Ave,Saint Louis,Missouri,7,30,2016,38.30885939,-92.50820581,MO,0,5
+14699 Highway 17,Townsend (Eulonia),Georgia,7,30,2016,32.6176611,-83.39219224,GA,3,1
+10009 Chennault Beach,Mukilteo,Washington,7,30,2016,47.91645001,-122.3103173,WA,0,7
+Trail Creek St,Athens,Georgia,7,29,2016,33.95081707,-83.36894174,GA,0,5
+303 College Ave,Elmira,New York,7,28,2016,42.12669007,-76.82556626,NY,0,4
+Greenmount Avenue,Baltimore,Maryland,7,28,2016,39.30097988,-76.61064805,MD,2,2
+800 block of West 50th Place,Chicago,Illinois,7,28,2016,41.83861021,-87.68661087,IL,2,19
+3580 Evans Ave,Fort Myers,Florida,7,25,2016,26.61950094,-81.83031527,FL,1,7
+1555 Main St,Hamilton,Ohio,7,24,2016,39.3940584,-84.56554243,OH,0,4
+3630 Ashley Phosphate Road,North Charleston,South Carolina,7,23,2016,32.9255025,-80.0847549,SC,0,4
+Fountain Avenue,Brooklyn,New York,7,23,2016,40.63439283,-73.95026864,NY,2,2
+3400 block of Beekman Street,Cincinnati,Ohio,7,23,2016,39.14291321,-84.50366914,OH,4,1
+202 Childers Drive,Bastrop,Texas,7,23,2016,30.1029939,-97.3290306,TX,0,5
+300 block of North Wildwood Avenue,Kankakee,Illinois,7,22,2016,41.10161741,-87.86482915,IL,0,5
+4400 block of South Leamington,Chicago,Illinois,7,21,2016,41.83861021,-87.68661087,IL,0,4
+Hedges at Peach and Olive,Fresno,California,7,20,2016,36.7826736,-119.794492,CA,0,4
+13th Street and Tyler Avenue,West Memphis,Arkansas,7,19,2016,35.15322461,-90.19876717,AR,4,3
+9611 Airline Highway,Baton Rouge,Louisiana,7,17,2016,30.4338186,-91.0813972,LA,1,3
+6610 Tidwell,Houston,Texas,7,17,2016,29.7804724,-95.3863425,TX,0,4
+Grand River and McGraw avenue,Detroit,Michigan,7,17,2016,41.93132091,-83.3292499,MI,0,5
+6300 block of Benavides Drive,Dallas,Texas,7,16,2016,32.79464486,-96.76633721,TX,0,5
+5000 block of Euclid Avenue,Cleveland,Ohio,7,16,2016,41.51121521,-81.56356397,OH,0,4
+1200 block of West 25th Street,San Bernardino,California,7,16,2016,34.13970281,-117.2942335,CA,1,14
+621 Stephens Drive,Bakersfield,California,7,16,2016,35.347839,-119.035941,CA,0,6
+1348 College Street,Clarksville,Tennessee,7,16,2016,36.56968315,-87.34323717,TN,3,1
+4006 NW 417th Street,Woodland,Washington,7,15,2016,45.9233043,-122.712554,WA,3,1
+400 block of Pecan Avenue,Crosby,Texas,7,14,2016,29.91462267,-95.05908104,TX,0,4
+1600 block of 7th Street,Oakland,California,7,14,2016,37.77108878,-122.2249767,CA,1,3
+900 block of Moeller Avenue,Akron,Ohio,7,14,2016,41.08004268,-81.52186217,OH,0,5
+105 Magnolia Avenue,Warner Robins,Georgia,7,13,2016,32.5970961,-83.653936,GA,2,2
+3000 block of Miami St,Saint Louis,Missouri,7,13,2016,38.30885939,-92.50820581,MO,0,5
+1800 block of W. North Avenue,Baltimore,Maryland,7,11,2016,39.23545018,-76.63677351,MD,0,4
+500 block of Summit Avenue,Jackson,Michigan,7,11,2016,42.24311101,-84.40377718,MI,3,2
+811 Port St,Saint Joseph,Michigan,7,11,2016,44.81566738,-86.14800697,MI,0,4
+5100 block of Call Pl. SE,Washington,District of Columbia,7,11,2016,38.90477236,-77.01628888,DC,1,4
+536 Volunteer Parkway,Bristol,Tennessee,7,7,2016,36.55604316,-82.21430545,TN,5,9
+800 Main St,Dallas,Texas,7,7,2016,32.7791698,-96.8049588,TX,0,4
+2136 North Lobdell Avenue,Baton Rouge,Louisiana,7,7,2016,30.4507665,-91.12584647,LA,0,4
+56th Street and Naomi Avenue,Los Angeles,California,7,5,2016,34.10482229,-118.4110473,CA,0,4
+Seventh  Ave and Liberty Ave,Pittsburgh,Pennsylvania,7,4,2016,40.43946574,-79.97631573,PA,0,4
+5500 block of South Hermitage Avenue,Chicago (Englewood),Illinois,7,4,2016,40.10756121,-89.1611563,IL,0,7
+419 Chauncey Street,Brooklyn,New York,7,4,2016,40.63439283,-73.95026864,NY,0,4
+1400 block of W. 107 Street,Cleveland,Ohio,7,4,2016,41.51121521,-81.56356397,OH,3,2
+1300 block of Robin,Houston,Texas,7,4,2016,29.7804724,-95.3863425,TX,2,6
+4000 block of West Southern Avenue,Phoenix,Arizona,7,4,2016,33.5721625,-112.0879662,AZ,2,3
+401 Lea Joyner Memorial Expy,Monroe,Louisiana,7,3,2016,32.51814451,-92.07735384,LA,0,4
+2300 block of Daisy Street,Chattanooga,Tennessee,7,3,2016,35.06804894,-85.24908097,TN,1,4
+9500 block of South Loomis Street,Chicago,Illinois,6,30,2016,41.83861021,-87.68661087,IL,5,0
+6100 block of West Lake Mead Boulevard,Las Vegas,Nevada,6,29,2016,36.2277116,-115.2640448,NV,1,3
+13800 block of S Avalon Boulevard,Los Angeles,California,6,28,2016,34.10482229,-118.4110473,CA,0,4
+1600 block of South Christiana,Chicago,Illinois,6,28,2016,41.83861021,-87.68661087,IL,3,1
+13436 Killiam Loop NE,Woodburn,Oregon,6,27,2016,45.1476872,-122.8585376,OR,0,4
+Highway 38 N,Bennettsville,South Carolina,6,26,2016,34.63040898,-79.68741982,SC,1,4
+1500 block of Moreland Avenue SE,Atlanta,Georgia,6,26,2016,33.76265247,-84.4231419,GA,1,3
+6000 block of Elm Street,Houston,Texas,6,26,2016,29.7804724,-95.3863425,TX,0,4
+Baldwin Blvd  and Lamar,Corpus Christi,Texas,6,26,2016,27.73759861,-97.28696423,TX,0,5
+2240 Camp Greene St.,Charlotte,North Carolina,6,26,2016,35.2246419,-80.8849926,NC,2,5
+2466 East Lancaster Avenue,Fort Worth,Texas,6,25,2016,32.7442287,-97.2917827,TX,0,4
+700 block of Craig Street,Norfolk,Virginia,6,25,2016,36.92334179,-76.24561422,VA,0,4
+1400 block of W. 114th Place,Chicago,Illinois,6,25,2016,41.83861021,-87.68661087,IL,0,4
+N. 3rd and Walker,Kansas City,Kansas,6,24,2016,38.49058144,-98.35318177,KS,0,5
+Brook and Winter Street,Hartford,Connecticut,6,24,2016,41.76607064,-72.68340124,CT,3,2
+3100 block of Orleans Ave,District Heights,Maryland,6,24,2016,38.85929718,-76.88788338,MD,3,1
+500 block of Dutterow Road SE,Olympia,Washington,6,22,2016,47.04173016,-122.8957946,WA,1,4
+Lancashire Drive and Central Drive,Dekalb (county),Georgia,6,22,2016,32.6176611,-83.39219224,GA,0,4
+3100 block of West Warren,Chicago,Illinois,6,22,2016,41.83861021,-87.68661087,IL,0,4
+Mosshill Lane,Willingboro,New Jersey,6,21,2016,40.02804204,-74.88813539,NJ,2,2
+2802 Rodman Street,Louisville,Kentucky,6,21,2016,38.2089074,-85.7701335,KY,0,4
+2328 Melrose Avenue,Roanoke,Virginia,6,19,2016,37.28588396,-79.97503693,VA,1,3
+Fredrick Douglas Road,Exmore,Virginia,6,18,2016,37.52945706,-75.82812562,VA,2,2
+2625 Arnold Ct,Waycross,Georgia,6,18,2016,31.21091212,-82.35788436,GA,0,4
+East 79th Street and South Escanaba Avenue,Chicago,Illinois,6,18,2016,41.83861021,-87.68661087,IL,0,4
+South Van Buren and Elm streets,Wilmington,Delaware,6,14,2016,39.06278721,-75.43669486,DE,1,3
+1301 Franklin Street,Oakland,California,6,14,2016,37.803477,-122.2704963,CA,0,4
+East El Monte Way and Recreation Avenue,Fresno,California,6,13,2016,36.7826736,-119.794492,CA,0,5
+Avenue D and E. 57th,Brooklyn,New York,6,13,2016,40.63439283,-73.95026864,NY,0,5
+3200 block of West Congress,Chicago,Illinois,6,13,2016,41.83861021,-87.68661087,IL,50,53
+1912 S Orange Avenue,Orlando,Florida,6,12,2016,28.5196023,-81.3767061,FL,5,0
+2300 block of Davis Ave,Roswell,New Mexico,6,11,2016,33.37291265,-104.5293172,NM,0,4
+4000 block of Elmore Avenue,Webster,Minnesota,6,11,2016,44.50063035,-93.34199161,MN,1,3
+Alvarado Avenue,Stockton,California,6,11,2016,37.97672722,-121.3121116,CA,3,2
+8500 block of Cedros Avenue,Panorama City,California,6,11,2016,37.24004903,-119.5032355,CA,1,3
+4000 block of Collegiate Avenue,Charlotte,North Carolina,6,11,2016,35.20787221,-80.83007545,NC,0,4
+Landview Drive,Fort Walton Beach,Florida,6,9,2016,30.42439959,-86.61918485,FL,0,4
+North Capitol Street and New York Avenue NW,Washington,District of Columbia,6,8,2016,38.90477236,-77.01628888,DC,1,3
+66 Washington St,Boston,Massachusetts,6,8,2016,42.373484,-71.066195,MA,0,4
+33 60 South Fairway Street,Visalia,California,6,6,2016,36.32714166,-119.3273156,CA,0,4
+8th and Humboldt Avenue N.,Minneapolis,Minnesota,6,5,2016,44.96354079,-93.26783453,MN,3,3
+2600 block of Skyline Boulevard S,Cape Coral,Florida,6,5,2016,26.64414689,-81.99658797,FL,2,4
+8152 N Black Canyon Hwy,Phoenix,Arizona,6,5,2016,33.5721625,-112.0879662,AZ,0,4
+Mermaid Ave and 16th St.,Brooklyn,New York,6,5,2016,40.63439283,-73.95026864,NY,3,1
+3600 block of Hudson Street,Denver,Colorado,6,4,2016,39.76144202,-104.8767568,CO,0,4
+3300 block of West Huron Street,Chicago,Illinois,5,31,2016,41.83861021,-87.68661087,IL,0,4
+6600 block of Pawawna Drive,Fort Wayne,Indiana,5,31,2016,41.08849204,-85.14358989,IN,0,5
+500 block of East 43rd Street,Baltimore,Maryland,5,30,2016,39.30097988,-76.61064805,MD,0,5
+3900 block of 44th,Sacramento,California,5,30,2016,38.56663215,-121.4682998,CA,0,4
+200 block of N 3rd St,Las Vegas,Nevada,5,29,2016,36.2277116,-115.2640448,NV,0,6
+600 block of Martin Luther King Jr. Boulevard,Trenton,New Jersey,5,29,2016,40.223729,-74.76399433,NJ,0,4
+300 block of South Meridian Street,Indianapolis,Indiana,5,29,2016,39.77710046,-86.14634767,IN,2,6
+13210 Memorial Drive,Houston,Texas,5,29,2016,29.77295745,-95.57414439,TX,0,5
+102 Isabella Avenue,Newark,New Jersey,5,23,2016,40.72417185,-74.17242155,NJ,0,4
+8639 Apple St,New Orleans,Louisiana,5,22,2016,29.961556,-90.1237853,LA,1,3
+Poplar and Sutter Streets,Stockton,California,5,22,2016,37.97672722,-121.3121116,CA,0,4
+100 block of Rains Avenue,Nashville,Tennessee,5,22,2016,36.16746379,-86.78570268,TN,1,3
+Levi Barnes Road,Jackson,Georgia,5,21,2016,33.2910663,-83.96814417,GA,0,4
+34th Street and North Keystone Avenue,Indianapolis,Indiana,5,18,2016,39.77710046,-86.14634767,IN,3,1
+5360 Savannah Highway,Ravenel,South Carolina,5,17,2016,32.7860364,-80.2035037,SC,0,4
+420 North Garvin Street,Evansville,Indiana,5,15,2016,37.98671582,-87.53827073,IN,5,0
+Rossman Dairy Road,Moultrie,Georgia,5,15,2016,31.15915162,-83.77163337,GA,0,5
+Cordova and Peoples Street,Atlanta,Georgia,5,14,2016,33.76265247,-84.4231419,GA,1,3
+2337 Washington St W,Charleston,West Virginia,5,14,2016,38.3483993,-81.63220222,WV,1,4
+1400 block of 21st Street N,Birmingham,Alabama,5,11,2016,32.63501642,-86.80937931,AL,0,5
+7100 block of South State Street,Chicago,Illinois,5,11,2016,41.83861021,-87.68661087,IL,1,3
+8600 block of North Lamar,Austin,Texas,5,8,2016,30.3071816,-97.7559964,TX,1,4
+12300 block of Gratiot,Detroit,Michigan,5,6,2016,41.93132091,-83.3292499,MI,1,3
+1300 block of Clay Street,Montgomery,Alabama,5,6,2016,32.34724369,-86.2672602,AL,3,3
+7101 Democracy Blvd,Bethesda,Maryland,5,6,2016,38.98667225,-77.11874935,MD,2,6
+300 block of North Thomas Drive,Shreveport,Louisiana,5,5,2016,30.8956711,-91.67752985,LA,1,3
+2108 NW 19th Terrace,Miami,Florida,5,5,2016,25.77525637,-80.20885121,FL,1,7
+16th Avenue North and Newton Avenue North,Minneapolis,Minnesota,5,4,2016,44.96354079,-93.26783453,MN,0,5
+1955 Old Castle Drive,Murfreesboro,Tennessee,5,1,2016,35.85077819,-86.40862823,TN,0,4
+400 block of N Dade Ave,Saint Louis (Ferguson),Missouri,4,29,2016,38.30885939,-92.50820581,MO,0,5
+3200 block of San Pablo Avenue,Oakland,California,4,29,2016,37.77108878,-122.2249767,CA,2,2
+4300  Block of Kerrit Dr,Baton Rouge,Louisiana,4,27,2016,30.4507665,-91.12584647,LA,3,1
+Pecan Drive,Kilmichael,Mississippi,4,27,2016,33.44037624,-89.56738751,MS,1,4
+6500 block of Hil-Mar Drive,District Heights (Forestville),Maryland,4,26,2016,38.96206028,-77.00581636,MD,0,4
+400 Charlotte Avenue,Nashville,Tennessee,4,25,2016,36.16746379,-86.78570268,TN,0,5
+1506 Northwest 70th Street,Miami,Florida,4,25,2016,25.77525637,-80.20885121,FL,0,5
+1055 L P Bailey Memorial Hwy,Halifax,Virginia,4,24,2016,36.76121467,-78.92793663,VA,2,3
+2000 block of West 68th Place,Chicago (Englewood),Illinois,4,24,2016,40.10756121,-89.1611563,IL,0,4
+1400 block of 14th Street,Denver,Colorado,4,24,2016,39.76144202,-104.8767568,CO,1,3
+1650 South Hollywood Boulevard,Las Vegas,Nevada,4,23,2016,36.2277116,-115.2640448,NV,3,1
+1200 block of Lee Road 83,Auburn,Alabama,4,23,2016,32.607722,-85.4895446,AL,1,4
+3732 S.W. Topeka Boulevard,Topeka,Kansas,4,23,2016,38.99910809,-95.68671052,KS,0,4
+West 141st Street and Edgecombe Avenue,New York (Manhattan),New York,4,23,2016,42.6687355,-75.44096178,NY,8,0
+4077 Union Hill Road,Piketon,Ohio,4,22,2016,39.06488149,-82.99849006,OH,6,0
+3162 Johnson Drive,Appling,Georgia,4,22,2016,33.59639362,-82.31233358,GA,0,4
+4800 block of Frankford Avenue,Baltimore,Maryland,4,21,2016,39.30097988,-76.61064805,MD,1,4
+81551 Us Highway 278,Blountsville,Alabama,4,19,2016,34.08141715,-86.58676491,AL,1,3
+2700 block of West 53rd Street,Chicago,Illinois,4,19,2016,41.83861021,-87.68661087,IL,1,4
+1400 block of West 84th Street,Chicago,Illinois,4,19,2016,41.83861021,-87.68661087,IL,1,3
+1200 block of E. 17th Street,Long Beach,California,4,18,2016,33.80574739,-118.1612131,CA,3,1
+600 block of Westmoreland Street,Philadelphia,Pennsylvania,4,17,2016,40.00763806,-75.1339627,PA,1,3
+200 block of Eastview Road,Pelzer,South Carolina,4,17,2016,34.64489401,-82.46048327,SC,1,6
+5021 W St Hwy 107,Edinburg,Texas,4,17,2016,26.3155841,-98.16371369,TX,1,4
+9500 block of Oakland,Detroit,Michigan,4,16,2016,41.93132091,-83.3292499,MI,2,4
+1100 block of Conley Street,Orlando,Florida,4,16,2016,28.4158857,-81.2987497,FL,0,4
+Baxter Street,Enterprise,Alabama,4,16,2016,31.32839931,-85.84570109,AL,1,3
+76th and Sheridan,Milwaukee,Wisconsin,4,10,2016,43.0641114,-87.96721631,WI,0,4
+84th Street and Towne Avenue,Los Angeles,California,4,10,2016,34.10482229,-118.4110473,CA,0,4
+Mt Moriah Road and Ridgeway Road,Memphis,Tennessee,4,9,2016,35.10520292,-89.97735447,TN,0,4
+West 15th Street and Crawford Avenue,Anniston,Alabama,4,9,2016,33.67036113,-85.81483829,AL,0,4
+2600 block of Mesa Drive SE,Albuquerque,New Mexico,4,9,2016,35.1055517,-106.6473884,NM,0,4
+2200 block of East 70th Place,Chicago,Illinois,4,7,2016,41.83861021,-87.68661087,IL,0,4
+6800 block of South Throop,Chicago (Englewood),Illinois,3,31,2016,40.10756121,-89.1611563,IL,0,4
+4500 block of West West End Avenue,Chicago,Illinois,3,25,2016,41.83861021,-87.68661087,IL,0,4
+8501 E. Alameda Avenue,Denver,Colorado,3,25,2016,39.76144202,-104.8767568,CO,0,4
+5700 block of West Washington Boulevard,Chicago,Illinois,3,21,2016,41.83861021,-87.68661087,IL,1,4
+12050 NW 4th Court,Plantation,Florida,3,19,2016,26.12505023,-80.30958119,FL,2,2
+South Shelby Street,Wetumpka,Alabama,3,19,2016,32.53986326,-86.20516556,AL,0,5
+Donald Lee Hollowell Drive,Atlanta,Georgia,3,15,2016,33.76265247,-84.4231419,GA,0,4
+50 South Road,Fort Myers,Florida,3,13,2016,26.5764774,-81.8596035,FL,0,4
+16126 S.E. Stark St.,Portland,Oregon,3,12,2016,45.5371811,-122.6499872,OR,0,4
+Interstate 880,Oakland,California,3,12,2016,37.77108878,-122.2249767,CA,2,2
+2600 block of Hazelwood,Detroit,Michigan,3,11,2016,42.38402073,-83.10165683,MI,0,5
+Oliver Avenue,Trenton,New Jersey,3,11,2016,40.223729,-74.76399433,NJ,5,3
+1304 Franklin Ave,Pittsburgh,Pennsylvania,3,9,2016,40.43946574,-79.97631573,PA,2,3
+Sherman St,San Antonio,Texas,3,8,2016,31.53834907,-99.6497468,TX,0,4
+800 block of Martin Luther King Jr. Drive,Lafayette,Louisiana,3,7,2016,30.2115732,-92.0313942,LA,5,0
+3000 block of South 36th Street,Kansas City,Kansas,3,7,2016,38.49058144,-98.35318177,KS,1,6
+120 Washington Avenue,Chelsea,Massachusetts,3,6,2016,42.39589704,-71.03248695,MA,0,4
+890 Atlanta St,Roswell,Georgia,3,6,2016,34.0227879,-84.3618405,GA,1,8
+900 block of West Victoria Street,Compton,California,3,6,2016,33.89316026,-118.2256332,CA,0,4
+116 North Mead,Wichita,Kansas,3,5,2016,37.6906938,-97.3426776,KS,1,3
+900 E 5th Ave,Columbus,Ohio,3,4,2016,39.98637561,-82.98059198,OH,0,5
+8800 block of Livernois,Detroit,Michigan,2,28,2016,41.93132091,-83.3292499,MI,1,3
+5500 block of Etiwanda Avenue,Riverside (Jurupa Valley),California,2,28,2016,37.24004903,-119.5032355,CA,2,2
+13051 Lashmere Ct,Woodbridge (Lake Ridge),Virginia,2,27,2016,38.6696252,-77.3536249,VA,5,0
+300 block of Horseshoe Rd.,Belfair,Washington,2,26,2016,47.45120372,-122.8473332,WA,4,14
+200 S Ridge Rd,Hesston,Kansas,2,25,2016,38.1403696,-97.42166417,KS,5,0
+4812 West Sunnyside Ave,Glendale,Arizona,2,23,2016,33.56725245,-112.2827261,AZ,0,4
+1042 Sheridan Road,Daytona Beach,Florida,2,23,2016,29.209006,-81.0447524,FL,1,3
+Interstate Highway 270 and North Lindbergh Boulevard,Hazelwood,Missouri,2,21,2016,38.79319756,-90.39014601,MO,0,5
+5100 block of Idaho Street,Houston,Texas,2,21,2016,29.7804724,-95.3863425,TX,1,3
+2810 E. Bearss Ave,Tampa,Florida,2,20,2016,27.96800236,-82.4763859,FL,6,2
+5581 Cracker Barrel Blvd,Kalamazoo,Michigan,2,20,2016,42.27491205,-85.58815842,MI,2,3
+231 Co Rd 201,Iuka,Mississippi,2,20,2016,34.80772715,-88.19780629,MS,1,3
+200 block of Elm Street,Bessemer,Alabama,2,20,2016,33.37122308,-86.96888469,AL,0,4
+446 S Parramore Ave,Orlando,Florida,2,20,2016,28.5366497,-81.3891156,FL,4,0
+4100 block of Buena Vista Road,Edgerton,Missouri,2,19,2016,39.50218559,-94.62899419,MO,1,3
+509 Porter Street,Vallejo,California,2,19,2016,38.0882826,-122.245532,CA,1,3
+8449 Gulf Freeway,Houston,Texas,2,14,2016,29.7804724,-95.3863425,TX,0,5
+Earnest Friday Road,Eutaw (Union),Alabama,2,14,2016,32.63501642,-86.80937931,AL,0,4
+5425 Lapalco Boulevard,Marrero,Louisiana,2,13,2016,30.8956711,-91.67752985,LA,2,4
+Davis Avenue,Pass Christian,Mississippi,2,7,2016,30.31886569,-89.23891501,MS,2,10
+7432 Universal Blvd,Orlando,Florida,2,7,2016,28.455337,-81.4648862,FL,1,7
+547 State St,Rochester,New York,2,7,2016,43.164023,-77.6232616,NY,0,4
+6500 block of South Green Street,Chicago (Englewood),Illinois,2,7,2016,40.10756121,-89.1611563,IL,1,3
+12800 block of Cook Street,Los Angeles,California,2,6,2016,34.10482229,-118.4110473,CA,0,4
+10th Street,Apopka,Florida,2,6,2016,28.14683286,-83.20422736,FL,2,6
+8123 N Nebraska Ave,Tampa,Florida,2,6,2016,27.96800236,-82.4763859,FL,0,4
+1500 block of Butler St. SE,Washington,District of Columbia,2,3,2016,38.90477236,-77.01628888,DC,3,5
+67th and Missouri Avenue,Glendale,Arizona,1,30,2016,33.56725245,-112.2827261,AZ,6,0
+1401 N. George Washington Hwy,Chesapeake,Virginia,1,27,2016,36.7906509,-76.330292,VA,2,3
+Airport Way S. and S. Atlantic St.,Seattle,Washington,1,26,2016,47.62024593,-122.3506866,WA,1,4
+140 S. D Street,Perris,California,1,25,2016,33.7846706,-117.2286482,CA,2,2
+8105 Avalon Blvd,Los Angeles,California,1,23,2016,34.10482229,-118.4110473,CA,1,3
+Ditchley Road and Gill Lane,Ware Neck (Gloucester Courthouse),Virginia,1,17,2016,37.64882817,-78.70157159,VA,1,4
+900 block of Brown Street,Wilmington,Delaware,1,11,2016,39.06278721,-75.43669486,DE,0,4
+1700 East Capitol Street Northeast,Washington,District of Columbia,1,8,2016,38.8904101,-76.9796866,DC,1,4
+1500 block of South Kedzie,Chicago,Illinois,1,8,2016,41.83861021,-87.68661087,IL,1,3
+3800 block of Kerwood Avenue,Memphis,Tennessee,1,7,2016,35.10520292,-89.97735447,TN,3,1
+2312 East Magnolia Street,Lakeland,Florida,1,6,2016,27.9572212,-81.94959571,FL,2,2
+13000 block of Anchor Village,Clearlake Oaks,California,10,23,2017,39.02190323,-122.6591908,CA,0,4
+Wethersfield Avenue and Elliott Street,Hartford,Connecticut,10,22,2017,41.76607064,-72.68340124,CT,2,7
+1606 19th St Sw,Lanett,Alabama,10,22,2017,32.85787653,-85.20770186,AL,0,4
+164 E Eubanks St,Jacksonville,Florida,10,21,2017,30.4846944,-81.6221989,FL,0,4
+1277 12th Ave S,Nashville,Tennessee,10,21,2017,36.1412702,-86.7885589,TN,0,4
+1200 block of W Carlas Ln,Chester,Pennsylvania,10,21,2017,39.84562785,-75.37183417,PA,0,4
+400 Block of E Nordica St,Tampa,Florida,10,21,2017,27.96800236,-82.4763859,FL,3,3
+2111 Emmorton Park Rd,Edgewood,Maryland,10,18,2017,39.4520149,-76.3099932,MD,0,4
+181 Martense St,Brooklyn,New York,10,17,2017,40.63439283,-73.95026864,NY,1,3
+5th Street,Meridian,Mississippi,10,16,2017,32.38453325,-88.68968173,MS,2,2
+6233 Gulfton St,Houston,Texas,10,15,2017,29.7804724,-95.3863425,TX,1,3
+107th Ave and Camelback Rd,Phoenix,Arizona,10,15,2017,33.5721625,-112.0879662,AZ,2,2
+6 Asbury Ct,Aliso Viejo,California,10,12,2017,33.57793525,-117.7299521,CA,4,0
+15497 SR 93,Pedro,Ohio,10,11,2017,40.42858964,-82.70242359,OH,0,4
+25th St and Treat Ave,San Francisco,California,10,10,2017,37.75971499,-122.6939756,CA,0,5
+3352 Old Spanish Trail,Houston,Texas,10,9,2017,29.70117735,-95.37216179,TX,0,4
+87th Ave and Thomas Rd,Phoenix,Arizona,10,7,2017,33.5721625,-112.0879662,AZ,0,5
+8000 block of S Marshfield,Chicago,Illinois,10,6,2017,41.83861021,-87.68661087,IL,4,0
+400 block of W 13th Street,Casa Grande,Arizona,10,5,2017,34.31047454,-111.7691584,AZ,0,4
+2051 NW 65th St,Miami,Florida,10,3,2017,25.77525637,-80.20885121,FL,3,2
+1000 block of Massachusetts St,Lawrence,Kansas,10,1,2017,38.95989376,-95.26268699,KS,59,441
+3950 Las Vegas Blvd S,Las Vegas,Nevada,10,1,2017,36.23168002,-115.068118,NV,1,3
+800 block of Kerr Avenue,Memphis,Tennessee,9,30,2017,35.10520292,-89.97735447,TN,1,3
+2001 N Rocheblave St,New Orleans,Louisiana,9,28,2017,29.9815149,-90.0648263,LA,0,4
+2531 Chelsea Ave,Memphis,Tennessee,9,26,2017,35.1742161,-89.972807,TN,2,2
+3200 block of Lyndale Ave,Baltimore,Maryland,9,26,2017,39.30097988,-76.61064805,MD,1,3
+100 block of Pastorius St,Philadelphia,Pennsylvania,9,26,2017,40.00763806,-75.1339627,PA,0,4
+500 block of E. Patapsco Avenue,Baltimore,Maryland,9,24,2017,39.23545018,-76.63677351,MD,1,3
+6000 block of Hoover Dr,Mays Landing,New Jersey,9,24,2017,39.45272733,-74.72389835,NJ,1,8
+3890 Pin Hook Rd,Antioch,Tennessee,9,24,2017,35.85185663,-86.27777991,TN,0,4
+1226 E Fayette St,Syracuse,New York,9,24,2017,42.6687355,-75.44096178,NY,0,5
+Seminary St and Jackson St,Danville,Illinois,9,23,2017,40.14209413,-87.61195,IL,1,4
+818 Real Rd,Bakersfield,California,9,23,2017,35.3657621,-119.0430392,CA,2,2
+4300 block of 23rd Ct,Gary,Indiana,9,20,2017,41.59560282,-87.3452059,IN,0,5
+5000 block of Stanton Street,Detroit,Michigan,9,17,2017,41.93132091,-83.3292499,MI,1,3
+300 Mistletoe St,Petersburg,Virginia,9,17,2017,37.2041781,-77.39145148,VA,1,4
+920 Lady Street,Columbia,South Carolina,9,16,2017,34.0297833,-80.8965664,SC,0,8
+14626 S Jackson Rd,Rockford,Washington,9,13,2017,47.51952797,-117.1970879,WA,1,3
+400 block of S Duke St,York,Pennsylvania,9,13,2017,39.96510038,-76.73153121,PA,0,4
+3100 block of N 2nd St,Philadelphia,Pennsylvania,9,13,2017,40.00763806,-75.1339627,PA,0,4
+1000 block of Morehead St,Memphis,Tennessee,9,13,2017,35.10520292,-89.97735447,TN,1,5
+2101 N Claiborne Ave,New Orleans,Louisiana,9,10,2017,29.9736897,-90.0583597,LA,1,3
+1712 West Spring Creek Parkway,Plano,Texas,9,10,2017,33.0565222,-96.7275987,TX,9,1
+Kings Bend Road,Selma,Alabama,9,9,2017,32.41659706,-87.03358936,AL,0,4
+2700 block of Madison,Chicago,Illinois,9,6,2017,41.83861021,-87.68661087,IL,0,4
+1000 block of Bellwood Ave,Bellwood,Illinois,9,4,2017,41.8829027,-87.87617179,IL,0,4
+10100 block of S Firmona Ave,Inglewood,California,9,3,2017,33.95657481,-118.3444449,CA,2,3
+8008 Watterson Trail,Louisville,Kentucky,9,2,2017,38.1780769,-85.6667077,KY,0,4
+8300 block of S Hermitage,Chicago,Illinois,9,2,2017,41.83861021,-87.68661087,IL,1,3
+701 N Main St,Clovis,New Mexico,8,28,2017,34.43718771,-103.1915911,NM,2,4
+7760 24th St,Sacramento,California,8,27,2017,38.56663215,-121.4682998,CA,1,4
+1127 Chestnut St,Evansville,Indiana,8,27,2017,37.98671582,-87.53827073,IN,1,3
+1600 NE 8th Ave,Gainesville,Florida,8,25,2017,29.68181393,-82.34535799,FL,0,4
+10400 block of Balmoral Dr,Saint Louis,Missouri,8,24,2017,38.30885939,-92.50820581,MO,4,0
+300 block of N Central Ave,Chicago,Illinois,8,22,2017,41.83861021,-87.68661087,IL,0,4
+Fabyan Place,Newark,New Jersey,8,21,2017,40.72417185,-74.17242155,NJ,4,0
+700 block of S 19th St,Newark,New Jersey,8,21,2017,40.72417185,-74.17242155,NJ,0,4
+Cottage Avenue and Park Heights Avenue,Baltimore,Maryland,8,21,2017,39.23545018,-76.63677351,MD,1,3
+980 Fishing Creek Rd,Whitakers,North Carolina,8,21,2017,36.10574633,-77.71308725,NC,1,3
+262 Decatur St,Memphis,Tennessee,8,21,2017,35.1471495,-90.0259674,TN,0,4
+11901 S Loomis St,Chicago,Illinois,8,20,2017,41.83861021,-87.68661087,IL,2,5
+100th St and Ave M,Brooklyn,New York,8,20,2017,40.63439283,-73.95026864,NY,0,4
+11143 Superior Ave,Cleveland,Ohio,8,19,2017,41.5226399,-81.60758,OH,1,4
+Merritt Ave and 15th St,Wyandanch,New York,8,16,2017,40.74674088,-73.37693842,NY,0,4
+Morrison St and Klump Ave,North Hollywood,California,8,14,2017,37.24004903,-119.5032355,CA,2,2
+4000 Block of Martin Luther King Jr Blvd,Sacramento,California,8,13,2017,38.56663215,-121.4682998,CA,0,4
+8700 block of Quay Rd,Suffolk,Virginia,8,13,2017,36.70178203,-76.63409891,VA,0,4
+39th St and Melon St,Philadelphia,Pennsylvania,8,13,2017,40.00763806,-75.1339627,PA,0,5
+12310 Bellefontaine Rd,Saint Louis,Missouri,8,12,2017,38.7964818,-90.2124474,MO,1,3
+1 block of East 37th Street,Chicago,Illinois,8,8,2017,41.83861021,-87.68661087,IL,1,6
+Wickham Ave,Bronx,New York,8,6,2017,40.84911597,-73.85295233,NY,0,6
+Unionport Rd,Bronx,New York,8,6,2017,40.84911597,-73.85295233,NY,0,4
+1000 block of 106th Avenue,Oakland,California,8,6,2017,37.77108878,-122.2249767,CA,0,7
+900 block of Brook Road,Lakewood,New Jersey,8,5,2017,40.09425254,-74.21175994,NJ,0,4
+300 block of Ellis St,Allendale,South Carolina,8,5,2017,33.00804698,-81.30916418,SC,1,3
+1939 W Tennessee St,Tallahassee,Florida,8,5,2017,30.45489511,-84.25264599,FL,1,3
+200 block of North Helen Street,Lodge Grass,Montana,8,4,2017,46.91471155,-109.7498422,MT,3,2
+3426 18th St NE,Washington,District of Columbia,8,3,2017,38.9327427,-76.9799763,DC,1,3
+900 block of N Broadway,Baltimore,Maryland,8,2,2017,39.30097988,-76.61064805,MD,0,4
+8000 Block of Lateral C Rd,Toppenish,Washington,8,1,2017,46.38055516,-120.312477,WA,0,6
+Mariposa St and A St,Fresno,California,8,1,2017,36.7826736,-119.794492,CA,0,7
+800 block of N Monticello Ave,Chicago,Illinois,8,1,2017,41.83861021,-87.68661087,IL,0,4
+Jasper St and Main St,Decatur,Illinois,7,31,2017,39.85565673,-88.93382251,IL,0,4
+1500 block of Azalea Garden Rd,Norfolk,Virginia,7,30,2017,36.92334179,-76.24561422,VA,1,5
+1810 George Dieter Dr,El Paso,Texas,7,30,2017,31.8491633,-106.4326601,TX,1,3
+200 block of Carl St,Buffalo,New York,7,29,2017,42.89225205,-78.85941404,NY,1,4
+115 W Fisher St,Salisbury,North Carolina,7,29,2017,35.6668266,-80.4716035,NC,2,3
+400 block of N Washington St,Wilmington,Delaware,7,28,2017,39.06278721,-75.43669486,DE,0,4
+2000 block of E 71st St,Chicago,Illinois,7,27,2017,41.83861021,-87.68661087,IL,1,4
+2111 E. Green Drive,High Point,North Carolina,7,26,2017,35.95333118,-79.98085054,NC,1,6
+1500 block of East 82nd St,Chicago,Illinois,7,23,2017,41.83861021,-87.68661087,IL,1,3
+10360 Ave H,Baton Rouge,Louisiana,7,23,2017,30.53854345,-91.19707601,LA,0,4
+130 E Clifton Ave,Cincinnati,Ohio,7,22,2017,39.11601104,-84.51427555,OH,0,5
+2300 block of Bethel St,Richmond,Virginia,7,19,2017,37.64882817,-78.70157159,VA,0,5
+Imperial Hwy and Broadway,Los Angeles,California,7,19,2017,34.10482229,-118.4110473,CA,1,3
+Hewitt St and Division St,Trenton,New Jersey,7,18,2017,40.223729,-74.76399433,NJ,1,3
+3000 Block of N 39th St,Milwaukee,Wisconsin,7,18,2017,43.0641114,-87.96721631,WI,0,4
+NW Grand Ave and W Thunderbird Rd,El Mirage,Arizona,7,18,2017,33.59030434,-112.3269728,AZ,0,4
+21st and Fitzwater,Philadelphia,Pennsylvania,7,15,2017,40.00763806,-75.1339627,PA,1,3
+12200 block of S Throop St,Chicago,Illinois,7,15,2017,41.83861021,-87.68661087,IL,0,4
+500 block Sturgeon Rd,Lawrenceville,Virginia,7,9,2017,36.75650138,-77.85387344,VA,0,7
+700 block of Oakwood,Alton,Illinois,7,8,2017,38.90330408,-90.15232955,IL,0,4
+9917 Capstan Dr,Cincinnati,Ohio,7,8,2017,39.14291321,-84.50366914,OH,1,8
+Eighth Ave,Meridian,Mississippi,7,6,2017,32.54859599,-88.60914336,MS,0,4
+Jefferson Street and West St. Julian Street,Savannah,Georgia,7,5,2017,32.02831938,-81.17815866,GA,0,4
+11000 block of S Eberhart,Chicago (Roseland),Illinois,7,5,2017,40.10756121,-89.1611563,IL,2,2
+300 block of Russell Rd,Madison,Maine,7,5,2017,44.80031154,-69.86554362,ME,4,1
+501 W Lancaster Rd,Orlando (Pine Castle),Florida,7,4,2017,28.14683286,-83.20422736,FL,0,4
+500 block of Patterson Ave,Hampton,Virginia,7,4,2017,37.04872093,-76.29536561,VA,1,4
+105 E South St,Raleigh,North Carolina,7,4,2017,35.8302035,-78.6414394,NC,1,3
+112 US 82,Prattville,Alabama,7,3,2017,32.4622348,-86.4612644,AL,3,1
+50 block of Thorpe St,Pontiac,Michigan,7,3,2017,42.64932157,-83.28780622,MI,1,3
+Wilkinson Avenue,Jersey City,New Jersey,7,2,2017,40.12272985,-74.70346139,NJ,0,4
+SC 72 Bypass,Greenwood,South Carolina,7,2,2017,34.19353047,-82.15404856,SC,0,4
+2727 S 13000 Rd E,Momence,Illinois,7,1,2017,40.10756121,-89.1611563,IL,0,4
+Lincoln Park and Pennsylvania Avenue,Newark,New Jersey,7,1,2017,40.72417185,-74.17242155,NJ,2,2
+3200 Humboldt Ave,Oakland,California,7,1,2017,37.77108878,-122.2249767,CA,0,4
+220 W 6th St,Little Rock,Arkansas,7,1,2017,34.7435693,-92.2731947,AR,0,25
+1650 Grand Concourse,Bronx,New York,6,30,2017,40.84911597,-73.85295233,NY,2,6
+200 block of S Lotus,Chicago,Illinois,6,27,2017,41.83861021,-87.68661087,IL,0,5
+5900 block of Southern Ave SE,Washington,District of Columbia,6,25,2017,38.90477236,-77.01628888,DC,0,4
+5000 block of Thekla Ave,Saint Louis,Missouri,6,25,2017,38.30885939,-92.50820581,MO,1,3
+2335 NW 16th Ct,Fort Lauderdale,Florida,6,24,2017,26.14083882,-80.1436977,FL,1,4
+114th St and Manhattan Ave,New York (Manhattan),New York,6,24,2017,42.6687355,-75.44096178,NY,0,5
+Pastoral Lane,Willingboro,New Jersey,6,24,2017,40.02804204,-74.88813539,NJ,0,4
+1100 block of Osborne Street,Atlanta,Georgia,6,22,2017,33.76265247,-84.4231419,GA,1,6
+1900 block of N 14th St,Saint Louis,Missouri,6,18,2017,38.30885939,-92.50820581,MO,3,2
+3100 block of Buena Vista Terrace SE,Washington,District of Columbia,6,18,2017,38.90477236,-77.01628888,DC,0,4
+3300 block of W Crystal,Chicago,Illinois,6,18,2017,41.83861021,-87.68661087,IL,0,4
+311 N Ocean Blvd,Myrtle Beach,South Carolina,6,18,2017,33.6866518,-78.8853832,SC,0,7
+6252 Busch Blvd,Columbus,Ohio,6,17,2017,40.91903272,-84.05946017,OH,1,4
+1 block of North Latrobe,Chicago,Illinois,6,17,2017,41.83861021,-87.68661087,IL,0,4
+491 NM 111,La Madera,New Mexico,6,15,2017,36.38081236,-106.0420054,NM,1,3
+4053 Old Brook Road,Richmond,Virginia,6,15,2017,37.64882817,-78.70157159,VA,5,0
+14th St. NE and Gibbs Ave. NE,Canton,Ohio,6,14,2017,40.80815745,-81.36806196,OH,0,4
+420 E Monroe Ave,Alexandria,Virginia,6,14,2017,38.8211006,-77.0543053,VA,1,5
+720 San Bruno,San Francisco,California,6,14,2017,37.75971499,-122.6939756,CA,4,2
+3300 block of Ayrdale Avenue,Baltimore,Maryland,6,13,2017,39.30097988,-76.61064805,MD,0,4
+1200 block of Bonaparte Avenue,Baltimore,Maryland,6,13,2017,39.30097988,-76.61064805,MD,2,2
+Ferguson Ave and Plymouth Ave,Saint Louis (University City),Missouri,6,13,2017,38.30885939,-92.50820581,MO,0,4
+3300 block of W Douglas Blvd,Chicago,Illinois,6,11,2017,41.83861021,-87.68661087,IL,0,9
+4272 Bonny Oaks Drive,Chattanooga,Tennessee,6,11,2017,35.0804834,-85.2139137,TN,0,4
+505 Cypress Station Dr,Houston,Texas,6,11,2017,30.03065027,-95.43701769,TX,0,4
+571 East Street,Memphis,Tennessee,6,10,2017,35.1313422,-90.0314538,TN,0,4
+East Davis Avenue and New York Avenue,Fort Worth,Texas,6,9,2017,32.7795423,-97.3463354,TX,2,5
+3650 Franklin Ave,New Orleans,Louisiana,6,8,2017,29.9965681,-90.0500205,LA,0,6
+2232 Alta Canyon Drive,Sandy,Utah,6,6,2017,40.5715632,-111.8522856,UT,3,2
+2427 Forsyth Rd,Orlando,Florida,6,5,2017,28.4158857,-81.2987497,FL,6,0
+1600 Block of Union Blvd,Saint Louis,Missouri,6,3,2017,38.30885939,-92.50820581,MO,2,2
+3717 Tulane Ave,New Orleans,Louisiana,6,3,2017,29.96692473,-90.10152319,LA,3,2
+5301 McPherson Rd,Laredo,Texas,6,2,2017,27.54797743,-99.48684236,TX,2,3
+89th St and Broadway,Los Angeles,California,6,2,2017,34.10482229,-118.4110473,CA,1,3
+Beacon Ave and Lillian Ave,Saint Louis,Missouri,6,1,2017,38.30885939,-92.50820581,MO,3,1
+1200 Elliott Dr,Middletown,Ohio,5,30,2017,39.50324345,-84.36587572,OH,1,3
+231 Witherspoon St,Louisville,Kentucky,5,29,2017,38.1780769,-85.6667077,KY,1,3
+100 block of 6th Street South,Phenix City,Alabama,5,28,2017,32.4616695,-85.0250208,AL,0,12
+86 Main Street,Paterson,New Jersey,5,28,2017,40.92881636,-74.16794643,NJ,1,5
+6103 Hwy. 63,Moss Point,Mississippi,5,28,2017,30.42404368,-88.52887061,MS,0,5
+318 W 14th St,New York (Manhattan),New York,5,27,2017,42.6687355,-75.44096178,NY,0,4
+100 block of Q Street Northwest,Washington,District of Columbia,5,27,2017,38.90477236,-77.01628888,DC,1,7
+2871 Lee Drive,Bogue Chitto,Mississippi,5,27,2017,32.60010548,-89.72682633,MS,8,1
+2730 NW 167th St,Miami,Florida,5,26,2017,25.77525637,-80.20885121,FL,0,4
+4300 Beaver Dr,Des Moines,Iowa,5,21,2017,41.6386437,-93.6789624,IA,1,3
+441 N Val Vista Dr,Mesa,Arizona,5,21,2017,33.4238734,-111.7524867,AZ,0,4
+2100 block of W Huntingdon St,Philadelphia,Pennsylvania,5,20,2017,40.00763806,-75.1339627,PA,0,10
+21785 Lowcountry Hwy,Ruffin,South Carolina,5,16,2017,33.85416558,-80.90959195,SC,3,1
+311 S Main St,Jonesboro,Arkansas,5,14,2017,35.82081215,-90.67949917,AR,1,6
+14112 Chicago Road,Dolton,Illinois,5,14,2017,41.62836967,-87.59787695,IL,0,5
+Hal McRae Blvd and Delaney Ave,Avon Park,Florida,5,14,2017,27.59893511,-81.51042965,FL,0,5
+8600 block of Calmont Ave,Fort Worth,Texas,5,14,2017,32.7795423,-97.3463354,TX,0,4
+300 block of Centre St,Trenton,New Jersey,5,10,2017,40.223729,-74.76399433,NJ,1,3
+1900 block of S. Boeke,Kansas City,Kansas,5,9,2017,38.49058144,-98.35318177,KS,3,1
+2600 block of 46th Pl,Chicago,Illinois,5,7,2017,41.83861021,-87.68661087,IL,2,8
+600 block of Copeman Boulevard,Flint,Michigan,5,4,2017,43.02363394,-83.69206403,MI,1,3
+1566 West 24th Street,Jacksonville,Florida,5,2,2017,30.3585335,-81.6820297,FL,1,3
+3200 block of Reynolds Ave,Dallas,Texas,5,1,2017,32.79464486,-96.76633721,TX,2,3
+4104 SW 28th,Topeka,Kansas,4,30,2017,39.0161071,-95.72802765,KS,2,6
+1200 Ken Knight Dr N,Jacksonville,Florida,4,30,2017,30.27926997,-81.37452585,FL,4,1
+268 N Sea Green Rd,Loris,South Carolina,4,30,2017,34.0574721,-78.88771748,SC,0,5
+9080 Judicial Dr,San Diego,California,4,30,2017,32.81689046,-117.1333353,CA,1,5
+12800 block of Kitchen House Way,Germantown,Maryland,4,29,2017,38.96206028,-77.00581636,MD,1,3
+Murchison St and Lancaster Ave,Los Angeles (Boyle Heights),California,4,29,2017,37.24004903,-119.5032355,CA,1,3
+3800 block of 26th Avenue,Sacramento,California,4,29,2017,38.56663215,-121.4682998,CA,0,5
+10000 block of Carmentia Rd,Whittier,California,4,29,2017,33.96785668,-118.0188036,CA,1,5
+2000 Block of N Nestor Ave,Compton,California,4,29,2017,33.89316026,-118.2256332,CA,0,4
+200 block of 18th St,Virginia Beach,Virginia,4,29,2017,36.77783612,-76.01637024,VA,0,4
+5 E 21st St,Chester,Pennsylvania,4,28,2017,40.89023896,-78.22929368,PA,0,4
+1100 block of S Orange Ave,Newark,New Jersey,4,27,2017,40.72417185,-74.17242155,NJ,1,3
+SW 264th St and 139th Ave,Miami,Florida,4,26,2017,25.77525637,-80.20885121,FL,0,4
+2500 block of Vernon Dr,Palm Bay,Florida,4,21,2017,27.98605927,-80.66280174,FL,2,2
+700 block of East Jacob Street,Louisville,Kentucky,4,20,2017,38.1780769,-85.6667077,KY,0,4
+110 Calhoun Street,Vallejo,California,4,16,2017,38.1206275,-122.2666295,CA,0,4
+611 S Martin St,Elizabeth City,North Carolina,4,16,2017,36.2942645,-76.2216531,NC,0,4
+1710 Cleveland Av,Columbus,Ohio,4,16,2017,40.0008289,-82.9750344,OH,0,9
+311 W  2nd St,Rock Falls,Illinois,4,15,2017,41.77330813,-89.69241657,IL,0,4
+300 block of S Meridian St,Indianapolis,Indiana,4,15,2017,39.77710046,-86.14634767,IN,0,4
+1480 Center Point Pkwy,Birmingham,Alabama,4,15,2017,32.63501642,-86.80937931,AL,0,6
+5900 block of Hammond Street,Philadelphia,Pennsylvania,4,15,2017,40.00763806,-75.1339627,PA,0,4
+14600 block of Myrtle Avenue,Harvey,Illinois,4,15,2017,41.60744719,-87.65228045,IL,0,4
+900 block of N Allen St,Banning,California,4,15,2017,37.24004903,-119.5032355,CA,0,4
+30 Anderson Ave SW,Atlanta,Georgia,4,13,2017,33.76265247,-84.4231419,GA,1,3
+3100 block of Fidelia Drive,San Antonio,Texas,4,9,2017,31.53834907,-99.6497468,TX,1,3
+9439 Lima Rd,Fort Wayne,Indiana,4,9,2017,41.08849204,-85.14358989,IN,1,3
+1423 29th Ave Dr NE,Hickory,North Carolina,4,7,2017,35.7672474,-81.3047341,NC,3,1
+3829 Mount Pleasant St,Houston,Texas,4,7,2017,29.7804724,-95.3863425,TX,5,0
+1600 block of English St,Saint Paul,Minnesota,4,7,2017,46.36813604,-93.71317296,MN,4,1
+5600 block of W Lake St,Chicago,Illinois,4,7,2017,41.83861021,-87.68661087,IL,1,5
+2000 block of Tulip St,Lake Charles,Louisiana,4,6,2017,30.8956711,-91.67752985,LA,1,3
+1100 block of W Stiles St,Philadelphia,Pennsylvania,4,3,2017,40.00763806,-75.1339627,PA,3,1
+5401 Ave Q,Lubbock,Texas,4,3,2017,33.56662511,-101.8863357,TX,0,7
+3500 block of West Van Buren Street,Chicago,Illinois,4,2,2017,41.83861021,-87.68661087,IL,2,4
+2500 Martin Luther King Jr. Parkway,Des Moines,Iowa,4,2,2017,41.6168992,-93.6472858,IA,0,5
+100 block of Madoline Street,Pittsburg,California,4,1,2017,38.01897413,-121.8970719,CA,0,5
+219 S Howard Ave,Tampa,Florida,4,1,2017,27.96800236,-82.4763859,FL,1,4
+1200 block of N Woodward Avenue,Oklahoma City,Oklahoma,4,1,2017,35.46760197,-97.51913834,OK,2,3
+2704 E 75th St,Chicago,Illinois,3,30,2017,41.83861021,-87.68661087,IL,4,0
+209 Hays Dr,Sanford,Florida,3,27,2017,28.7893022,-81.2817058,FL,2,4
+5619 Aldine Bender Rd,Houston,Texas,3,26,2017,29.7804724,-95.3863425,TX,2,4
+4601 Kellogg Ave,Cincinnati,Ohio,3,26,2017,39.0930526,-84.4283679,OH,2,15
+E 75th St,Cleveland,Ohio,3,26,2017,41.47926574,-81.68021483,OH,2,2
+8443 Grand River Ave,Detroit,Michigan,3,25,2017,41.93132091,-83.3292499,MI,1,3
+Minnesota Avenue,Knoxville,Tennessee,3,25,2017,35.9708752,-83.9464787,TN,1,4
+E 79th St and Woodland Ave,Cleveland,Ohio,3,25,2017,41.51121521,-81.56356397,OH,2,2
+300 block of South Villa Avenue,Fresno,California,3,24,2017,36.7826736,-119.794492,CA,1,4
+5100 block of Palm St,Saint Louis,Missouri,3,24,2017,38.30885939,-92.50820581,MO,1,6
+1133 E Grand Ave,Rothschild,Wisconsin,3,22,2017,44.87608278,-89.61725267,WI,5,0
+1512 Portland Avenue,Louisville,Kentucky,3,19,2017,38.2620287,-85.774895,KY,1,5
+16000 block of Rutherford,Detroit,Michigan,3,18,2017,41.93132091,-83.3292499,MI,3,2
+2508 Pasadena Ave,Metairie,Louisiana,3,15,2017,29.99764022,-90.17804761,LA,3,1
+123 E 51st St,Chicago,Illinois,3,10,2017,41.83861021,-87.68661087,IL,2,2
+4200 block of Touro St,New Orleans (Gentilly),Louisiana,3,10,2017,30.8956711,-91.67752985,LA,3,1
+West 76th Street and South May streets,Chicago,Illinois,3,7,2017,41.83861021,-87.68661087,IL,0,4
+600 block of 32nd Street,Columbus,Georgia,3,5,2017,32.5099615,-84.87704106,GA,0,4
+23rd and Bellview,Topeka,Kansas,3,4,2017,39.03580584,-95.6956385,KS,1,4
+2500 block of 33rd St,Sacramento,California,3,4,2017,38.56663215,-121.4682998,CA,0,4
+7165 Germantown Ave,Philadelphia,Pennsylvania,3,3,2017,40.06018752,-75.19067107,PA,0,4
+8300 block of Trey Ave,Riverside,California,3,3,2017,33.93812516,-117.3948458,CA,0,5
+1700 of Casey Drive,Cincinnati,Ohio,2,28,2017,39.14291321,-84.50366914,OH,0,6
+11810 Fountain Way,Newport News,Virginia,2,27,2017,37.08552697,-76.47165087,VA,0,4
+1700 block of Grant St,Gary,Indiana,2,26,2017,41.59560282,-87.3452059,IN,1,4
+1564 Niles Cortland Rd SE,Warren,Ohio,2,25,2017,41.23899134,-80.81849803,OH,2,3
+3604 Moncrief Rd,Jacksonville,Florida,2,25,2017,30.3603164,-81.6765256,FL,1,4
+191 Genesee St,Rochester,New York,2,22,2017,43.1463236,-77.6362896,NY,0,4
+16700 Lorain Ave,Cleveland,Ohio,2,21,2017,41.4509636,-81.813961,OH,0,4
+Butts Road,Toomsuba,Mississippi,2,21,2017,32.42669397,-88.5100102,MS,4,0
+1082 East 105th Street,Cleveland,Ohio,2,20,2017,41.47926574,-81.68021483,OH,0,5
+Church Street and East Virginia Beach Blvd,Norfolk,Virginia,2,19,2017,36.92334179,-76.24561422,VA,1,3
+1 block of N Conestoga,Philadelphia,Pennsylvania,2,18,2017,40.00763806,-75.1339627,PA,0,4
+1000 block of Yukon St,South Bend,Indiana,2,18,2017,41.67725366,-86.26911678,IN,1,3
+30 Soledad Street,Salinas,California,2,15,2017,36.6787592,-121.6527391,CA,0,4
+3949 South Albany Avenue,Chicago,Illinois,2,15,2017,41.83861021,-87.68661087,IL,3,2
+908 Truman Blvd,Caruthersville,Missouri,2,12,2017,36.18146297,-89.66640481,MO,1,6
+253 South William Street,Newburgh,New York,2,12,2017,41.49650453,-74.01917251,NY,1,3
+Church Ave and Obadiah St,Greenville,Florida,2,12,2017,30.46683052,-83.6352528,FL,0,5
+Clifton Road and Midway Drive,Savannah,Tennessee,2,11,2017,35.22104141,-88.23565846,TN,0,4
+100 block of North Mayfield,Chicago,Illinois,2,11,2017,41.83861021,-87.68661087,IL,1,3
+2nd St and Dryades St,New Orleans,Louisiana,2,10,2017,30.06880013,-89.9308814,LA,1,5
+3150 Robinson Road,Jackson,Mississippi,2,9,2017,32.31702909,-90.21275137,MS,4,0
+16379 Euclid Ave,Cleveland,Ohio,2,8,2017,41.47926574,-81.68021483,OH,1,4
+5500 block of Fairfield Road,Columbia,South Carolina,2,7,2017,34.0297833,-80.8965664,SC,0,4
+25 Par Drive,Little Rock,Arkansas,2,7,2017,34.72552519,-92.35834404,AR,1,4
+11th Street,Yazoo City,Mississippi,2,6,2017,32.60010548,-89.72682633,MS,4,0
+1576 S White Station Rd,Memphis,Tennessee,1,31,2017,35.0879367,-89.8904134,TN,0,4
+2900 block of Martin Luther King Jr Ave,Washington,District of Columbia,1,31,2017,38.90477236,-77.01628888,DC,0,4
+5410 Lakeland Ave N,Minneapolis (Crystal),Minnesota,1,30,2017,46.36813604,-93.71317296,MN,0,4
+6363 Hearne Ave,Shreveport,Louisiana,1,29,2017,30.8956711,-91.67752985,LA,1,4
+221 Morgan St,Brownsville,Tennessee,1,27,2017,35.58810404,-89.25745831,TN,0,10
+1510 Maryland Drive,Albany,Georgia,1,26,2017,31.57760367,-84.17632408,GA,2,3
+500 block of E 75th St,Chicago,Illinois,1,25,2017,41.83861021,-87.68661087,IL,0,6
+1800 block of W 63rd,Chicago (Englewood),Illinois,1,22,2017,40.10756121,-89.1611563,IL,3,2
+200 block of Oak Shore Dr,Manvel,Texas,1,22,2017,29.47617021,-95.35448477,TX,0,4
+2841 Greenbriar Pkwy SW,Atlanta,Georgia,1,22,2017,33.6867742,-84.4977293,GA,3,1
+6510 Tara Blvd,Jonesboro,Georgia,1,21,2017,33.52104092,-84.35433905,GA,0,6
+500 NE 2nd St,Boynton Beach,Florida,1,21,2017,26.52822978,-80.08113178,FL,0,5
+500 block of Delta Road,Memphis,Tennessee,1,21,2017,35.10520292,-89.97735447,TN,2,2
+Smart Road,Como,Mississippi,1,20,2017,34.51343985,-89.93906889,MS,1,4
+4700 block of E Montecito Ave,Fresno,California,1,20,2017,36.7826736,-119.794492,CA,0,4
+8535 Martin Luther King Boulevard,Houston,Texas,1,16,2017,29.65892473,-95.33615253,TX,0,4
+6011 NW 32nd Ave,Miami,Florida,1,16,2017,25.77525637,-80.20885121,FL,0,8
+County Road Y,Capulin,Colorado,1,15,2017,37.28188559,-106.1049465,CO,3,1
+6000 block of Church Road,Magnolia,Mississippi,1,15,2017,31.16194801,-90.46700056,MS,1,4
+8607 E 61st Terrace,Kansas City,Missouri,1,12,2017,38.30885939,-92.50820581,MO,3,2
+500 block of Sunrise St,Salinas,California,1,12,2017,36.68891743,-121.631812,CA,2,2
+Hawkins Street and Christie Street,Newark,New Jersey,1,11,2017,40.72417185,-74.17242155,NJ,1,3
+4200 block of S Talman,Chicago,Illinois,1,11,2017,41.83861021,-87.68661087,IL,1,3
+2500 block of Churchill Ave,Flint,Michigan,1,7,2017,43.02363394,-83.69206403,MI,1,3
+100 block of W Claremont St,Pasadena,California,1,6,2017,34.15976348,-118.1389217,CA,2,2
+100 Terminal Dr,Fort Lauderdale,Florida,1,6,2017,26.14083882,-80.1436977,FL,5,6
+14520 Village Drive,Fontana,California,1,4,2017,34.0441914,-117.4862138,CA,3,1
+500 block of Hawthorne Drive,Allen,Texas,1,3,2017,33.10880491,-96.6725949,TX,0,4
+114 North Greyer Street,Winstonville,Mississippi,1,1,2017,33.91229227,-90.75288358,MS,0,5
+9220 Skillman Street,Dallas,Texas,1,1,2017,32.9021858,-96.7143019,TX,1,3
+8000 block of NW 14th Ave,Miami,Florida,1,1,2017,25.77525637,-80.20885121,FL,0,7
+>>>>>>> 30bfe02f09e62f2c2c25a884607df55a57fc86d7:MassShooting.csv
