@@ -64,6 +64,8 @@ function renderMSBar() {
             .text("Total Incidents by Month (Click to see points)");
 
 var allMonths = [0,0,0,0,0,0,0,0,0,0,0,0];
+var MSCluster = L.markerClusterGroup();
+var MSmonthLayerGroup = L.geoJson;
         g.selectAll(".bar")
             .data(data)
             .enter().append("rect")
@@ -78,13 +80,13 @@ var allMonths = [0,0,0,0,0,0,0,0,0,0,0,0];
             .on("click", function(d){
                 if( allMonths[d.allYearMonths-1] === 0){
                     allMonths[d.allYearMonths-1]=1;
-                    triggerMapPoints(d.allYearMonths, map1, MSincidents);
+                    triggerMapPoints(d.allYearMonths, map1, MSincidents, MSCluster, MSmonthLayerGroup);
                     triggerBarHighlight(d.allYearMonths,"MS");
                 }
                 else{
                     allMonths[d.allYearMonths-1]=0;                    
                     triggerBarReset(d.allYearMonths,"MS");
-                    triggerMapReset(allMonths, map1, MSincidents);
+                    triggerMapReset(allMonths, map1, MSincidents, MSCluster, MSmonthLayerGroup);
                 }
             });
     });

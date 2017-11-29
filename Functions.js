@@ -5,11 +5,12 @@ function addPopups(feature, layer) {
     }
     layer.bindPopup("<b>Address: </b>" + feature.properties.Address + 
     "</br>" + feature.properties.CityOrCounty + ", " + feature.properties.StateAbr + 
-    "</br> <b>Date: </b>" + monthFixed+ "/" + feature.properties.Year);
+    "</br> <b>Date: </b>" + monthFixed+ "/" + feature.properties.Year+
+    "</br> <b>Killed: </b>" + feature.properties.Killed+
+    "</br> <b>Injured: </b>" + feature.properties.Injured);
 }
-var clusters = L.markerClusterGroup();
-var monthLayerGroup = L.geoJson;
-function triggerMapPoints(Month, map, incidents) {
+
+function triggerMapPoints(Month, map, incidents, clusters, monthLayerGroup) {
 
     monthLayerGroup = L.geoJson(incidents, {
         filter: monthFilter,
@@ -28,7 +29,7 @@ function triggerMapPoints(Month, map, incidents) {
     }
 }
 
-function triggerMapReset(allMonths, map, incidents) {
+function triggerMapReset(allMonths, map, incidents, clusters, monthLayerGroup) {
     clusters.clearLayers();
     for (var i = 0; i < allMonths.length; i++) {
         if (allMonths[i] == 1) {

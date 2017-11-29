@@ -11,7 +11,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "31",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +32,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +53,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -68,7 +74,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +95,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "26",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +116,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "24",
         "Year": "2014",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -125,7 +137,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +158,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "22",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -163,7 +179,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "22",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "4",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -182,7 +200,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "22",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -201,7 +221,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -220,7 +242,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -239,7 +263,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -258,7 +284,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -277,7 +305,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -296,7 +326,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "14",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "7",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -315,7 +347,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -334,7 +368,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "OR"
+        "StateAbr": "OR",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -353,7 +389,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -372,7 +410,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "7",
         "Year": "2014",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +431,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -410,7 +452,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -429,7 +473,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "30",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -448,7 +494,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "30",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +515,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -486,7 +536,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -505,7 +557,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "28",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -524,7 +578,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -543,7 +599,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "26",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -562,7 +620,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -581,7 +641,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -600,7 +662,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2014",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -619,7 +683,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2014",
-        "StateAbr": "SD"
+        "StateAbr": "SD",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -638,7 +704,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2014",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -657,7 +725,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -676,7 +746,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "19",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -695,7 +767,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "18",
         "Year": "2014",
-        "StateAbr": "NV"
+        "StateAbr": "NV",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -714,7 +788,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -733,7 +809,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -752,7 +830,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "15",
         "Year": "2014",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -771,7 +851,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "15",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -790,7 +872,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -809,7 +893,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "7",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -828,7 +914,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "7",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -847,7 +935,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -866,7 +956,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -885,7 +977,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "26",
         "Year": "2014",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -904,7 +998,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "24",
         "Year": "2014",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "5",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -923,7 +1019,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "24",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -942,7 +1040,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "18",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -961,7 +1061,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "18",
         "Year": "2014",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -980,7 +1082,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "18",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -999,7 +1103,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1018,7 +1124,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "14",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -1037,7 +1145,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1056,7 +1166,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -1075,7 +1187,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1094,7 +1208,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "11",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1113,7 +1229,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1132,7 +1250,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -1151,7 +1271,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1170,7 +1292,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -1189,13 +1313,15 @@ var MSincidents =
         "Month": "10",
         "Day ": "4",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-            35.169966,
-            -89.9218763
+          -89.920782,
+          35.169966
         ]
       }
     },
@@ -1208,7 +1334,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "4",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -1227,7 +1355,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1246,7 +1376,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1265,7 +1397,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "28",
         "Year": "2014",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "15"
       },
       "geometry": {
         "type": "Point",
@@ -1284,7 +1418,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "28",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1303,7 +1439,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1322,7 +1460,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "26",
         "Year": "2014",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1341,7 +1481,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -1360,7 +1502,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1379,7 +1523,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "19",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "8",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -1398,7 +1544,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "18",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1417,7 +1565,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "15",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -1436,7 +1586,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "14",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -1455,7 +1607,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "14",
         "Year": "2014",
-        "StateAbr": "AK"
+        "StateAbr": "AK",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -1474,7 +1628,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "11",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1493,7 +1649,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "6",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1512,7 +1670,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "6",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1531,7 +1691,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "4",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -1550,7 +1712,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "3",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1569,7 +1733,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1588,7 +1754,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1607,7 +1775,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "31",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -1626,7 +1796,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1645,7 +1817,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "3",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1664,7 +1838,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "24",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1683,7 +1859,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "24",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1702,7 +1880,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "24",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1721,7 +1901,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1740,7 +1922,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "18",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1759,7 +1943,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "17",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1778,7 +1964,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "17",
         "Year": "2014",
-        "StateAbr": "NV"
+        "StateAbr": "NV",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1797,7 +1985,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "17",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1816,7 +2006,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "17",
         "Year": "2014",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1835,7 +2027,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -1854,7 +2048,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "UT"
+        "StateAbr": "UT",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1873,7 +2069,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "14",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1892,7 +2090,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -1911,7 +2111,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1930,7 +2132,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -1949,7 +2153,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -1968,7 +2174,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "10",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -1987,7 +2195,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "10",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -2006,7 +2216,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "10",
         "Year": "2014",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -2025,7 +2237,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "10",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -2044,7 +2258,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "9",
         "Year": "2014",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2063,7 +2279,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "WI"
+        "StateAbr": "WI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -2082,7 +2300,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "NM"
+        "StateAbr": "NM",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2101,7 +2321,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -2120,7 +2342,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "6",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2139,7 +2363,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "4",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -2158,7 +2384,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "3",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2177,7 +2405,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "3",
         "Year": "2014",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -2196,7 +2426,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "3",
         "Year": "2014",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2215,7 +2447,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "3",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -2234,7 +2468,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -2253,7 +2489,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2272,7 +2510,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -2291,7 +2531,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "1",
         "Year": "2014",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -2310,7 +2552,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "30",
         "Year": "2014",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2329,7 +2573,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "28",
         "Year": "2014",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2348,7 +2594,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -2367,7 +2615,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "26",
         "Year": "2014",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "0",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -2386,7 +2636,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "26",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -2405,7 +2657,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "26",
         "Year": "2014",
-        "StateAbr": "ME"
+        "StateAbr": "ME",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -2424,7 +2678,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "25",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2443,7 +2699,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2462,7 +2720,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -2481,7 +2741,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -2500,7 +2762,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -2519,7 +2783,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "NV"
+        "StateAbr": "NV",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2538,7 +2804,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "19",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2557,7 +2825,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "14",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2576,7 +2846,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2595,7 +2867,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2614,7 +2888,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -2633,7 +2909,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -2652,7 +2930,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "11",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "6",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -2671,7 +2951,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "9",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2690,7 +2972,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "RI"
+        "StateAbr": "RI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2709,7 +2993,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "7",
         "Year": "2014",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2728,7 +3014,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "7",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -2747,7 +3035,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "6",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2766,7 +3056,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "6",
         "Year": "2014",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2785,7 +3077,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "6",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2804,7 +3098,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -2823,7 +3119,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "OR"
+        "StateAbr": "OR",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -2842,7 +3140,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2861,7 +3161,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -2880,7 +3182,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -2899,7 +3203,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2918,7 +3224,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2014",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2937,7 +3245,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -2956,7 +3266,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "30",
         "Year": "2014",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "1",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -2975,7 +3287,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -2994,7 +3308,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3013,7 +3329,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -3032,7 +3350,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "28",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3051,7 +3371,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "28",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3070,7 +3392,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3089,7 +3413,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -3108,7 +3434,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -3127,7 +3455,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "26",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -3146,7 +3476,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "26",
         "Year": "2014",
-        "StateAbr": "WI"
+        "StateAbr": "WI",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -3165,7 +3497,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "25",
         "Year": "2014",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "2",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -3184,7 +3518,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "24",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3203,7 +3539,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "22",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3222,7 +3560,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -3241,7 +3581,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3260,7 +3602,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3279,7 +3623,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "15",
         "Year": "2014",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3298,7 +3644,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "15",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -3317,7 +3665,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -3336,7 +3686,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "9",
         "Year": "2014",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3355,7 +3707,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -3374,7 +3728,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "7",
         "Year": "2014",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3393,7 +3749,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "7",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3412,7 +3770,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "4",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3431,7 +3791,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "3",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -3450,7 +3812,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -3469,7 +3833,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "1",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3488,7 +3854,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "1",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3507,7 +3875,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "31",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3526,7 +3896,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "25",
         "Year": "2014",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3545,7 +3917,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "24",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -3564,7 +3938,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "24",
         "Year": "2014",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "4",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -3583,7 +3959,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -3602,7 +3980,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -3621,7 +4001,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3640,7 +4022,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -3659,7 +4043,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "18",
         "Year": "2014",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3678,7 +4064,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "17",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -3697,7 +4085,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "17",
         "Year": "2014",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -3716,7 +4106,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3735,7 +4127,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -3754,7 +4148,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "11",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -3773,7 +4169,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "11",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3792,7 +4190,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "10",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -3811,7 +4211,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "10",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3830,7 +4232,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "10",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3849,7 +4253,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "4",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3868,7 +4274,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "4",
         "Year": "2014",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "4",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3887,7 +4295,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "3",
         "Year": "2014",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -3906,7 +4316,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "30",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -3925,7 +4337,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "29",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -3944,7 +4358,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3963,7 +4379,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "25",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -3982,7 +4400,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "22",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -4001,7 +4421,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -4020,7 +4442,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -4039,7 +4463,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4058,7 +4484,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "14",
         "Year": "2014",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -4077,7 +4505,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4096,7 +4526,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "11",
         "Year": "2014",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -4115,7 +4547,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "9",
         "Year": "2014",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4134,7 +4568,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "9",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4153,7 +4589,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "7",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4172,7 +4610,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "6",
         "Year": "2014",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4191,7 +4631,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "6",
         "Year": "2014",
-        "StateAbr": "OK"
+        "StateAbr": "OK",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -4210,7 +4652,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -4229,7 +4673,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4248,7 +4694,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "4",
+        "Injured": "16"
       },
       "geometry": {
         "type": "Point",
@@ -4267,7 +4715,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "2",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -4286,7 +4736,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "30",
         "Year": "2014",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -4305,7 +4757,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "30",
         "Year": "2014",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -4324,7 +4778,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -4343,7 +4799,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -4362,7 +4820,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "23",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4381,7 +4841,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -4400,7 +4862,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4419,7 +4883,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4438,7 +4904,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "14",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -4457,7 +4925,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "9",
         "Year": "2014",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -4476,7 +4946,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "9",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -4495,7 +4967,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -4514,7 +4988,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "8",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -4533,7 +5009,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4552,7 +5030,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "1",
         "Year": "2014",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4571,7 +5051,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "1",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "5",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -4590,7 +5072,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "25",
         "Year": "2014",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4609,7 +5093,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "22",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "4",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -4628,7 +5114,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -4647,7 +5135,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4666,7 +5156,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -4685,7 +5177,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4704,7 +5198,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -4723,7 +5219,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -4742,7 +5240,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -4761,7 +5261,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "15",
         "Year": "2014",
-        "StateAbr": "NV"
+        "StateAbr": "NV",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -4780,7 +5282,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -4799,7 +5303,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -4818,7 +5324,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -4837,7 +5345,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "7",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4856,7 +5366,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "6",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -4875,7 +5387,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "5",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -4894,7 +5408,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "3",
         "Year": "2014",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4913,7 +5429,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4932,7 +5450,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "27",
         "Year": "2014",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4951,7 +5471,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "25",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -4970,7 +5492,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "25",
         "Year": "2014",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -4989,7 +5513,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "21",
         "Year": "2014",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5008,7 +5534,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "20",
         "Year": "2014",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -5027,7 +5555,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "UT"
+        "StateAbr": "UT",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5046,7 +5576,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "16",
         "Year": "2014",
-        "StateAbr": "OK"
+        "StateAbr": "OK",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5065,7 +5597,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "14",
         "Year": "2014",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5084,7 +5618,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "13",
         "Year": "2014",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -5103,7 +5639,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -5122,7 +5660,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -5141,7 +5681,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "12",
         "Year": "2014",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5160,7 +5702,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "3",
         "Year": "2014",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -5179,7 +5723,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "1",
         "Year": "2014",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -5198,7 +5744,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "31",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5217,7 +5765,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5236,7 +5786,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5255,7 +5807,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5274,7 +5828,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5293,7 +5849,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "21",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5312,7 +5870,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5331,7 +5891,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5350,7 +5912,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5369,7 +5933,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5388,7 +5954,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5407,7 +5975,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5426,7 +5996,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5445,7 +6017,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "11",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5464,7 +6038,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "11",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5483,7 +6059,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5502,7 +6080,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "6",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5521,7 +6101,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "6",
         "Year": "2015",
-        "StateAbr": "NE"
+        "StateAbr": "NE",
+        "Killed": "16",
+        "Injured": "19"
       },
       "geometry": {
         "type": "Point",
@@ -5540,7 +6122,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5559,7 +6143,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -5578,7 +6164,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "29",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "3",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -5597,7 +6185,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -5616,7 +6206,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5635,7 +6227,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -5654,7 +6248,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -5673,7 +6269,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5692,7 +6290,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5711,7 +6311,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -5730,7 +6332,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5749,7 +6353,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5768,7 +6374,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "17"
       },
       "geometry": {
         "type": "Point",
@@ -5787,7 +6395,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5806,7 +6416,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "21",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5825,7 +6437,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -5844,7 +6458,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -5863,7 +6479,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5882,7 +6500,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -5901,7 +6521,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5920,7 +6542,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "14",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -5939,7 +6563,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -5958,7 +6584,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "9",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -5977,7 +6605,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "IA"
+        "StateAbr": "IA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -5996,7 +6626,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6015,7 +6647,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6034,7 +6668,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "6",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6053,7 +6689,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "3",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -6072,7 +6710,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6091,7 +6731,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6110,7 +6752,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6129,7 +6773,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6148,7 +6794,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6167,7 +6815,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6186,7 +6836,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6205,7 +6857,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6224,7 +6878,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -6243,7 +6899,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "19",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6262,7 +6920,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6281,7 +6941,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6300,7 +6962,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6319,7 +6983,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -6338,7 +7004,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6357,7 +7025,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6376,7 +7046,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6395,7 +7067,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "9",
         "Year": "2015",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6414,7 +7088,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "6",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6433,7 +7109,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "10",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -6452,7 +7130,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "1",
         "Year": "2015",
-        "StateAbr": "OR"
+        "StateAbr": "OR",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6471,7 +7151,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -6490,7 +7172,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6509,7 +7193,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6528,7 +7214,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "10"
       },
       "geometry": {
         "type": "Point",
@@ -6547,7 +7235,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6566,7 +7256,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6585,7 +7277,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6604,7 +7298,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6623,7 +7319,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6642,7 +7340,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6661,7 +7361,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6680,7 +7382,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6699,7 +7403,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6718,7 +7424,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -6737,7 +7445,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "OK"
+        "StateAbr": "OK",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6756,7 +7466,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "19",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "6",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -6775,7 +7487,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "SD"
+        "StateAbr": "SD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6794,7 +7508,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6813,7 +7529,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6832,7 +7550,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6851,7 +7571,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6870,7 +7592,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -6889,7 +7613,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -6908,7 +7634,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -6927,7 +7655,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "11",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -6946,7 +7676,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6965,7 +7697,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -6984,7 +7718,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7003,7 +7739,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7022,7 +7760,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7041,7 +7781,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7060,7 +7802,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7079,7 +7823,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "NV"
+        "StateAbr": "NV",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7098,7 +7844,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7117,7 +7865,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "30",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -7136,7 +7886,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "29",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7155,7 +7907,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "29",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7174,7 +7928,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -7193,7 +7949,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -7212,7 +7970,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7231,7 +7991,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -7250,7 +8012,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7269,7 +8033,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -7288,7 +8054,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7307,7 +8075,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -7326,7 +8096,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "NM"
+        "StateAbr": "NM",
+        "Killed": "0",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -7345,7 +8117,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "21",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -7364,7 +8138,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "21",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -7383,7 +8159,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "3",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7402,7 +8180,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "19",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -7421,7 +8201,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7440,7 +8222,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -7459,7 +8243,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7478,7 +8264,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7497,7 +8285,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7516,7 +8306,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7535,7 +8327,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7554,7 +8348,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "9",
         "Year": "2015",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7573,7 +8369,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "9",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7592,7 +8390,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "9",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7611,7 +8411,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "11"
       },
       "geometry": {
         "type": "Point",
@@ -7630,7 +8432,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "8",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -7649,7 +8453,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -7668,7 +8474,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "VT"
+        "StateAbr": "VT",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7687,7 +8495,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "6",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7706,7 +8516,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -7725,7 +8537,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "3",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -7744,7 +8558,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -7763,7 +8579,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7782,7 +8600,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -7801,7 +8621,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7820,7 +8642,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7839,7 +8663,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "1",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7858,7 +8684,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "30",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -7877,7 +8705,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -7896,7 +8726,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7915,7 +8747,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7934,7 +8768,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -7953,7 +8789,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "3",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -7972,7 +8810,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -7991,7 +8831,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -8010,7 +8852,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "21",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -8029,7 +8873,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8048,7 +8894,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "19",
         "Year": "2015",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -8067,7 +8915,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "19",
         "Year": "2015",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8086,7 +8936,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "19",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8105,7 +8957,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -8124,7 +8978,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8143,7 +8999,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "OR"
+        "StateAbr": "OR",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -8162,7 +9020,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -8181,7 +9041,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8200,7 +9062,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "6",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -8219,7 +9083,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -8238,7 +9104,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -8257,7 +9125,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -8276,7 +9146,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -8295,7 +9167,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8314,7 +9188,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -8333,7 +9209,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8352,7 +9230,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "14",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8371,7 +9251,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8390,7 +9272,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -8409,7 +9293,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8428,7 +9314,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -8447,7 +9335,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -8466,7 +9356,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -8485,7 +9377,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -8504,7 +9398,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -8523,7 +9419,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -8542,7 +9440,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8561,7 +9461,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8580,7 +9482,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8599,7 +9503,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8618,7 +9524,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -8637,7 +9545,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8656,7 +9566,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "29",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -8675,7 +9587,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -8694,7 +9608,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -8713,7 +9629,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "DE"
+        "StateAbr": "DE",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -8732,7 +9650,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8751,7 +9671,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8770,7 +9692,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -8789,7 +9713,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8808,7 +9734,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "21",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8827,7 +9755,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "21",
         "Year": "2015",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "1",
+        "Injured": "11"
       },
       "geometry": {
         "type": "Point",
@@ -8846,7 +9776,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8865,7 +9797,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "0",
+        "Injured": "11"
       },
       "geometry": {
         "type": "Point",
@@ -8884,7 +9818,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8903,7 +9839,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "19",
         "Year": "2015",
-        "StateAbr": "RI"
+        "StateAbr": "RI",
+        "Killed": "9",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -8922,7 +9860,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8941,7 +9881,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8960,7 +9902,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -8979,7 +9923,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "14",
         "Year": "2015",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -8998,7 +9944,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "14",
         "Year": "2015",
-        "StateAbr": "OK"
+        "StateAbr": "OK",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9017,7 +9965,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "14",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9036,7 +9986,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9055,7 +10007,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -9074,7 +10028,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9093,7 +10049,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "OK"
+        "StateAbr": "OK",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -9112,7 +10070,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9131,7 +10091,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -9150,7 +10112,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2015",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9169,7 +10133,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9188,7 +10154,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9207,7 +10175,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "9",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -9226,7 +10196,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "MT"
+        "StateAbr": "MT",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9245,7 +10217,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "6",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -9264,7 +10238,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "6",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -9283,7 +10259,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "IA"
+        "StateAbr": "IA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9302,7 +10280,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -9321,7 +10301,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "3",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -9340,7 +10322,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "31",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9359,7 +10343,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "31",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -9378,7 +10364,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "31",
         "Year": "2015",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -9397,7 +10385,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "31",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9416,7 +10406,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "30",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9435,7 +10427,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "NE"
+        "StateAbr": "NE",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -9454,7 +10448,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9473,7 +10469,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -9492,7 +10490,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9511,7 +10511,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -9530,7 +10532,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -9549,7 +10553,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9568,7 +10574,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9587,7 +10595,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -9606,7 +10616,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9625,7 +10637,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9644,7 +10658,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9663,7 +10679,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "9",
+        "Injured": "18"
       },
       "geometry": {
         "type": "Point",
@@ -9682,7 +10700,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -9701,7 +10721,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "WI"
+        "StateAbr": "WI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9720,7 +10742,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -9739,7 +10763,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9758,7 +10784,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -9777,7 +10805,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "12",
         "Year": "2015",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9796,7 +10826,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9815,7 +10847,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9834,7 +10868,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9853,7 +10889,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9872,7 +10910,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -9891,7 +10931,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9910,7 +10952,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "3",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -9929,7 +10973,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "3",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -9948,7 +10994,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "3",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -9967,7 +11015,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "3",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -9986,7 +11036,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "3",
         "Year": "2015",
-        "StateAbr": "WI"
+        "StateAbr": "WI",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10005,7 +11057,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "1",
         "Year": "2015",
-        "StateAbr": "WI"
+        "StateAbr": "WI",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10024,7 +11078,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -10043,7 +11099,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10062,7 +11120,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -10081,7 +11141,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10100,7 +11162,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "21",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10119,7 +11183,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "19",
         "Year": "2015",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10138,7 +11204,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10157,7 +11225,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10176,7 +11246,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10195,7 +11267,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10214,7 +11288,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -10233,7 +11309,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "16",
         "Year": "2015",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10252,7 +11330,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10271,7 +11351,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10290,7 +11372,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10309,7 +11393,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10328,7 +11414,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10347,7 +11435,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "3",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10366,7 +11456,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -10385,7 +11477,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "27",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10404,7 +11498,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -10423,7 +11519,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10442,7 +11540,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -10461,7 +11561,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "NM"
+        "StateAbr": "NM",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10480,7 +11582,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "21",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10499,7 +11603,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10518,7 +11624,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10537,7 +11645,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "18",
         "Year": "2015",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "3",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10556,7 +11666,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10575,7 +11687,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10594,7 +11708,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "14",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10613,7 +11729,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "14",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10632,7 +11750,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10651,7 +11771,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10670,7 +11792,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "9",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10689,7 +11813,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10708,7 +11834,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10727,7 +11855,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10746,7 +11876,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "1",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10765,7 +11897,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "1",
         "Year": "2015",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10784,7 +11918,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "8",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -10803,7 +11939,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -10822,7 +11960,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "25",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10841,7 +11981,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -10860,7 +12002,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -10879,7 +12023,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10898,7 +12044,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "22",
         "Year": "2015",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -10917,7 +12065,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -10936,7 +12086,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "17",
         "Year": "2015",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -10955,7 +12107,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "15",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -10974,7 +12128,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "9",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -10993,7 +12149,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "5",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -11012,7 +12170,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11031,7 +12191,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "6",
         "Year": "2015",
-        "StateAbr": "OK"
+        "StateAbr": "OK",
+        "Killed": "3",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11050,7 +12212,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "5",
         "Year": "2015",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -11069,7 +12233,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "1",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11088,7 +12254,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "1",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -11107,7 +12275,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "31",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11126,7 +12296,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "28",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11145,7 +12317,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "26",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -11164,7 +12338,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "3",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -11183,7 +12359,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "24",
         "Year": "2015",
-        "StateAbr": "NE"
+        "StateAbr": "NE",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -11202,7 +12380,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "23",
         "Year": "2015",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11221,7 +12401,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "20",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -11240,7 +12422,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "19",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -11259,7 +12443,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -11278,7 +12464,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "13",
         "Year": "2015",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -11297,7 +12485,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "11",
         "Year": "2015",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11316,7 +12506,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "11",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -11335,7 +12527,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "11",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -11354,7 +12548,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "10",
         "Year": "2015",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -11373,7 +12569,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "9",
         "Year": "2015",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11392,7 +12590,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "8",
         "Year": "2015",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11411,7 +12611,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "7",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11430,7 +12632,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "6",
         "Year": "2015",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11449,7 +12653,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -11468,7 +12674,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "4",
         "Year": "2015",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11487,7 +12695,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "2",
         "Year": "2015",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -11506,7 +12716,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "1",
         "Year": "2015",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -11525,7 +12737,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "31",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11544,7 +12758,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "31",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -11563,7 +12779,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -11582,7 +12800,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11601,7 +12821,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11620,7 +12842,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "3",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11639,7 +12863,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -11658,7 +12884,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -11677,7 +12905,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -11696,7 +12926,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11715,7 +12947,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11734,7 +12968,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11753,7 +12989,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -11772,7 +13010,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -11791,7 +13031,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11810,7 +13052,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -11829,7 +13073,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "12",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11848,7 +13094,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11867,7 +13115,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -11886,7 +13136,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11905,7 +13157,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -11924,7 +13178,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -11943,7 +13199,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -11962,7 +13220,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "NM"
+        "StateAbr": "NM",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -11981,7 +13241,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -12000,7 +13262,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "2",
         "Year": "2016",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12019,7 +13283,9 @@ var MSincidents =
         "Month": "12",
         "Day ": "1",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12038,7 +13304,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12057,7 +13325,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12076,7 +13346,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12095,7 +13367,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -12114,7 +13388,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -12133,7 +13409,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12152,7 +13430,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12171,7 +13451,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12190,7 +13472,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12209,7 +13493,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12228,7 +13514,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12247,7 +13535,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12266,7 +13556,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -12285,7 +13577,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -12304,7 +13598,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12323,7 +13619,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -12342,7 +13640,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12361,7 +13661,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12380,7 +13682,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "12",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12399,7 +13703,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "12",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12418,7 +13724,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "12",
         "Year": "2016",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12437,7 +13745,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12456,7 +13766,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "10",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12475,7 +13787,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12494,7 +13808,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12513,7 +13829,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12532,7 +13850,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12551,7 +13871,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12570,7 +13892,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -12589,7 +13913,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12608,7 +13934,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12627,7 +13955,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -12646,7 +13976,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -12665,7 +13997,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12684,7 +14018,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "2",
         "Year": "2016",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12703,7 +14039,9 @@ var MSincidents =
         "Month": "11",
         "Day ": "1",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12722,7 +14060,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "31",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12741,7 +14081,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12760,7 +14102,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12779,7 +14123,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "3",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12798,7 +14144,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12817,7 +14165,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12836,7 +14186,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12855,7 +14207,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12874,7 +14228,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -12893,7 +14249,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -12912,7 +14270,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -12931,7 +14291,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12950,7 +14312,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -12969,7 +14333,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -12988,7 +14354,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "OK"
+        "StateAbr": "OK",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -13007,7 +14375,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13026,7 +14396,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13045,7 +14417,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -13064,7 +14438,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "15",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -13083,7 +14459,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "15",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "4",
+        "Injured": "11"
       },
       "geometry": {
         "type": "Point",
@@ -13102,7 +14480,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "15",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -13121,7 +14501,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13140,7 +14522,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -13159,7 +14543,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -13178,7 +14564,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13197,7 +14585,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -13216,7 +14606,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13235,7 +14627,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13254,7 +14648,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "2",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -13273,7 +14669,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "1",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13292,7 +14690,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "1",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -13311,7 +14711,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13330,7 +14732,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13349,7 +14753,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -13368,7 +14774,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -13387,7 +14795,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -13406,7 +14816,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -13425,7 +14837,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13444,7 +14858,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -13463,7 +14879,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13482,7 +14900,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -13501,7 +14921,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -13520,7 +14942,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -13539,7 +14963,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "2",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -13558,7 +14984,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -13577,7 +15005,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -13596,7 +15026,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -13615,7 +15047,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -13634,7 +15068,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -13653,7 +15089,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -13672,7 +15110,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -13691,7 +15131,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -13710,7 +15152,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -13729,7 +15173,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -13748,7 +15194,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -13767,7 +15215,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "10",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -13786,7 +15236,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13805,7 +15257,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -13824,7 +15278,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13843,7 +15299,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "10"
       },
       "geometry": {
         "type": "Point",
@@ -13862,7 +15320,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13881,7 +15341,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -13900,7 +15362,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13919,7 +15383,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -13938,7 +15404,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -13957,7 +15425,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -13976,7 +15446,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -13995,7 +15467,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14014,7 +15488,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -14033,7 +15509,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -14052,7 +15530,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -14071,7 +15551,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14090,7 +15572,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -14109,7 +15593,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "13"
       },
       "geometry": {
         "type": "Point",
@@ -14128,7 +15614,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14147,7 +15635,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -14166,7 +15656,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "20",
         "Year": "2016",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14185,7 +15677,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "20",
         "Year": "2016",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -14204,7 +15698,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "20",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14223,7 +15719,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14242,7 +15740,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14261,7 +15761,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -14280,7 +15782,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14299,7 +15803,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -14318,7 +15824,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "WI"
+        "StateAbr": "WI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14337,7 +15845,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14356,7 +15866,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -14375,7 +15887,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "12",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -14394,7 +15908,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "12",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14413,7 +15929,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14432,7 +15950,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "10",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -14451,7 +15971,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "10",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -14470,7 +15992,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "NM"
+        "StateAbr": "NM",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -14489,7 +16013,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -14508,7 +16034,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -14527,7 +16055,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -14546,7 +16076,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14565,7 +16097,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -14584,7 +16118,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -14603,7 +16139,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -14622,7 +16160,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14641,7 +16181,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -14660,7 +16202,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14679,7 +16223,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14698,7 +16244,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "1",
         "Year": "2016",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -14717,7 +16265,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "31",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14736,7 +16286,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "31",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -14755,7 +16307,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -14774,7 +16328,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -14793,7 +16349,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -14812,7 +16370,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -14831,7 +16391,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14850,7 +16412,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -14869,7 +16433,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "19"
       },
       "geometry": {
         "type": "Point",
@@ -14888,7 +16454,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -14907,7 +16475,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14926,7 +16496,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -14945,7 +16517,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -14964,7 +16538,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -14983,7 +16559,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -15002,7 +16580,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -15021,7 +16601,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15040,7 +16622,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "20",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15059,7 +16643,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "19",
         "Year": "2016",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "4",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -15078,7 +16664,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -15097,7 +16685,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15116,7 +16706,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -15135,7 +16727,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -15154,7 +16748,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15173,7 +16769,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "14"
       },
       "geometry": {
         "type": "Point",
@@ -15192,7 +16790,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -15211,7 +16811,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -15230,7 +16832,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "15",
         "Year": "2016",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -15249,7 +16853,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15268,7 +16874,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -15287,7 +16895,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -15306,7 +16916,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -15325,7 +16937,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -15344,7 +16958,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15363,7 +16979,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -15382,7 +17000,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15401,7 +17021,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15420,7 +17042,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "5",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -15439,7 +17063,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15458,7 +17084,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15477,7 +17105,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15496,7 +17126,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15515,7 +17147,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -15534,7 +17168,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15553,7 +17189,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -15572,7 +17210,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "2",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -15591,7 +17231,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -15610,7 +17252,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15629,7 +17273,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15648,7 +17294,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -15667,7 +17315,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "NV"
+        "StateAbr": "NV",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -15686,7 +17336,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15705,7 +17357,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -15724,7 +17378,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "OR"
+        "StateAbr": "OR",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15743,7 +17399,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15762,7 +17420,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -15781,7 +17441,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15800,7 +17462,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -15819,7 +17483,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -15838,7 +17504,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15857,7 +17525,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15876,7 +17546,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15895,7 +17567,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -15914,7 +17588,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -15933,7 +17609,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -15952,7 +17630,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15971,7 +17651,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -15990,7 +17672,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16009,7 +17693,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -16028,7 +17714,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16047,7 +17735,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "19",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16066,7 +17756,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -16085,7 +17777,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16104,7 +17798,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16123,7 +17819,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "DE"
+        "StateAbr": "DE",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16142,7 +17840,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16161,7 +17861,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -16180,7 +17882,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -16199,7 +17903,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "50",
+        "Injured": "53"
       },
       "geometry": {
         "type": "Point",
@@ -16218,7 +17924,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "12",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -16237,7 +17945,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "NM"
+        "StateAbr": "NM",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16256,7 +17966,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16275,7 +17987,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -16294,7 +18008,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16313,7 +18029,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16332,7 +18050,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16351,7 +18071,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16370,7 +18092,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16389,7 +18113,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16408,7 +18134,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "3",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16427,7 +18155,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16446,7 +18176,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16465,7 +18197,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -16484,7 +18218,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16503,7 +18239,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "31",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16522,7 +18260,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "31",
         "Year": "2016",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -16541,7 +18281,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -16560,7 +18302,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16579,7 +18323,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "NV"
+        "StateAbr": "NV",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -16598,7 +18344,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16617,7 +18365,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "2",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -16636,7 +18386,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -16655,7 +18407,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16674,7 +18428,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16693,7 +18449,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16712,7 +18470,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16731,7 +18491,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16750,7 +18512,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -16769,7 +18533,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16788,7 +18554,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "15",
         "Year": "2016",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -16807,7 +18575,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "15",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -16826,7 +18596,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16845,7 +18617,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "WV"
+        "StateAbr": "WV",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16864,7 +18638,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -16883,7 +18659,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16902,7 +18680,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -16921,7 +18701,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16940,7 +18722,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "3",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16959,7 +18743,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "2",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -16978,7 +18764,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -16997,7 +18785,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -17016,7 +18806,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -17035,7 +18827,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "1",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17054,7 +18848,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -17073,7 +18869,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "29",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -17092,7 +18890,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -17111,7 +18911,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17130,7 +18932,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17149,7 +18953,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -17168,7 +18974,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -17187,7 +18995,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -17206,7 +19016,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17225,7 +19037,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "24",
         "Year": "2016",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -17244,7 +19058,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "NV"
+        "StateAbr": "NV",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -17263,7 +19079,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17282,7 +19100,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17301,7 +19121,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "8",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -17320,7 +19142,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "6",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -17339,7 +19163,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "22",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17358,7 +19184,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17377,7 +19205,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "19",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -17396,7 +19226,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "19",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17415,7 +19247,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "19",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -17434,7 +19268,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "18",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -17453,7 +19289,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -17472,7 +19310,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -17491,7 +19331,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17510,7 +19352,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17529,7 +19373,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17548,7 +19394,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "16",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -17567,7 +19415,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "10",
         "Year": "2016",
-        "StateAbr": "WI"
+        "StateAbr": "WI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17586,7 +19436,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "10",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17605,7 +19457,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17624,7 +19478,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17643,7 +19499,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "NM"
+        "StateAbr": "NM",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17662,7 +19520,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17681,7 +19541,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "31",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17700,7 +19562,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17719,7 +19583,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17738,7 +19604,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17757,7 +19625,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "19",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -17776,7 +19646,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "19",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -17795,7 +19667,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "15",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17814,7 +19688,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17833,7 +19709,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "12",
         "Year": "2016",
-        "StateAbr": "OR"
+        "StateAbr": "OR",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17852,7 +19730,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "12",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -17871,7 +19751,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -17890,7 +19772,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "5",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -17909,7 +19793,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "9",
         "Year": "2016",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -17928,7 +19814,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -17947,7 +19835,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -17966,7 +19856,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -17985,7 +19877,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "MA"
+        "StateAbr": "MA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18004,7 +19898,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -18023,7 +19919,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18042,7 +19940,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "5",
         "Year": "2016",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18061,7 +19961,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "4",
         "Year": "2016",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -18080,7 +19982,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18099,7 +20003,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "28",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -18118,7 +20024,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -18137,7 +20045,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "4",
+        "Injured": "14"
       },
       "geometry": {
         "type": "Point",
@@ -18156,7 +20066,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -18175,7 +20087,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18194,7 +20108,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18213,7 +20129,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -18232,7 +20150,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "21",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18251,7 +20171,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "20",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "6",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -18270,7 +20192,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "20",
         "Year": "2016",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18289,7 +20213,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "20",
         "Year": "2016",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18308,7 +20234,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "20",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18327,7 +20255,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "20",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -18346,7 +20276,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "19",
         "Year": "2016",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18365,7 +20297,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "19",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18384,7 +20318,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -18403,7 +20339,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "14",
         "Year": "2016",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18422,7 +20360,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "13",
         "Year": "2016",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18441,7 +20381,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "2",
+        "Injured": "10"
       },
       "geometry": {
         "type": "Point",
@@ -18460,7 +20402,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -18479,7 +20423,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18498,7 +20444,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18517,7 +20465,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18536,7 +20486,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -18555,7 +20507,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18574,7 +20528,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "3",
         "Year": "2016",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "3",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -18593,7 +20549,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "30",
         "Year": "2016",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "6",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -18612,7 +20570,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "27",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18631,7 +20591,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "26",
         "Year": "2016",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18650,7 +20612,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "25",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -18669,7 +20633,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "23",
         "Year": "2016",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18688,7 +20654,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "17",
         "Year": "2016",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18707,7 +20675,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "11",
         "Year": "2016",
-        "StateAbr": "DE"
+        "StateAbr": "DE",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18726,7 +20696,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18745,7 +20717,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "8",
         "Year": "2016",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18764,7 +20738,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "7",
         "Year": "2016",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -18783,7 +20759,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "6",
         "Year": "2016",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -18802,7 +20780,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "23",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18821,7 +20801,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "CT"
+        "StateAbr": "CT",
+        "Killed": "2",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -18840,7 +20822,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18859,7 +20843,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18878,7 +20864,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18897,7 +20885,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18916,7 +20906,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "3",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18935,7 +20927,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -18954,7 +20948,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "17",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -18973,7 +20969,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "16",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -18992,7 +20990,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19011,7 +21011,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -19030,7 +21032,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "12",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -19049,7 +21053,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "11",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19068,7 +21074,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "10",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -19087,7 +21095,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "9",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19106,7 +21116,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -19125,7 +21137,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -19144,7 +21158,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "5",
         "Year": "2017",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19163,7 +21179,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -19182,7 +21200,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "59",
+        "Injured": "441"
       },
       "geometry": {
         "type": "Point",
@@ -19201,7 +21221,9 @@ var MSincidents =
         "Month": "10",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "NV"
+        "StateAbr": "NV",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19220,7 +21242,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19239,7 +21263,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "28",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19258,7 +21284,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -19277,7 +21305,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19296,7 +21326,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19315,7 +21347,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19334,7 +21368,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -19353,7 +21389,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19372,7 +21410,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -19391,7 +21431,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "23",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19410,7 +21452,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "23",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -19429,7 +21473,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "20",
         "Year": "2017",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -19448,7 +21494,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "17",
         "Year": "2017",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19467,7 +21515,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "17",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19486,7 +21536,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "16",
         "Year": "2017",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -19505,7 +21557,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19524,7 +21578,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19543,7 +21599,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19562,7 +21620,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -19581,7 +21641,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "10",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19600,7 +21662,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "10",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "9",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -19619,7 +21683,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "9",
         "Year": "2017",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19638,7 +21704,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19657,7 +21725,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "4",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19676,7 +21746,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19695,7 +21767,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19714,7 +21788,9 @@ var MSincidents =
         "Month": "9",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19733,7 +21809,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "28",
         "Year": "2017",
-        "StateAbr": "NM"
+        "StateAbr": "NM",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19752,7 +21830,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19771,7 +21851,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19790,7 +21872,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "25",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19809,7 +21893,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -19828,7 +21914,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19847,7 +21935,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -19866,7 +21956,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19885,7 +21977,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19904,7 +21998,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -19923,7 +22019,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19942,7 +22040,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "20",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -19961,7 +22061,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "20",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19980,7 +22082,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "19",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -19999,7 +22103,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "16",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20018,7 +22124,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "14",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -20037,7 +22145,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20056,7 +22166,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20075,7 +22187,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -20094,7 +22208,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "12",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20113,7 +22229,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "8",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -20132,7 +22250,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -20151,7 +22271,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20170,7 +22292,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -20189,7 +22313,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "5",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20208,7 +22334,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "5",
         "Year": "2017",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20227,7 +22355,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "5",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20246,7 +22376,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "4",
         "Year": "2017",
-        "StateAbr": "MT"
+        "StateAbr": "MT",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -20265,7 +22397,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20284,7 +22418,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20303,7 +22439,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "WA"
+        "StateAbr": "WA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -20322,7 +22460,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -20341,7 +22481,9 @@ var MSincidents =
         "Month": "8",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20360,7 +22502,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "31",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20379,7 +22523,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -20398,7 +22544,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20417,7 +22565,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20436,7 +22586,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20455,7 +22607,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "28",
         "Year": "2017",
-        "StateAbr": "DE"
+        "StateAbr": "DE",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20474,7 +22628,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20493,7 +22649,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -20512,7 +22670,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "23",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20531,7 +22691,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "23",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20550,7 +22712,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -20569,7 +22733,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "19",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -20588,7 +22754,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "19",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20607,7 +22775,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20626,7 +22796,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "WI"
+        "StateAbr": "WI",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20645,7 +22817,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20664,7 +22838,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20683,7 +22859,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20702,7 +22880,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "9",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -20721,7 +22901,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "8",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20740,7 +22922,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "8",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -20759,7 +22943,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20778,7 +22964,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2017",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20797,7 +22985,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -20816,7 +23006,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "5",
         "Year": "2017",
-        "StateAbr": "ME"
+        "StateAbr": "ME",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -20835,7 +23027,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20854,7 +23048,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20873,7 +23069,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "4",
         "Year": "2017",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20892,7 +23090,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -20911,7 +23111,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -20930,7 +23132,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20949,7 +23153,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20968,7 +23174,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -20987,7 +23195,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -21006,7 +23216,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21025,7 +23237,9 @@ var MSincidents =
         "Month": "7",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "0",
+        "Injured": "25"
       },
       "geometry": {
         "type": "Point",
@@ -21044,7 +23258,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "2",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -21063,7 +23279,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -21082,7 +23300,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "25",
         "Year": "2017",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21101,7 +23321,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "25",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -21120,7 +23342,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21139,7 +23363,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -21158,7 +23384,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21177,7 +23405,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -21196,7 +23426,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -21215,7 +23447,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21234,7 +23468,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21253,7 +23489,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -21272,7 +23510,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "17",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21291,7 +23531,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "17",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21310,7 +23552,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "NM"
+        "StateAbr": "NM",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -21329,7 +23573,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -21348,7 +23594,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "14",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21367,7 +23615,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "14",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -21386,7 +23636,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "14",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "4",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -21405,7 +23657,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21424,7 +23678,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -21443,7 +23699,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21462,7 +23720,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -21481,7 +23741,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21500,7 +23762,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "11",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21519,7 +23783,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "10",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21538,7 +23804,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "9",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "2",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -21557,7 +23825,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "8",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -21576,7 +23846,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "UT"
+        "StateAbr": "UT",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -21595,7 +23867,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "5",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "6",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -21614,7 +23888,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -21633,7 +23909,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -21652,7 +23930,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -21671,7 +23951,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -21690,7 +23972,9 @@ var MSincidents =
         "Month": "6",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -21709,7 +23993,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -21728,7 +24014,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -21747,7 +24035,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "28",
         "Year": "2017",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "12"
       },
       "geometry": {
         "type": "Point",
@@ -21766,7 +24056,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "28",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -21785,7 +24077,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "28",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -21804,7 +24098,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21823,7 +24119,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "1",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -21842,7 +24140,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "8",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -21861,7 +24161,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21880,7 +24182,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "IA"
+        "StateAbr": "IA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -21899,7 +24203,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "AZ"
+        "StateAbr": "AZ",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -21918,7 +24224,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "20",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "10"
       },
       "geometry": {
         "type": "Point",
@@ -21937,7 +24245,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "16",
         "Year": "2017",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -21956,7 +24266,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "14",
         "Year": "2017",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -21975,7 +24287,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "14",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -21994,7 +24308,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "14",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -22013,7 +24329,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "14",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22032,7 +24350,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "10",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22051,7 +24371,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "9",
         "Year": "2017",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -22070,7 +24392,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -22089,7 +24413,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "4",
         "Year": "2017",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22108,7 +24434,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22127,7 +24455,9 @@ var MSincidents =
         "Month": "5",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22146,7 +24476,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "2",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -22165,7 +24497,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -22184,7 +24518,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -22203,7 +24539,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -22222,7 +24560,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "MD"
+        "StateAbr": "MD",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22241,7 +24581,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22260,7 +24602,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -22279,7 +24623,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -22298,7 +24644,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22317,7 +24665,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22336,7 +24686,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "28",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22355,7 +24707,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22374,7 +24728,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22393,7 +24749,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -22412,7 +24770,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "20",
         "Year": "2017",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22431,7 +24791,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "16",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22450,7 +24812,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "16",
         "Year": "2017",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22469,7 +24833,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "16",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "9"
       },
       "geometry": {
         "type": "Point",
@@ -22488,7 +24854,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22507,7 +24875,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22526,7 +24896,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "AL"
+        "StateAbr": "AL",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -22545,7 +24917,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22564,7 +24938,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22583,7 +24959,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22602,7 +24980,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "13",
         "Year": "2017",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22621,7 +25001,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "9",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22640,7 +25022,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "9",
         "Year": "2017",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22659,7 +25043,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "NC"
+        "StateAbr": "NC",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -22678,7 +25064,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -22697,7 +25085,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "4",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -22716,7 +25106,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -22735,7 +25127,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22754,7 +25148,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -22773,7 +25169,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -22792,7 +25190,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22811,7 +25211,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "2",
         "Year": "2017",
-        "StateAbr": "IA"
+        "StateAbr": "IA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -22830,7 +25232,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -22849,7 +25253,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22868,7 +25274,9 @@ var MSincidents =
         "Month": "4",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "OK"
+        "StateAbr": "OK",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -22887,7 +25295,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -22906,7 +25316,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22925,7 +25337,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "2",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -22944,7 +25358,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "2",
+        "Injured": "15"
       },
       "geometry": {
         "type": "Point",
@@ -22963,7 +25379,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -22982,7 +25400,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "25",
         "Year": "2017",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -23001,7 +25421,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "25",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23020,7 +25442,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "25",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -23039,7 +25463,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23058,7 +25484,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "24",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -23077,7 +25505,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "WI"
+        "StateAbr": "WI",
+        "Killed": "5",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -23096,7 +25526,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "19",
         "Year": "2017",
-        "StateAbr": "KY"
+        "StateAbr": "KY",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -23115,7 +25547,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -23134,7 +25568,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -23153,7 +25589,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "10",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -23172,7 +25610,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "10",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -23191,7 +25631,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23210,7 +25652,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "5",
         "Year": "2017",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23229,7 +25673,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "4",
         "Year": "2017",
-        "StateAbr": "KS"
+        "StateAbr": "KS",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23248,7 +25694,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "4",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23267,7 +25715,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23286,7 +25736,9 @@ var MSincidents =
         "Month": "3",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -23305,7 +25757,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "28",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -23324,7 +25778,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23343,7 +25799,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23362,7 +25820,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "25",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -23381,7 +25841,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "25",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23400,7 +25862,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23419,7 +25883,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23438,7 +25904,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -23457,7 +25925,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "20",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -23476,7 +25946,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "19",
         "Year": "2017",
-        "StateAbr": "VA"
+        "StateAbr": "VA",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -23495,7 +25967,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "PA"
+        "StateAbr": "PA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23514,7 +25988,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "18",
         "Year": "2017",
-        "StateAbr": "IN"
+        "StateAbr": "IN",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -23533,7 +26009,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23552,7 +26030,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -23571,7 +26051,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "12",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "1",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -23590,7 +26072,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "12",
         "Year": "2017",
-        "StateAbr": "NY"
+        "StateAbr": "NY",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -23609,7 +26093,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "12",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -23628,7 +26114,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "11",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23647,7 +26135,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "11",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -23666,7 +26156,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "10",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -23685,7 +26177,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "9",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -23704,7 +26198,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "8",
         "Year": "2017",
-        "StateAbr": "OH"
+        "StateAbr": "OH",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23723,7 +26219,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "SC"
+        "StateAbr": "SC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23742,7 +26240,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "AR"
+        "StateAbr": "AR",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23761,7 +26261,9 @@ var MSincidents =
         "Month": "2",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "4",
+        "Injured": "0"
       },
       "geometry": {
         "type": "Point",
@@ -23780,7 +26282,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "31",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23799,7 +26303,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "31",
         "Year": "2017",
-        "StateAbr": "DC"
+        "StateAbr": "DC",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23818,7 +26324,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "30",
         "Year": "2017",
-        "StateAbr": "MN"
+        "StateAbr": "MN",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23837,7 +26345,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "29",
         "Year": "2017",
-        "StateAbr": "LA"
+        "StateAbr": "LA",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23856,7 +26366,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "27",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "0",
+        "Injured": "10"
       },
       "geometry": {
         "type": "Point",
@@ -23875,7 +26387,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "26",
         "Year": "2017",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "2",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -23894,7 +26408,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "25",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -23913,7 +26429,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -23932,7 +26450,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -23951,7 +26471,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "22",
         "Year": "2017",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -23970,7 +26492,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "GA"
+        "StateAbr": "GA",
+        "Killed": "0",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -23989,7 +26513,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -24008,7 +26534,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "21",
         "Year": "2017",
-        "StateAbr": "TN"
+        "StateAbr": "TN",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -24027,7 +26555,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "20",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -24046,7 +26576,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "20",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -24065,7 +26597,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "16",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -24084,7 +26618,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "16",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "8"
       },
       "geometry": {
         "type": "Point",
@@ -24103,7 +26639,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "CO"
+        "StateAbr": "CO",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -24122,7 +26660,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "15",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "1",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -24141,7 +26681,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "12",
         "Year": "2017",
-        "StateAbr": "MO"
+        "StateAbr": "MO",
+        "Killed": "3",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -24160,7 +26702,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "12",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -24179,7 +26723,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "11",
         "Year": "2017",
-        "StateAbr": "NJ"
+        "StateAbr": "NJ",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -24198,7 +26744,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "11",
         "Year": "2017",
-        "StateAbr": "IL"
+        "StateAbr": "IL",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -24217,7 +26765,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "7",
         "Year": "2017",
-        "StateAbr": "MI"
+        "StateAbr": "MI",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -24236,7 +26786,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "2",
+        "Injured": "2"
       },
       "geometry": {
         "type": "Point",
@@ -24255,7 +26807,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "6",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "5",
+        "Injured": "6"
       },
       "geometry": {
         "type": "Point",
@@ -24274,7 +26828,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "4",
         "Year": "2017",
-        "StateAbr": "CA"
+        "StateAbr": "CA",
+        "Killed": "3",
+        "Injured": "1"
       },
       "geometry": {
         "type": "Point",
@@ -24293,7 +26849,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "3",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "0",
+        "Injured": "4"
       },
       "geometry": {
         "type": "Point",
@@ -24312,7 +26870,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "MS"
+        "StateAbr": "MS",
+        "Killed": "0",
+        "Injured": "5"
       },
       "geometry": {
         "type": "Point",
@@ -24331,7 +26891,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "TX"
+        "StateAbr": "TX",
+        "Killed": "1",
+        "Injured": "3"
       },
       "geometry": {
         "type": "Point",
@@ -24350,7 +26912,9 @@ var MSincidents =
         "Month": "1",
         "Day ": "1",
         "Year": "2017",
-        "StateAbr": "FL"
+        "StateAbr": "FL",
+        "Killed": "0",
+        "Injured": "7"
       },
       "geometry": {
         "type": "Point",
@@ -24361,4 +26925,4 @@ var MSincidents =
       }
     }
   ]
-};
+}
