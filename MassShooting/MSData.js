@@ -1,4 +1,4 @@
-var incidents =
+var MSincidents =
 {
   "type": "FeatureCollection",
   "features": [

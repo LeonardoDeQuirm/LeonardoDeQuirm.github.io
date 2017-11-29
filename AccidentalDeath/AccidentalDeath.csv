@@ -1,0 +1,501 @@
+Address,CityOrCounty,State,StateAbr,Killed,Injured,Month,Day,Year,Latitude,Longitude
+Valley Ford Rd and Buford Rd,Adger,Alabama,AL,1,0,11,13,2017,32.63501642,-86.80937931
+N/A,Cullman (county),Alabama,AL,1,0,10,23,2017,32.63501642,-86.80937931
+4100 Messer Airport Hwy,Birmingham,Alabama,AL,1,0,8,14,2017,32.63501642,-86.80937931
+1714 Coral Ln,Montgomery,Alabama,AL,1,1,6,26,2017,32.3162463,-86.2918362
+3300 block of Fountain Lane,Montgomery,Alabama,AL,1,0,6,11,2017,32.34724369,-86.2672602
+4100 block of Oak Trail Way,Leeds,Alabama,AL,1,0,4,30,2017,33.5413334,-86.5620585
+3030 Rainbow Dr,Rainbow City,Alabama,AL,1,0,4,17,2017,33.93132878,-86.09162895
+County Road 67 and County Road 145,Selma,Alabama,AL,1,0,4,14,2017,32.41659706,-87.03358936
+100 block of Atwilder Dr,Hazel Green,Alabama,AL,1,0,4,13,2017,34.92367369,-86.56705651
+16931 Buckskin Drive,Athens,Alabama,AL,1,0,1,1,2017,34.7847183,-86.95090322
+County Road 41,Geneva (county),Alabama,AL,1,0,12,22,2016,32.63501642,-86.80937931
+Foshee Road and Highway 31,Flomaton (Pollard),Alabama,AL,1,0,12,2,2016,32.63501642,-86.80937931
+N/A,Manokotak,Alaska,AK,1,0,9,8,2017,58.99570976,-159.0019461
+N/A,Togiak,Alaska,AK,1,0,8,16,2017,61.32535,-154.56505
+5500 Lake Otis Parkway,Anchorage,Alaska,AK,1,0,12,13,2016,61.17095577,-149.8392301
+N/A,Queen Creek,Arizona,AZ,1,0,8,15,2017,33.23972885,-111.6396721
+600 block of E Kino Dr,Mesa,Arizona,AZ,1,0,7,18,2017,33.4019259,-111.7173787
+4302 W Indian School Rd,Phoenix,Arizona,AZ,1,0,6,29,2017,33.4955968,-112.1521333
+3700 block of E 5th St,Tucson,Arizona,AZ,1,0,5,10,2017,32.15690153,-110.8775061
+3428 W Rosewood Ave,Phoenix,Arizona,AZ,1,0,3,20,2017,33.5721625,-112.0879662
+7250 S Kyrene Rd,Tempe,Arizona,AZ,1,0,1,12,2017,33.38829246,-111.931833
+700 block of Short Front St,Altheimer,Arkansas,AR,1,0,10,26,2017,34.32403166,-91.84845916
+300 block of Dinan St,Helena,Arkansas,AR,1,0,10,6,2017,34.87946371,-92.38111209
+N/A,El Dorado,Arkansas,AR,1,0,6,25,2017,33.21822258,-92.66412493
+Belleville Ridge Road,Danville,Arkansas,AR,1,0,6,20,2017,35.05272511,-93.39023513
+1952 Bruce Street,Conway,Arkansas,AR,1,0,6,7,2017,35.08139936,-92.4518292
+257 N Baringo St,West Helena,Arkansas,AR,1,0,5,26,2017,34.87946371,-92.38111209
+Neals Ln,Gillett,Arkansas,AR,1,0,5,18,2017,34.1190388,-91.37887774
+402 E 3rd St,Hope,Arkansas,AR,1,0,3,7,2017,33.66832258,-93.5895434
+South Cypress Street,Beebe,Arkansas,AR,1,0,2,27,2017,35.07130026,-91.90015759
+E. 50th Street,Texarkana,Arkansas,AR,1,0,2,18,2017,33.43646449,-93.99608663
+Lincoln Ave,Earle,Arkansas,AR,1,0,1,30,2017,35.27343935,-90.46426967
+2510 Romine Road,Little Rock,Arkansas,AR,1,0,12,21,2016,34.7303361,-92.3811415
+11000 block of Highway 71,Miller (county),Arkansas,AR,1,0,12,19,2016,34.87946371,-92.38111209
+N/A,Searcy (county),Arkansas,AR,1,0,11,22,2016,34.87946371,-92.38111209
+Punkin Hollow and Miller Church Roads,Bentonville,Arkansas,AR,1,0,11,16,2016,36.3587973,-94.2291321
+7100 block of International Blvd,Oakland,California,CA,1,0,9,12,2017,37.77108878,-122.2249767
+2300 block of Fruitvale Ave,Oakland,California,CA,1,0,7,26,2017,37.77108878,-122.2249767
+700 block of Big Bend Drive,Pacifica,California,CA,1,0,6,10,2017,37.61115422,-122.4780428
+4300 Block of Palomar Dr,Antioch,California,CA,1,0,6,8,2017,37.97787558,-121.7969287
+800 block of E 18th St,Oakland,California,CA,1,0,4,12,2017,37.77108878,-122.2249767
+Sunny Vista and Olivine road,Victorville,California,CA,1,0,3,27,2017,34.52700004,-117.3536862
+100 block of Washburn Street,Patterson,California,CA,1,0,2,23,2017,36.37951811,-119.2956021
+14995 River Road,Corona,California,CA,1,0,1,14,2017,33.9226065,-117.62296
+205 Alameda Avenue,Chowchilla,California,CA,1,0,1,11,2017,37.1195411,-120.2565345
+2279 Willow Pass Rd,Pittsburg (Bay Point),California,CA,1,0,12,28,2016,37.24004903,-119.5032355
+Vanalden Avenue,Tarzana,California,CA,1,0,12,4,2016,37.24004903,-119.5032355
+5900 block of Notre Dame Avenue,Chino,California,CA,1,0,11,27,2016,33.98358813,-117.6652966
+3300 block of Langley Way,Antelope,California,CA,1,0,11,26,2016,38.71532309,-121.3609605
+CO 788,Saguache,Colorado,CO,1,0,11,16,2017,38.99766277,-105.5495049
+2100 block of N 17th Cir,Grand Junction,Colorado,CO,1,0,9,21,2017,39.0863664,-108.5687469
+6001 Wetzel Ave,Colorado Springs (Fort Carson),Colorado,CO,1,0,8,23,2017,38.99766277,-105.5495049
+Elk Canyon Ct and Elk Canyon Cir,Sedalia,Colorado,CO,1,0,7,1,2017,39.43970478,-104.9699099
+200 W Baseline Road,Lafayette,Colorado,CO,1,0,6,2,2017,39.99463778,-105.0991896
+4103 N Elizabeth St,Pueblo,Colorado,CO,1,0,2,27,2017,38.3104295,-104.6164738
+3000 block of West Colorado Ave,Denver,Colorado,CO,1,0,1,23,2017,39.76144202,-104.8767568
+N/A,Park (county),Colorado,CO,1,0,11,13,2016,38.99766277,-105.5495049
+3060 Sandpiper Avenue,Grand Junction (Fruitvale),Colorado,CO,1,0,11,12,2016,39.0657072,-108.4849277
+18000 block of County Road 43,La Salle,Colorado,CO,1,0,11,12,2016,40.34872593,-104.7059025
+26-28 Alison Ln,Wethersfield,Connecticut,CT,1,0,11,2,2017,41.70129647,-72.67034633
+N/A,Waterbury,Connecticut,CT,1,0,5,20,2017,41.55824432,-73.03612983
+Read Street and Beatrice Street,Bridgeport,Connecticut,CT,1,0,5,2,2017,41.18705826,-73.19553341
+222 Neighborhood Market Rd,Orlando,Florida,FL,1,0,10,3,2017,28.4158857,-81.2987497
+Dorchester St,Port Charlotte,Florida,FL,1,0,9,30,2017,26.99028206,-82.11344826
+4600 block of Ricker Road,Jacksonville,Florida,FL,1,0,9,14,2017,30.27926997,-81.37452585
+N/A,Tampa,Florida,FL,1,0,9,14,2017,27.96800236,-82.4763859
+6500 87th Ave N,Pinellas Park,Florida,FL,1,0,8,28,2017,27.85074772,-82.7267795
+2000 block of Arlington St,Sarasota,Florida,FL,1,0,7,30,2017,27.30925191,-82.47885263
+1020 E Hannah Ave,Tampa,Florida,FL,1,0,7,30,2017,27.96800236,-82.4763859
+4600 block of FL 16,Saint Augustine,Florida,FL,1,0,7,29,2017,28.14683286,-83.20422736
+US 27,Palm Beach (county),Florida,FL,1,0,7,5,2017,28.14683286,-83.20422736
+1000 block of Loring St,Merritt Island,Florida,FL,1,0,7,5,2017,28.31464297,-80.67125925
+935 CR 229,Wildwood,Florida,FL,1,0,7,4,2017,28.14683286,-83.20422736
+300 block of 12th Ave W,Bradenton,Florida,FL,1,0,6,22,2017,27.48965598,-82.57816978
+Willard Rd,Palm Bay,Florida,FL,1,0,6,14,2017,27.98605927,-80.66280174
+4717 SW 13th Ave,Cape Coral,Florida,FL,1,1,6,8,2017,26.563807,-82.0016913
+4100 block of NW 21st St,Fort Lauderdale (Lauderhill),Florida,FL,1,0,6,7,2017,28.14683286,-83.20422736
+Willow Branch Avenue,Jacksonville,Florida,FL,1,0,4,30,2017,30.3369138,-81.66090703
+421 NW 167th St,Homestead (Florida City),Florida,FL,1,0,4,25,2017,28.14683286,-83.20422736
+704 S. Military Trail,West Palm Beach,Florida,FL,1,0,4,21,2017,26.74681035,-80.13150971
+Ziegler Rd,Orlando,Florida,FL,1,0,4,10,2017,28.4158857,-81.2987497
+Sandy Mountain Church Rd,Fountain,Florida,FL,1,0,3,30,2017,28.14683286,-83.20422736
+Kitty Hawk Ave,Orlando,Florida,FL,1,0,3,27,2017,28.4158857,-81.2987497
+14990 NW Ninth Court,Miami,Florida,FL,1,0,2,22,2017,25.77525637,-80.20885121
+700 N Lincoln St,Jacksonville,Florida,FL,1,1,2,4,2017,30.3369138,-81.66090703
+100 block of Lakeside Hills Loop,Auburndale,Florida,FL,1,0,1,20,2017,28.100985,-81.7937179
+20549 Southwest 93rd Avenue,Miami (Cutler Bay),Florida,FL,1,0,12,31,2016,28.14683286,-83.20422736
+2200 block of Brookpark Road,Pensacola,Florida,FL,1,0,12,9,2016,28.14683286,-83.20422736
+2520 US Hwy 92 West,Winter Haven,Florida,FL,1,0,11,28,2016,28.0458354,-81.7327423
+N/A,Levy (county),Florida,FL,1,0,11,24,2016,28.14683286,-83.20422736
+300 Block of Fairburn Rd,Atlanta,Georgia,GA,1,0,10,31,2017,33.76265247,-84.4231419
+Boca Grande Boulevard,Forest Park,Georgia,GA,1,0,10,26,2017,33.6209416,-84.35920961
+2300 Block of Barton Chapel Rd,Augusta,Georgia,GA,1,0,10,1,2017,32.6176611,-83.39219224
+2400 Block of Amsterdam Dr,Augusta,Georgia,GA,1,0,9,30,2017,32.6176611,-83.39219224
+790 Wilson Circle,Marietta,Georgia,GA,1,0,8,27,2017,33.9498298,-84.5766598
+Hollow Ridge Drive,Athens,Georgia,GA,1,0,7,19,2017,33.95081707,-83.36894174
+2591 Etheridge Dr NW,Atlanta,Georgia,GA,1,0,7,4,2017,33.78910074,-84.47280476
+Culpepper Rd,Cordele,Georgia,GA,1,0,7,1,2017,31.95669419,-83.76909545
+N/A,Jenkins (county),Georgia,GA,1,0,6,30,2017,32.6176611,-83.39219224
+152 Bradstone Circle,Macon,Georgia,GA,1,0,6,19,2017,32.83205682,-83.64960509
+Double Branches Lane,Dallas,Georgia,GA,1,0,6,16,2017,33.9144325,-84.8425332
+Warm Springs Rd,Columbus,Georgia,GA,1,0,6,11,2017,32.5099615,-84.87704106
+2500 block of Avalon Cir,Winder,Georgia,GA,1,0,5,10,2017,33.99292704,-83.72095817
+1502 E Morris St,Dalton,Georgia,GA,1,0,4,21,2017,34.7692219,-84.9704204
+5539 Pineridge Ct,Forest Park,Georgia,GA,1,0,4,10,2017,33.6209416,-84.35920961
+Hailston Drive,Duluth,Georgia,GA,1,0,3,29,2017,34.00568357,-84.14911121
+506 S 3rd Street,Warner Robins,Georgia,GA,1,0,3,9,2017,32.5970961,-83.653936
+Coventry Avenue,Grovetown,Georgia,GA,1,0,2,25,2017,33.44946676,-82.2064765
+1103 E Church St,Fort Valley,Georgia,GA,1,0,2,6,2017,32.55224903,-83.88135404
+Peaceful Ln,Danielsville,Georgia,GA,1,0,2,5,2017,34.12306007,-83.21998552
+N/A,Webster (county),Georgia,GA,1,0,12,30,2016,32.6176611,-83.39219224
+1000 block of Cherry Creek Drive,Valdosta,Georgia,GA,1,0,12,28,2016,30.84940853,-83.27924556
+6660 Mableton Pkwy SE,Mableton,Georgia,GA,1,0,12,6,2016,33.81322182,-84.56540896
+Highway 16,Jasper (county),Georgia,GA,1,0,11,13,2016,32.6176611,-83.39219224
+Nora Creek Rd,Troy,Idaho,ID,1,0,7,17,2017,46.73751213,-116.7722298
+22400 block of Big Canyon Road,Peck,Idaho,ID,1,0,2,2,2017,46.47442835,-116.4258196
+232 2nd Ave N,Twin Falls,Idaho,ID,1,0,1,19,2017,42.56301485,-114.4639957
+22000 Armington Rd,Delavan,Illinois,IL,1,0,11,24,2017,40.37147528,-89.54447343
+6600 S Marquette Rd,Chicago,Illinois,IL,1,0,10,29,2017,41.83861021,-87.68661087
+4800 W Hutchinson St,Chicago,Illinois,IL,1,0,10,28,2017,41.83861021,-87.68661087
+6300 block of Cherylwood Dr,Springfield,Illinois,IL,1,0,7,31,2017,39.7639077,-89.6708323
+6100 block of S Winchester Ave,Chicago (Englewood),Illinois,IL,1,0,7,14,2017,40.10756121,-89.1611563
+6100 block of S Winchester,Chicago,Illinois,IL,1,0,7,13,2017,41.83861021,-87.68661087
+9900 block of Linda Ln,Des Plaines,Illinois,IL,1,0,7,8,2017,42.03434088,-87.90082981
+300 block of North Broadway St,Joliet,Illinois,IL,1,0,6,5,2017,41.5180664,-88.1583542
+200 block of East Scarritt Street,Springfield,Illinois,IL,1,0,5,24,2017,39.7639077,-89.6708323
+2106 David Drive,Des Plaines,Illinois,IL,1,0,5,20,2017,42.03434088,-87.90082981
+1800 block of Victoria Dr,Pekin,Illinois,IL,0,0,4,7,2017,40.56748022,-89.62621989
+1100 block of Bateman Street,Galesburg,Illinois,IL,1,0,3,25,2017,40.95189288,-90.37433823
+West Monaville Road and West Old Monaville Road,Lake Villa,Illinois,IL,1,0,3,13,2017,42.4183469,-88.08287423
+0 block of North Sacramento,Chicago,Illinois,IL,1,0,1,21,2017,41.83861021,-87.68661087
+4800 block of West Ferdinand Street,Chicago,Illinois,IL,1,0,12,30,2016,41.83861021,-87.68661087
+2041 E Lawrence Ave,Springfield,Illinois,IL,1,0,12,14,2016,39.7639077,-89.6708323
+N/A,Elizabeth,Indiana,IN,1,0,11,19,2017,38.12387083,-85.97296393
+8000 Wildwood Farms Dr,Indianapolis,Indiana,IN,1,0,10,29,2017,39.77710046,-86.14634767
+420 E McGalliard Rd,Muncie,Indiana,IN,1,0,10,18,2017,40.19891031,-85.39370322
+1800 block of N Routiers Ave,Indianapolis,Indiana,IN,1,0,10,1,2017,39.77710046,-86.14634767
+7200 block of Osborn Ave,Hammond,Indiana,IN,2,0,9,2,2017,39.82203943,-86.38015459
+8148 NW Shafer Dr,Monticello,Indiana,IN,1,0,8,13,2017,40.74548547,-86.76693645
+7700 block of East 120th Avenue,Crown Point,Indiana,IN,1,0,8,5,2017,41.41345465,-87.34430395
+7300 block of Harrison Avenue,Hammond,Indiana,IN,1,0,7,1,2017,39.82203943,-86.38015459
+7100 block of Warrior Trail,Indianapolis,Indiana,IN,1,0,6,26,2017,39.77710046,-86.14634767
+100 block of East 10th Avenue,Hobart,Indiana,IN,1,0,6,10,2017,41.51387579,-87.27274687
+3500 block of Guthrie Street,East Chicago,Indiana,IN,1,0,5,11,2017,41.65000235,-87.45180276
+4033 Robinwood Dr,Fort Wayne,Indiana,IN,1,0,4,25,2017,41.08849204,-85.14358989
+2300 block of Raceway Rd,Indianapolis,Indiana,IN,1,0,4,9,2017,39.77710046,-86.14634767
+503 W. Wiley St,Bluffton,Indiana,IN,1,0,4,4,2017,40.74236207,-85.17301575
+2600 block of Tyler Street,Gary,Indiana,IN,1,0,3,22,2017,41.59560282,-87.3452059
+800 block of Bendix,South Bend,Indiana,IN,2,0,3,16,2017,41.67725366,-86.26911678
+South Camden Drive,Bloomington,Indiana,IN,1,0,2,21,2017,39.82203943,-86.38015459
+3600 block of Glen Arm Rd,Indianapolis,Indiana,IN,1,0,2,14,2017,39.77710046,-86.14634767
+2000 block of Jaden Lane,Greenwood,Indiana,IN,1,0,1,15,2017,39.60881864,-86.10633798
+4006 Newburgh Drive,Indianapolis,Indiana,IN,1,0,12,31,2016,39.77710046,-86.14634767
+25908 San Lu Rae Drive,Elkhart,Indiana,IN,1,0,12,27,2016,41.69184954,-85.96623839
+29508 San Lu Rae Drive,Elkhart,Indiana,IN,1,0,12,23,2016,41.69184954,-85.96623839
+800 block of 21st Street,Logansport,Indiana,IN,1,0,12,15,2016,40.75018003,-86.3559161
+300 block of Cleveland Street,Columbus,Indiana,IN,1,0,12,12,2016,39.2095928,-85.91785988
+1600 block of West 7th Street,Anderson,Indiana,IN,1,0,11,22,2016,40.08949108,-85.68939741
+N/A,Allison,Iowa,IA,1,0,12,24,2016,42.75174813,-92.79576056
+606 N Michigan St,Lawrence,Kansas,KS,1,0,9,22,2017,38.99377565,-95.25146685
+715 SW 16th Ave,Topeka,Kansas,KS,1,0,5,31,2017,39.03818505,-95.68698069
+9700 block of Westlawn,Wichita,Kansas,KS,1,0,4,4,2017,37.6906938,-97.3426776
+1300th block of North Erie,Wichita,Kansas,KS,1,0,12,17,2016,37.6906938,-97.3426776
+JE Haynes Road,Irvington,Kentucky,KY,1,0,11,23,2017,37.87793366,-86.28470433
+200 Block of North Court Street,Georgetown,Kentucky,KY,1,0,10,20,2017,38.22464939,-84.54788396
+N/A,Nicholasville,Kentucky,KY,1,0,10,19,2017,37.89377487,-84.56549687
+E 6th St,Covington,Kentucky,KY,1,0,10,19,2017,39.03350961,-84.51667779
+KY-1003,Somerset,Kentucky,KY,1,0,10,11,2017,37.0811133,-84.60871778
+Beaumont Ct,Hopkinsville,Kentucky,KY,1,0,10,7,2017,36.83765012,-87.47762026
+303 Pepper St,Franklin,Kentucky,KY,1,0,9,22,2017,36.71929482,-86.56535088
+1840 Holman Ave,Covington,Kentucky,KY,1,0,8,14,2017,39.0666926,-84.5103495
+6509 Huff Lane,Louisville,Kentucky,KY,1,0,7,31,2017,38.1895252,-85.869544
+Busy Baker Road,Campbellsville,Kentucky,KY,1,0,5,20,2017,37.34365765,-85.3466324
+4214 Pinhook Road,Mount Olivet,Kentucky,KY,1,0,3,21,2017,38.53175558,-84.03721357
+Kelly Drive,Dry Ridge,Kentucky,KY,1,0,3,6,2017,37.59576387,-85.40914763
+2800 Scottsville Road,Bowling Green,Kentucky,KY,1,0,1,22,2017,36.9472439,-86.4224831
+Cedar Flat Rd,Edmonton,Kentucky,KY,1,0,11,27,2016,37.59576387,-85.40914763
+10363 Bayou des Glaises St,Moreauville,Louisiana,LA,1,0,11,21,2017,31.0341754,-91.98171374
+N/A,Allen (county),Louisiana,LA,1,0,11,5,2017,30.8956711,-91.67752985
+1000 block of Kennedy Drive,Arnaudville,Louisiana,LA,1,0,11,2,2017,30.40220726,-91.93199259
+Marshall St and Bubba St,Plaquemine,Louisiana,LA,1,0,11,2,2017,30.28320339,-91.24300709
+10900 block of Florida Blvd,Baton Rouge,Louisiana,LA,1,0,8,22,2017,30.4507665,-91.12584647
+6200 block of Cameron St,New Orleans,Louisiana,LA,1,0,7,14,2017,30.06880013,-89.9308814
+9200 block of E Claiborne Pkwy,Westwego (Bridge City),Louisiana,LA,1,0,7,14,2017,30.8956711,-91.67752985
+2400 block of Alex Kornman Blvd,Harvey,Louisiana,LA,1,0,7,6,2017,29.8869868,-90.06642184
+N/A,Farmerville (Rocky Branch),Louisiana,LA,1,0,6,8,2017,30.8956711,-91.67752985
+600 Block of East St,Opelousas,Louisiana,LA,1,0,6,3,2017,30.52714715,-92.08493154
+3400 block of Esplanade Avenue,New Orleans,Louisiana,LA,1,0,5,26,2017,30.06880013,-89.9308814
+E Dean St,Eunice,Louisiana,LA,1,0,5,8,2017,30.49037133,-92.4190641
+11320 Greenwell Springs Rd,Baton Rouge,Louisiana,LA,1,0,5,5,2017,30.4931301,-91.0561101
+4747 Southpark Drive,Baton Rouge,Louisiana,LA,1,0,3,13,2017,30.4063458,-91.0590637
+1700 block of Rena St,Lake Charles,Louisiana,LA,1,0,2,23,2017,30.8956711,-91.67752985
+N/A,Harrisonburg,Louisiana,LA,1,0,2,20,2017,31.76801255,-91.82508744
+101 Lighthouse Lane,Sterlington,Louisiana,LA,1,0,12,28,2016,32.68860796,-92.06019294
+N/A,Plaquemine,Louisiana,LA,1,0,12,24,2016,30.28320339,-91.24300709
+600 block of Curtis Street,Franklin,Louisiana,LA,1,0,12,8,2016,29.78505741,-91.50977503
+N/A,Many (Sabine),Louisiana,LA,1,0,11,20,2016,30.8956711,-91.67752985
+490 Greenwood Mountain Rd,Hebron,Maine,ME,1,0,10,28,2017,44.1799485,-70.3714033
+17 Milliken St,Scarborough,Maine,ME,1,0,8,28,2017,43.5778114,-70.3788129
+Burnell Rd,Baldwin,Maine,ME,1,0,7,30,2017,43.8329357,-70.71885626
+Brunell Avenue,Sanford,Maine,ME,1,0,12,28,2016,43.44007343,-70.78014959
+10400 Good Luck Rd,Glenn Dale,Maryland,MD,1,0,10,30,2017,38.98333245,-76.80403733
+8900 Block of Good Harvest Rd,Jessup,Maryland,MD,1,0,7,22,2017,39.14566235,-76.77444962
+6600 block of Eylers Valley Flint Road,Sabillasville,Maryland,MD,1,0,11,26,2016,39.69737593,-77.45618176
+N/A,Dudley,Massachusetts,MA,1,0,2,3,2017,42.055014,-71.93521584
+Goodwin St and Caniff St,Detroit,Michigan,MI,1,0,10,9,2017,41.93132091,-83.3292499
+24204 Lotus Drive,Clinton,Michigan,MI,1,0,6,20,2017,42.06993607,-83.96860332
+1751 Evanston Ave,Muskegon,Michigan,MI,1,0,5,1,2017,43.2213169,-86.2019731
+N/A,Iron Mountain,Michigan,MI,1,0,3,23,2017,44.81566738,-86.14800697
+800 Block of Kalamazoo Ave SE,Grand Rapids,Michigan,MI,1,0,3,20,2017,42.96148154,-85.65568585
+100 block of Wall St,Pontiac,Michigan,MI,1,0,3,18,2017,42.64932157,-83.28780622
+192nd Ave and Cleveland Rd,Holton,Michigan,MI,1,0,2,18,2017,43.42475631,-86.09849397
+791 Tennessee Street,Detroit,Michigan,MI,1,0,12,21,2016,41.93132091,-83.3292499
+4300 block of Tireman,Detroit,Michigan,MI,1,0,12,12,2016,41.93132091,-83.3292499
+Gunthorpe Road,Branch (county),Michigan,MI,1,0,11,26,2016,44.81566738,-86.14800697
+N 1311 County Rd KCI,Marquette,Michigan,MI,1,0,11,23,2016,46.55065449,-87.39598714
+212 Stevens Drive,Ypsilanti,Michigan,MI,1,0,11,13,2016,42.2352631,-83.6374204
+5800 block of Stepetz Road 53,Aurora,Minnesota,MN,1,0,11,11,2017,46.36813604,-93.71317296
+549 US Highway 75,Halstad,Minnesota,MN,1,0,6,26,2017,47.35103677,-96.8246316
+N/A,Goodridge,Minnesota,MN,1,0,5,3,2017,48.14412047,-95.80393233
+N/A,Sebeka,Minnesota,MN,1,0,2,25,2017,46.62904935,-95.08780992
+Poplar St,Columbus,Mississippi,MS,1,0,10,31,2017,33.50858606,-88.41339952
+N/A,Falkner,Mississippi,MS,1,0,10,2,2017,34.83807483,-88.9424349
+Longwood Cove,Horn Lake,Mississippi,MS,1,1,9,30,2017,34.95119955,-90.05012568
+Bealman Road,De Kalb,Mississippi,MS,1,0,9,9,2017,32.77068945,-88.655965
+Carroll Cove West,Horn Lake,Mississippi,MS,1,0,9,3,2017,34.95119955,-90.05012568
+1700 block of South Chrisman Avenue,Cleveland,Mississippi,MS,1,0,8,30,2017,33.74312012,-90.72901275
+3600 block of Sabine Street,Gulfport,Mississippi,MS,1,0,8,4,2017,30.42114042,-89.0691754
+100 block of Maxwell St,Starkville,Mississippi,MS,1,0,7,21,2017,33.46083149,-88.82974123
+Florence St,Columbus,Mississippi,MS,1,0,7,13,2017,33.50858606,-88.41339952
+4000 block of Highpoint Weir Road,Louisville,Mississippi,MS,1,0,7,4,2017,33.12239929,-89.05535763
+3720 Cromwell Street,Jackson,Mississippi,MS,1,0,7,1,2017,32.31702909,-90.21275137
+2214 Catalpa Ave,Pascagoula,Mississippi,MS,1,0,6,29,2017,32.60010548,-89.72682633
+88 Mt Olive Rd,Monticello,Mississippi,MS,1,0,6,8,2017,31.55253779,-90.11453859
+2004 Ford St,Vicksburg,Mississippi,MS,1,0,4,23,2017,32.3420319,-90.8742214
+County Road 269,Woodland,Mississippi,MS,1,0,3,5,2017,33.77967503,-89.05069001
+803 29th St,Meridian,Mississippi,MS,1,0,12,30,2016,32.38453325,-88.68968173
+Buggs Ferry Road,Macon (Prairie Point),Mississippi,MS,1,0,12,29,2016,32.60010548,-89.72682633
+188 Mt. Horeb Rd,Meridian,Mississippi,MS,1,0,12,17,2016,32.38453325,-88.68968173
+6600 block of Bartmer Ave,Saint Louis (University City),Missouri,MO,1,0,10,7,2017,38.30885939,-92.50820581
+5400 block of Arlington Ave,Saint Louis,Missouri,MO,1,0,9,23,2017,38.30885939,-92.50820581
+CR 621,Salem,Missouri,MO,1,0,9,23,2017,37.64005199,-91.53696488
+Good Life Cir and Brush Creek Rd,Pineville,Missouri,MO,1,0,9,14,2017,36.57751425,-94.38880551
+2600 Mary St,Saint Joseph,Missouri,MO,1,0,8,20,2017,38.30885939,-92.50820581
+1900 block of Iditarod Trail,Festus,Missouri,MO,1,0,8,12,2017,38.21951355,-90.40970144
+9600 block of Lydia Avenue,Kansas City,Missouri,MO,1,0,8,6,2017,38.30885939,-92.50820581
+N/A,Miller,Missouri,MO,1,0,7,29,2017,37.21476983,-93.84057779
+1400 block of Kealty Ln,Saint Louis,Missouri,MO,1,0,7,23,2017,38.30885939,-92.50820581
+10000 block of Toelle Ln,Saint Louis,Missouri,MO,1,0,6,24,2017,38.30885939,-92.50820581
+200 block of Bates St,Saint Louis,Missouri,MO,1,0,6,4,2017,38.30885939,-92.50820581
+2500 block of Hodiamont Ave,Saint Louis,Missouri,MO,1,0,6,1,2017,38.30885939,-92.50820581
+1500 block of Cochran Pl,Saint Louis,Missouri,MO,1,0,6,1,2017,38.30885939,-92.50820581
+3300 block of Michigan Ave,Saint Louis,Missouri,MO,1,0,3,14,2017,38.30885939,-92.50820581
+6249 Kaiser Rd,Otterville,Missouri,MO,1,0,3,4,2017,38.70292473,-93.00276916
+2400 Block of  South Pennsylvania,Joplin,Missouri,MO,1,0,3,2,2017,37.07596793,-94.50214662
+Minnie Ave,Saint Louis (Jennings),Missouri,MO,1,0,2,13,2017,38.30885939,-92.50820581
+2000 block of N Florissant Ave,Saint Louis,Missouri,MO,1,0,1,15,2017,38.30885939,-92.50820581
+1054 James Street,Carthage,Missouri,MO,1,0,1,13,2017,37.15042458,-94.32262021
+210 W. Second St.,Mountain View,Missouri,MO,1,0,12,10,2016,36.99342426,-91.70229677
+Bugg Street,Vanduser,Missouri,MO,1,0,12,8,2016,36.99103689,-89.68651891
+246 Hope Road,Helena,Montana,MT,1,0,8,1,2017,46.59622802,-112.0194346
+362 Crooked Creek Rd,Shepherd,Montana,MT,1,0,5,7,2017,45.94680509,-108.3463477
+10565 US 12,Lolo,Montana,MT,2,0,1,9,2017,46.7755913,-114.1018051
+Daisy Dean Road,Park (county),Montana,MT,1,0,11,15,2016,46.91471155,-109.7498422
+N/A,Libby,Montana,MT,1,0,11,12,2016,48.38713044,-115.5559901
+183rd St and Emiline St,Omaha,Nebraska,NE,1,0,10,5,2017,41.26588379,-96.05382374
+2701 Camden Ave,Omaha,Nebraska,NE,1,0,4,2,2017,41.3056176,-95.9519967
+14122 Manderson Plaza,Omaha,Nebraska,NE,1,0,1,31,2017,41.2938657,-96.1342467
+900 block of Seven Hills Dr,Henderson,Nevada,NV,1,0,11,2,2017,36.0122334,-115.0374619
+6800 block of Fallona Ave,Las Vegas,Nevada,NV,1,0,8,31,2017,36.2277116,-115.2640448
+9500 block of Chandler Springs Ave,Las Vegas,Nevada,NV,1,0,8,1,2017,36.2277116,-115.2640448
+1071 W Sunset Rd,Henderson,Nevada,NV,1,0,1,21,2017,36.0631548,-115.0345676
+1000 E 6th Street,Reno,Nevada,NV,1,0,1,14,2017,39.5341183,-119.7995211
+3700 block of Cambridge,Las Vegas,Nevada,NV,1,0,1,1,2017,36.2277116,-115.2640448
+5801 W. Lake Mead Boulevard,Las Vegas,Nevada,NV,1,0,12,10,2016,36.2277116,-115.2640448
+Pine Rd,Exeter (Brentwood),New Hampshire,NH,1,0,11,4,2017,43.73857152,-71.51309929
+22 March Hill Rd,Alstead,New Hampshire,NH,1,0,1,7,2017,43.0840667,-72.3585433
+878 S 19th St,Newark,New Jersey,NJ,1,0,3,18,2017,40.72417185,-74.17242155
+Locker Street,Toms River (Berkeley Township),New Jersey,NJ,1,0,1,28,2017,40.12272985,-74.70346139
+Union Ave,Stratford,New Jersey,NJ,1,0,12,31,2016,39.82895688,-75.01545765
+2000 block of Genesee Street,Trenton (Hamilton Township),New Jersey,NJ,1,0,11,17,2016,40.12272985,-74.70346139
+Lobo Canyon Rd,Grants,New Mexico,NM,1,0,4,13,2017,35.15384157,-107.834702
+900 block of Lamont Street,Carlsbad,New Mexico,NM,1,0,2,1,2017,32.40633489,-104.2385096
+100 block of Cynthia Loop NW,Albuquerque,New Mexico,NM,1,0,1,3,2017,35.1055517,-106.6473884
+1 Rd 3959,Farmington,New Mexico,NM,1,0,12,12,2016,34.31080523,-106.1079173
+2998 Armenian Rd,Sherman,New York,NY,1,0,11,22,2017,42.6687355,-75.44096178
+111 Wadsworth Ave,New York (Manhattan),New York,NY,1,1,10,29,2017,42.6687355,-75.44096178
+7899 Woodcook Dr,Greig,New York,NY,1,0,10,23,2017,43.70439,-75.24647928
+201 Warburton Ave,Yonkers,New York,NY,1,0,9,24,2017,40.94660166,-73.86737618
+107 Hartson St,Syracuse,New York,NY,1,0,8,21,2017,42.6687355,-75.44096178
+Williams St,Glen Cove,New York,NY,1,0,8,2,2017,40.8914755,-73.64414355
+Bagdad Rd,Gowanda,New York,NY,1,0,7,12,2017,42.46120527,-78.93382338
+Orange Street,Rochester,New York,NY,1,0,3,19,2017,42.6687355,-75.44096178
+Division Street,Norwich,New York,NY,1,0,12,1,2016,42.53332261,-75.52275911
+Orr Street Extension and Garfield Road,Busti,New York,NY,1,0,11,28,2016,42.04232483,-79.27890125
+W River Road,Caledonia,New York,NY,1,0,11,27,2016,42.97547297,-77.85711308
+Kehoe Road,Sandy Creek,New York,NY,1,0,11,24,2016,43.64336689,-76.08631566
+2000 Block of Walden Glade Run,Apex,North Carolina,NC,1,0,11,24,2017,35.7282406,-78.862489
+2091 N.C. Highway 27,Lillington,North Carolina,NC,1,0,11,13,2017,35.40071548,-78.81395276
+S Desert Rd,Elizabeth City,North Carolina,NC,1,0,10,8,2017,36.29397687,-76.23494065
+4365 Wakeman Dr,Winston Salem (Winston-salem),North Carolina,NC,1,0,8,17,2017,35.3662481,-79.42939386
+1301 Filbert Place,High Point,North Carolina,NC,1,0,3,25,2017,35.95498956,-79.99005784
+108 Dee Dee Pl,Goldsboro,North Carolina,NC,1,0,1,20,2017,35.3305332,-78.1079282
+6500 block of Creedmoor Road,Raleigh,North Carolina,NC,1,0,1,11,2017,35.8302035,-78.6414394
+334 Main Street,Pinetown,North Carolina,NC,1,0,1,3,2017,35.61103018,-76.8557994
+500 block of Assiniboin Dr,Bismarck,North Dakota,ND,1,0,4,15,2017,46.81146344,-100.7692263
+N/A,Edgeley,North Dakota,ND,1,0,2,7,2017,46.36233779,-98.71239314
+8782 E TR 8,Republic,Ohio,OH,1,0,11,19,2017,40.42858964,-82.70242359
+8600 block of Meadowview Dr,West Chester,Ohio,OH,1,0,11,18,2017,39.33520876,-84.4145443
+6600 block of Brownfield Dr,Cleveland (Parma),Ohio,OH,1,0,9,28,2017,40.42858964,-82.70242359
+300 block of Jackson St,Fremont,Ohio,OH,1,0,9,17,2017,40.42858964,-82.70242359
+3800 block of Wade Rd,Madison,Ohio,OH,1,0,9,10,2017,41.77224045,-81.05297561
+N 21st and Log Pond,Newark,Ohio,OH,1,1,7,24,2017,40.07107065,-82.42509931
+900 block of McPherson Ave,Cincinnati,Ohio,OH,1,0,7,24,2017,39.14291321,-84.50366914
+155 Prestige Pl,Miamisburg,Ohio,OH,1,0,7,23,2017,39.6336282,-84.2292953
+Pasadena Pl,Barberton,Ohio,OH,1,0,6,19,2017,41.00959421,-81.60368904
+6302 Busch Blvd,Columbus,Ohio,OH,1,0,5,6,2017,40.91903272,-84.05946017
+600 block of Fulmer Ave,Akron,Ohio,OH,1,0,4,21,2017,41.08004268,-81.52186217
+6550 Columbus Road NE,Louisville,Ohio,OH,1,0,3,24,2017,40.83640179,-81.2645727
+2138 Claggett Drive,Dayton,Ohio,OH,1,0,3,21,2017,39.8165035,-84.194445
+400 block of Iowa Ave,Lorain,Ohio,OH,1,0,2,12,2017,41.44096014,-82.18391979
+1500 block of East Broadway St,Toledo,Ohio,OH,1,0,1,13,2017,41.66409973,-83.58189036
+124 Regency Court,Covington,Ohio,OH,1,0,1,11,2017,40.10834,-84.3521766
+3741 Prospect Rd,New London,Ohio,OH,1,0,1,4,2017,41.07962403,-82.40661941
+Ridge Road,Newton Falls,Ohio,OH,1,0,12,31,2016,41.18861112,-80.97012928
+3811 Library Avenue,Cleveland,Ohio,OH,1,0,12,23,2016,41.4577533,-81.7101428
+2700 block of Noe Bixby,Columbus,Ohio,OH,1,0,12,21,2016,39.9847989,-82.9850438
+4048 Parkmead Drive,Grove City,Ohio,OH,1,0,12,20,2016,39.8804936,-83.0629424
+2331 Vixen Street NW,North Canton,Ohio,OH,1,0,12,11,2016,40.874325,-81.39679791
+2201 West 93rd Street,Cleveland,Ohio,OH,1,0,12,8,2016,41.51121521,-81.56356397
+2400 block of Seaman Street,Toledo,Ohio,OH,1,0,12,4,2016,41.66409973,-83.58189036
+SR Route 65,Grand Rapids,Ohio,OH,1,0,11,26,2016,41.40775047,-83.86796091
+2100 block of NW Lincoln,Lawton,Oklahoma,OK,1,0,10,29,2017,34.61597795,-98.420562
+2600 block of 28th St,Tulsa,Oklahoma,OK,1,0,10,21,2017,36.13544967,-95.91306967
+1505 Kinkaid Dr,Oklahoma City,Oklahoma,OK,1,0,10,11,2017,35.422422,-97.543986
+25803 N CR 3250,Wynnewood,Oklahoma,OK,1,0,10,6,2017,34.6441776,-97.16268269
+W 4th St and S 33rd W Ave,Tulsa,Oklahoma,OK,1,0,9,13,2017,36.13544967,-95.91306967
+5000 block of S Hudson,Tulsa,Oklahoma,OK,1,0,8,9,2017,36.13544967,-95.91306967
+5400 block of North Hartford,Tulsa,Oklahoma,OK,1,2,6,17,2017,36.13544967,-95.91306967
+1000 Block of E 51st Pl N,Tulsa,Oklahoma,OK,1,0,6,14,2017,36.13544967,-95.91306967
+1214 W Chickasha Ave,Chickasha,Oklahoma,OK,1,0,5,30,2017,35.56938633,-97.9483721
+North 3950 Road,Ochelata,Oklahoma,OK,1,0,3,26,2017,36.60094314,-95.98119023
+East 22 Road,Quapaw,Oklahoma,OK,1,0,2,22,2017,36.95858483,-94.78155251
+1000 block of N Delaware Pl,Tulsa,Oklahoma,OK,1,0,2,16,2017,36.13544967,-95.91306967
+2 Mile Road,Fort Gibson,Oklahoma,OK,1,0,12,14,2016,35.77669193,-95.25996737
+300 block of Temple Brown Rd,Roseburg,Oregon,OR,1,0,11,17,2017,43.22205176,-123.3522361
+19200 block of SW Cipole Rd,Sherwood,Oregon,OR,1,0,10,20,2017,45.35980655,-122.8430593
+NF-15,Blue River,Oregon,OR,1,0,7,1,2017,44.07297028,-120.6425598
+Heppsie Mountain Road,Eagle Point,Oregon,OR,1,0,3,23,2017,42.46772421,-122.8016084
+7510 Southwest Aloma Way,Portland,Oregon,OR,1,0,1,26,2017,45.5371811,-122.6499872
+15000 block of Greenwood Dr,La Pine,Oregon,OR,1,0,1,10,2017,43.68651678,-121.4855937
+800 block of June Dr,Molalla,Oregon,OR,1,0,1,2,2017,44.07297028,-120.6425598
+Robertson Bridge Rd,Grants Pass,Oregon,OR,1,0,12,31,2016,42.4340234,-123.3324735
+200 block of W Godfrey,Philadelphia,Pennsylvania,PA,1,0,11,9,2017,40.00763806,-75.1339627
+10124A Upper Little Creek Rd,Bangor,Pennsylvania,PA,1,0,10,21,2017,40.86795657,-75.208025
+W 2nd St,Berwick,Pennsylvania,PA,1,0,10,3,2017,41.05549012,-76.24923993
+126 E Barnum St,East Stroudsburg,Pennsylvania,PA,1,0,8,24,2017,40.9988613,-75.1886403
+108 Dover Ln,West Mifflin,Pennsylvania,PA,1,0,8,9,2017,40.35808796,-79.90723365
+5100 block of Lougean Ave,Pittsburgh,Pennsylvania,PA,1,0,7,22,2017,40.43946574,-79.97631573
+2500 block of Myers School Rd,Red Lion,Pennsylvania,PA,1,0,6,24,2017,39.89860905,-76.60773531
+500 block of Ash Lane,Saylorsburg,Pennsylvania,PA,1,0,6,18,2017,40.89973574,-75.3179614
+2151 N Main St,Washington,Pennsylvania,PA,1,0,6,11,2017,40.17396328,-80.24672879
+2902 Bethel Road,Chester,Pennsylvania,PA,1,0,6,3,2017,39.84562785,-75.37183417
+1300 Block of Ridge St,Mckeesport,Pennsylvania,PA,1,0,4,25,2017,40.99568088,-77.78712223
+3900 block of Orchard Drive,Macungie,Pennsylvania,PA,1,0,4,8,2017,40.51643225,-75.55448352
+714 Southern Ave,Pittsburgh (Mount Washington),Pennsylvania,PA,1,0,3,12,2017,40.99568088,-77.78712223
+Lake Lucy Road,Tionesta,Pennsylvania,PA,1,0,3,1,2017,41.49366089,-79.44799706
+129 Finley St,Larimer,Pennsylvania,PA,1,0,1,22,2017,39.7883489,-78.92590894
+400 block of West Baltimore Street,Greencastle,Pennsylvania,PA,1,0,12,31,2016,39.79067002,-77.72667392
+218 Republic Rd,Republic,Pennsylvania,PA,1,0,11,27,2016,40.99568088,-77.78712223
+Beckham Rd,Warrenville,South Carolina,SC,1,0,10,17,2017,33.54608584,-81.79897901
+200 block of Hunters Mill Dr,West Columbia,South Carolina,SC,1,0,10,9,2017,33.990459,-81.0951262
+N/A,Bowman,South Carolina,SC,1,0,10,1,2017,33.85416558,-80.90959195
+Folly Rd,Hartsville,South Carolina,SC,1,0,9,15,2017,34.36826076,-80.08166824
+Gentry Rd,Starr,South Carolina,SC,1,0,9,13,2017,34.376921,-82.69588194
+2400 block of Truax Ln,Columbia,South Carolina,SC,2,0,9,6,2017,34.0297833,-80.8965664
+509 E Dunlap St,Lancaster,South Carolina,SC,1,0,7,31,2017,33.85416558,-80.90959195
+8720 Windsor Lake Blvd,Columbia,South Carolina,SC,1,0,7,29,2017,34.0297833,-80.8965664
+8720 Windsor Lake Blvd,Columbia,South Carolina,SC,1,0,7,22,2017,34.0297833,-80.8965664
+1509 Grove Rd,Greenville,South Carolina,SC,1,0,6,24,2017,34.8369021,-82.362997
+Whitener Avenue,Spartanburg,South Carolina,SC,1,0,6,16,2017,34.9422944,-81.9269074
+N/A,Anderson,South Carolina,SC,1,0,6,4,2017,34.52247869,-82.64706127
+Miller Road,Sumter,South Carolina,SC,1,0,5,24,2017,33.940848,-80.3955428
+500 block of  Agnew Road,Starr,South Carolina,SC,1,0,5,12,2017,34.376921,-82.69588194
+Afton Court,Myrtle Beach,South Carolina,SC,1,0,2,2,2017,33.7108008,-78.8858621
+Somerset Drive,Sumter,South Carolina,SC,1,0,1,26,2017,33.940848,-80.3955428
+200 block of Cherrywood Dr,Elgin,South Carolina,SC,1,0,1,22,2017,34.17022189,-80.79299936
+1358 Mount Pleasant Dr,Andrews,South Carolina,SC,1,0,12,26,2016,33.44942679,-79.56596985
+605 Murphy Rd,Anderson,South Carolina,SC,1,0,12,26,2016,34.4650044,-82.7700943
+Buffalo Street,Union,South Carolina,SC,1,0,12,10,2016,33.85416558,-80.90959195
+Pineturn Lane,Gaston,South Carolina,SC,1,0,11,25,2016,33.81815163,-81.09968656
+200 block of Wilson Road,Union,South Carolina,SC,1,0,11,12,2016,33.85416558,-80.90959195
+4404 S Louise Ave,Sioux Falls,South Dakota,SD,1,0,7,29,2017,43.5383351,-96.7319985
+N/A,Tripp (county),South Dakota,SD,1,0,6,10,2017,44.33413091,-100.153875
+W Hwy 44 and Hwy 385,Pennington (county),South Dakota,SD,1,0,4,23,2017,44.33413091,-100.153875
+N/A,Charles Mix (county),South Dakota,SD,1,0,3,19,2017,44.33413091,-100.153875
+Evergreen Street,Dresden,Tennessee,TN,1,0,11,12,2017,36.27843905,-88.69390046
+3527 S Mendenhall Rd,Memphis,Tennessee,TN,1,0,11,10,2017,35.0526303,-89.8864951
+2000 block of South Lyle Lane,Nashville,Tennessee,TN,1,0,11,9,2017,36.16746379,-86.78570268
+160 State Line Rd,Clarksville,Tennessee,TN,1,0,10,9,2017,36.56968315,-87.34323717
+N 7th St,Nashville,Tennessee,TN,1,0,10,7,2017,36.16746379,-86.78570268
+1768 Madison Street,Clarksville,Tennessee,TN,1,0,9,11,2017,36.56968315,-87.34323717
+10th Ave,Springfield,Tennessee,TN,1,0,9,2,2017,36.49437452,-86.87151451
+1000 block of Parkland Road,Memphis,Tennessee,TN,1,0,8,20,2017,35.10520292,-89.97735447
+1400 block of Hickory Way,Memphis,Tennessee,TN,1,0,8,19,2017,35.10520292,-89.97735447
+1219 Shorehaven Dr,Clarksville,Tennessee,TN,2,0,8,19,2017,36.56968315,-87.34323717
+100 block of Donald St,Nashville,Tennessee,TN,1,0,8,4,2017,36.16746379,-86.78570268
+1541 Northside Dr,Memphis,Tennessee,TN,1,0,7,22,2017,35.2321991,-90.0120705
+573 Warrensburg Road,Greeneville,Tennessee,TN,1,0,7,8,2017,36.16802019,-82.8196659
+Hurst Dr,Nashville,Tennessee,TN,1,1,6,24,2017,36.16746379,-86.78570268
+4800 block of Rickard Rd,Memphis,Tennessee,TN,1,0,6,21,2017,35.10520292,-89.97735447
+766 Lewis Street,Nashville,Tennessee,TN,1,0,6,6,2017,36.16746379,-86.78570268
+12000 block of S Fork,Arlington,Tennessee,TN,1,0,6,1,2017,35.2595149,-89.66801568
+Covington Pike,Memphis,Tennessee,TN,1,0,5,13,2017,35.10520292,-89.97735447
+2516 E 21st St,Chattanooga,Tennessee,TN,1,0,4,9,2017,35.0168579,-85.2735324
+2500 block of Hanwood,Memphis,Tennessee,TN,1,0,3,17,2017,35.10520292,-89.97735447
+2373 Culps Bend Road,Clifton,Tennessee,TN,1,0,2,26,2017,35.37683838,-87.99366381
+1000 block of Old Mail Rd,Crossville,Tennessee,TN,1,0,1,14,2017,35.9536368,-85.02825114
+6110 Smith Road,Cedar Hill,Tennessee,TN,1,0,1,8,2017,36.55117588,-87.00068588
+220 Vann Dr,Jackson,Tennessee,TN,1,0,1,6,2017,35.64931359,-88.83075059
+6000 block of Middleburg Road,Henderson (county),Tennessee,TN,1,0,12,25,2016,35.85185663,-86.27777991
+County Road 278,Niota,Tennessee,TN,1,0,11,26,2016,35.51591927,-84.54913967
+N/A,Bulverde,Texas,TX,1,0,11,24,2017,29.77473807,-98.44180073
+2600 block of FM 418,Kountze,Texas,TX,1,0,11,8,2017,30.37243226,-94.3159442
+5400 block of Wilson Rd,Fort Worth,Texas,TX,1,0,10,28,2017,32.7795423,-97.3463354
+Whitehurst Dr and Skillman St,Dallas,Texas,TX,1,0,10,3,2017,32.79464486,-96.76633721
+CR 3560,Cleveland (Plum Grove),Texas,TX,1,0,9,30,2017,31.53834907,-99.6497468
+19000 block of Highland,Tornillo,Texas,TX,1,0,9,28,2017,31.43659002,-106.1033047
+3700 block of Burning Tree Ln,Garland,Texas,TX,1,0,9,26,2017,32.91008028,-96.6304259
+5000 block of CR 48,Manvel,Texas,TX,1,0,9,19,2017,29.47617021,-95.35448477
+3500 block of Parker Rd E,Haltom City,Texas,TX,1,0,9,2,2017,32.81758668,-97.27065856
+9500 block of Timber Trail,Scurry,Texas,TX,1,0,8,28,2017,32.51282228,-96.38543728
+1509 Trigg Ln,Wichita Falls,Texas,TX,1,0,8,7,2017,33.90727399,-98.52929817
+6200 block of Big Valley Dr,San Antonio,Texas,TX,1,0,8,4,2017,31.53834907,-99.6497468
+4700 block of 6th St,Bacliff,Texas,TX,1,0,7,30,2017,29.50772471,-94.98786157
+19900 block of River Brook Dr,Humble (Atascocita),Texas,TX,1,0,7,20,2017,31.53834907,-99.6497468
+1800 block of Edmund Blvd,San Angelo,Texas,TX,1,0,7,19,2017,31.53834907,-99.6497468
+3134 Mission Gate,San Antonio,Texas,TX,1,0,7,4,2017,31.53834907,-99.6497468
+300 block of Langton,San Antonio,Texas,TX,1,0,6,16,2017,31.53834907,-99.6497468
+CR 2342,Dayton,Texas,TX,1,0,6,12,2017,30.03562378,-94.90244073
+13800 block of Northlake Dr,Houston,Texas,TX,1,0,6,1,2017,29.7804724,-95.3863425
+SR 134,Jefferson,Texas,TX,1,1,5,27,2017,32.76340092,-94.35115833
+1601 W 11th Place,Big Spring,Texas,TX,1,0,5,12,2017,32.23871397,-101.4801578
+1200 W 8th St,Freeport,Texas,TX,1,0,4,19,2017,28.94192268,-95.36208303
+21323 Finbury Oaks Lane,Katy,Texas,TX,1,0,4,13,2017,29.79110761,-95.82679839
+4800 block of Madyson Ridge Dr,Fort Worth,Texas,TX,1,0,4,10,2017,32.7795423,-97.3463354
+1700 block of Aberdeen Dr,Arlington,Texas,TX,1,0,4,8,2017,32.69987097,-97.12592206
+1000 block of Vaky Street,Corpus Christi,Texas,TX,1,0,4,2,2017,27.73759861,-97.28696423
+7400 block of Clint Ln,San Antonio,Texas,TX,1,0,3,30,2017,31.53834907,-99.6497468
+200 block of FM 1534,Whitney,Texas,TX,1,0,3,23,2017,31.95202012,-97.3192658
+800 block of Green Ave,Killeen,Texas,TX,1,0,3,23,2017,31.07570201,-97.72990892
+4002 Corder St,Houston,Texas,TX,2,0,3,22,2017,29.6827575,-95.3634794
+400 Block of Hardy Circle,El Paso,Texas,TX,1,0,3,22,2017,31.8491633,-106.4326601
+1500 block of Main Ave,Orange,Texas,TX,1,0,3,13,2017,27.95620302,-97.93855251
+21300 block of Greenham Dr.,Spring,Texas,TX,1,0,3,10,2017,27.76152923,-97.74187314
+1400 block of Dairy Ashford,Houston,Texas,TX,1,0,2,16,2017,29.7804724,-95.3863425
+1500 W William Cannon Dr,Austin,Texas,TX,1,0,2,4,2017,30.2014702,-97.7996585
+4235 Oak Shadows,Houston,Texas,TX,1,0,12,31,2016,29.84348366,-95.45072543
+500 block of Anderson County Road 350,Palestine,Texas,TX,1,0,12,23,2016,31.75471225,-95.64717448
+501 East Stassney Lane,Austin,Texas,TX,1,0,12,12,2016,30.2018519,-97.7718743
+Highway 78,Bonham,Texas,TX,0,0,11,30,2016,31.53834907,-99.6497468
+406 W Martinez St,Del Rio,Texas,TX,2,0,11,28,2016,29.37019321,-100.8797589
+CR 4452,Palestine,Texas,TX,1,0,11,12,2016,31.75471225,-95.64717448
+N/A,Santaquin,Utah,UT,1,0,10,7,2017,39.97212335,-111.7926968
+602 Brooklyn Road,Danby (Mount Tabor),Vermont,VT,1,0,12,11,2016,44.02009856,-72.61472563
+1700 block of Skiffes Creek Circle,Williamsburg,Virginia,VA,1,0,11,2,2017,37.26917247,-76.70719886
+Welch Dr and Old Creek Rd,Chesterfield,Virginia,VA,1,0,6,7,2017,37.64882817,-78.70157159
+1300 block of Lead Street,Norfolk,Virginia,VA,1,0,5,21,2017,36.92334179,-76.24561422
+10438 Cecelia Lane,Locust Grove,Virginia,VA,1,0,5,15,2017,38.2567783,-77.8436831
+Mine Run Rd,Locust Grove,Virginia,VA,1,0,5,15,2017,37.64882817,-78.70157159
+1600 block of Henrico Arms Place,Henrico,Virginia,VA,1,0,4,30,2017,37.64882817,-78.70157159
+1200 block of Seaboard Avenue,Chesapeake,Virginia,VA,1,0,4,29,2017,36.67775211,-76.30243259
+Jahnke Rd,Richmond,Virginia,VA,1,0,4,1,2017,37.64882817,-78.70157159
+Regal Way,Hampton,Virginia,VA,1,0,3,16,2017,37.04872093,-76.29536561
+201 Neel St,Bluefield,Virginia,VA,1,0,1,5,2017,37.23530855,-81.2745295
+Daniel Road,Mineral,Virginia,VA,1,0,12,2,2016,38.00679197,-77.90608085
+Mt. Carmel Road,Charlotte (county),Virginia,VA,1,0,12,2,2016,37.64882817,-78.70157159
+700 block of Dabney Road,Christiansburg,Virginia,VA,1,0,11,22,2016,37.14137707,-80.40276384
+I-85,Dinwiddie (county),Virginia,VA,1,0,11,20,2016,37.64882817,-78.70157159
+1500 block of Carroll Rd,Kelso,Washington,WA,1,0,10,14,2017,46.12510902,-122.8912636
+N Washington St and Spokane Falls Blvd,Spokane,Washington,WA,1,0,8,15,2017,47.66255658,-117.2345719
+2400 block of South Star Lake Rd,Federal Way,Washington,WA,1,0,7,5,2017,47.30908515,-122.3357556
+S 3rd St and Arlington St,Yakima,Washington,WA,1,0,5,7,2017,46.59260449,-120.5478201
+1700 block of 211th St Ct E,Spanaway,Washington,WA,1,0,5,2,2017,47.09788737,-122.4232572
+10200 block of 23rd Court Southwest,Seattle,Washington,WA,1,0,3,10,2017,47.62024593,-122.3506866
+13100 block of A Street South,Spanaway,Washington,WA,1,0,2,11,2017,47.09788737,-122.4232572
+Cleveland Avenue,Everett,Washington,WA,1,0,12,15,2016,47.96131252,-122.1865365
+N/A,New Martinsville,West Virginia,WV,1,0,11,20,2017,39.66345582,-80.85687088
+Low Gap Rd,Princeton,West Virginia,WV,1,0,7,6,2017,37.36887952,-81.09615236
+110 Erica Lane,Princeton,West Virginia,WV,1,0,12,26,2016,37.36887952,-81.09615236
+Highway 47 West,Troy,West Virginia,WV,1,0,11,23,2016,38.87760022,-80.36684481
+Highway 23,Loganville,Wisconsin,WI,1,0,8,8,2017,43.43883106,-90.03734572
+E410 Rieben Rd,Waupaca,Wisconsin,WI,1,0,7,26,2017,44.35092478,-89.07210812
+1800 block of Howe St,Racine,Wisconsin,WI,1,0,7,12,2017,42.72898437,-87.80711716
+Pisgah Road,Ontario,Wisconsin,WI,1,0,5,21,2017,43.72216976,-90.59411868
+535 W. College Ave,Appleton,Wisconsin,WI,1,1,5,21,2017,44.2788191,-88.3926255
+9864 Boulevard Rd,Cadott,Wisconsin,WI,1,0,3,30,2017,44.7536765,-89.63679943
+1800 block of Harold St,Green Bay,Wisconsin,WI,1,0,2,20,2017,44.52070927,-87.98541795
+3600 block of 48th St.,Kenosha,Wisconsin,WI,1,0,2,11,2017,42.5847398,-87.8736961
+Emery Court,East Troy,Wisconsin,WI,1,0,1,2,2017,42.78472104,-88.39728055

@@ -1,11 +1,11 @@
-#map {
+.map {
     float: left;
     width: 60%;
     height: 500px;
 }
 
-#svgHolderDiv {
-    float: right;
+.barChart {
+    float: left;
     width: 40%;
     height: 500px;
 }

@@ -1,20 +1,8 @@
 "use strict";
 
-//window.onload = renderMyChart;
-
- function triggerBarHighlight(Month) {
-    document.getElementById(Month+'Bar').classList.remove('bar');
-    document.getElementById(Month+'Bar').classList.add('barHover');
-}
-
-function triggerBarReset(Month){
-    document.getElementById(Month+'Bar').classList.remove('barHover');
-    document.getElementById(Month+'Bar').classList.add('bar');
-}
-
-function renderMyChart() {
-    var svg = d3.select("#svgHolderDiv").append("svg:svg")
-        .attr("width", 600)//canvasWidth)
+function renderADBar() {
+    var svg = d3.select("#ADBarChart").append("svg:svg")
+        .attr("width", 500)//canvasWidth)
         .attr("height", 500),//canvasHeight);
         margin = { top: 20, right: 20, bottom: 30, left: 70 },
         width = +svg.attr("width") - margin.left - margin.right,
@@ -27,7 +15,7 @@ function renderMyChart() {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     // change the dataset
-    d3.csv("MassShootingMonthFrequency.csv", function (d) {
+    d3.csv("AccidentalDeath/AccidentalDeathMonthFrequency.csv", function (d) {
         // change the y value
         d.Frequency = +d.Frequency;
         return d;
@@ -54,7 +42,7 @@ function renderMyChart() {
         svg.append("text")
             .attr("class", "x label")
             .attr("text-anchor", "end")
-            .attr("x", width - 150)
+            .attr("x", width - 100)
             .attr("y", height + 50)
             .text("Month");
 
@@ -75,7 +63,7 @@ function renderMyChart() {
             .attr("font-size", "20px")
             .text("Total Incidents by Month (Click to see points)");
 
-var allMonths = [0,0,0,0,0,0,0,0,0,0,0,0];
+var allMonths2 = [0,0,0,0,0,0,0,0,0,0,0,0];
         g.selectAll(".bar")
             .data(data)
             .enter().append("rect")
@@ -84,20 +72,19 @@ var allMonths = [0,0,0,0,0,0,0,0,0,0,0,0];
             .attr("y", function (d) { return y(d.Frequency); })
             .attr("width", x.bandwidth())
             .attr("height", function (d) { return height - y(d.Frequency); })
-            .attr("id", function(d){return d.allYearMonths + "Bar";})
+            .attr("id", function(d){return "AD" + d.allYearMonths + "Bar";})
             //giving each state bar in the chart an ID so that each can be reached later for manipulation
             
             .on("click", function(d){
-                console.log(d.allYearMonths);
-                if( allMonths[d.allYearMonths-1] === 0){
-                    allMonths[d.allYearMonths-1]=1;
-                    triggerMapPoints(d.allYearMonths);
-                    triggerBarHighlight(d.allYearMonths);
+                if( allMonths2[d.allYearMonths-1] === 0){
+                    allMonths2[d.allYearMonths-1]=1;
+                    triggerMapPoints(d.allYearMonths, map2, ADincidents);
+                    triggerBarHighlight(d.allYearMonths, "AD");
                 }
                 else{
-                    allMonths[d.allYearMonths-1]=0;                    
-                    triggerBarReset(d.allYearMonths);
-                    triggerMapReset(allMonths);
+                    allMonths2[d.allYearMonths-1]=0;                    
+                    triggerBarReset(d.allYearMonths, "AD");
+                    triggerMapReset(allMonths2, map2, ADincidents);
                 }
             });
     });

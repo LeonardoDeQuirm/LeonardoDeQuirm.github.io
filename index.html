@@ -5,31 +5,51 @@
     <meta charset="UTF-8">
 
     <!--styleSheets -->
-    <link rel="stylesheet" href="leaflet.css" />
-    <link rel="stylesheet" href="mainMap.css">
+    <link rel="stylesheet" href="Leaflet/leaflet.css" />
+    <link rel="stylesheet" href="map.css">
     <link rel="stylesheet" href="barChart.css" />
     <link rel="stylesheet" href="LineGraph.css" />
-    <link rel="stylesheet" href="MarkerCluster.css" />
-    <link rel="stylesheet" href="MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="MarkerCluster/MarkerCluster.css" />
+    <link rel="stylesheet" href="MarkerCluster/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="Tabs.css">
     <link rel="icon" href="app-osumobile-256.png">
 
     <!-- scripts -->
-    <script src="leaflet.js"></script>
+    <script src="Leaflet/leaflet.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
-    <script src="leaflet.markercluster-src.js"></script>
+    <script src="Leaflet/leaflet.markercluster-src.js"></script>
     <script src="us-states.js"></script>
-    <script src="mainMap.js"></script>
-    <script src="barChart.js"></script>
-    <script src="LineGraph.js"></script>
-    <script src="MassShooting.js"></script>
+    <script src="MassShooting/MSMap.js"></script>
+    <script src="MassShooting/MSBarChart.js"></script>
+    <script src="MassShooting/MSLineGraph.js"></script>
+    <script src="MassShooting/MSData.js"></script>
+    <script src="AccidentalDeath/ADMap.js"></script>
+    <script src="AccidentalDeath/ADBarChart.js"></script>
+    <script src="AccidentalDeath/AccidentalDeathData.js"></script>
+    <script src="Functions.js"></script>
+    <script src="Tabs.js"></script>
 </head>
 <h1>Gun Violence in the United States</h1>
 
 <body>
-
-    <div id="map"></div>
-    <div id="svgHolderDiv"> </div>
-    <div id="lineChartDiv"></div>
+    <div class="tab">
+        <button class="tablinks" onclick="openTab(event, 'MassShooting'), renderMassShooting()" id="defaultOpen">Mass Shooting</button>
+        <button class="tablinks" onclick="openTab(event, 'AccidentalDeaths'), renderAccidentalDeath()">Accidental Deaths</button>
+    </div>
+      
+    <div id="MassShooting" class="tabcontent">
+        <div id="MSmap" class="map"></div>
+        <div id="MSBarChart" class="barChart"> </div>
+        <div id="MSLineGraph" class="lineGraph"></div>
+    </div>
+      
+    <div id="AccidentalDeaths" class="tabcontent">
+        <div id="ADmap" class="map"></div>
+        <div id="ADBarChart" class="barChart"> </div>
+    </div>
+    
+    <script>document.getElementById("defaultOpen").click();</script>
+    
 
 </body>
 

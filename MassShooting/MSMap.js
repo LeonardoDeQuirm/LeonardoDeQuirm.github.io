@@ -1,67 +1,80 @@
 "use strict";
 
-//global variables:
+function renderMassShooting(){
+    renderMSMap();
+    renderMSBar();
+    renderMSLine();
+}
+
 var geojson;
-var map;
-//empty variable to be used later
-var displayPopUp = {};
+var map1;
 // control that shows state info on hover
-var info = L.control();
+var info1 = L.control(map1);
 
-window.onload = function () {
-    renderMyMap();
-    renderMyChart();
-    renderMyLine();
-};
-//assigning displayPopUp to the fuction
-function addPopups(feature, layer) {
-    var monthFixed = feature.properties.Month;
-    if (feature.properties.Month<10){
-        monthFixed="0"+feature.properties.Month;
-    }
-    layer.bindPopup("<b>Address: </b>" + feature.properties.Address + 
-    "</br>" + feature.properties.CityOrCounty + ", " + feature.properties.StateAbr + 
-    "</br> <b>Date: </b>" + monthFixed+ "/" + feature.properties.Year);
-}
-var clusters = L.markerClusterGroup();
-var monthLayerGroup = L.geoJson;
-function triggerMapPoints(Month) {
+function renderMSMap() {
 
-    monthLayerGroup = L.geoJson(incidents, {
-        filter: monthFilter,
-        onEachFeature: addPopups
-    });
+    map1 = L.map('MSmap').setView([37.8, -96], 4);
 
-    function monthFilter(feature) {
-        if (feature.properties.Month === Month) return true
-    }
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+        maxZoom: 10,
+        minZoom: 4,
+        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+            '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+            'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+        id: 'mapbox.light'
+    }).addTo(map1);
 
-    clusters.addLayer(monthLayerGroup);
-    map.addLayer(clusters);
+    // info is declared as a global variable, outside the function assigned to the window.onload
+    info1.addTo(map1);
 
-    if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
-        clusters.bringToFront();
-    }
+    //geojson is declared as a global variable, outside the function assigned to the window.onload
+    geojson = L.geoJson(statesData, {
+        style: style,
+        onEachFeature: onEachFeature,
+        pointToLayer: pointToMarker
+    }).addTo(map1);
 
-    //info.update(incidents.feature.properties);
-}
+    map1.attributionControl.addAttribution('Gun Violence data &copy; <a href="http://www.gunviolencearchive.org/">Gun Violence Archive</a>');
 
-
-
-function triggerMapReset(allMonths) {
-    clusters.clearLayers();
-    for (var i = 0; i < allMonths.length; i++) {
-        if (allMonths[i] == 1) {
-            monthLayerGroup = L.geoJson(incidents, { filter: monthFilter, onEachFeature: addPopups});
-            function monthFilter(feature) {
-                if (feature.properties.Month == i + 1) return true
-            };
-            clusters.addLayer(monthLayerGroup);
-            map.addLayer(clusters);
+    var legend = L.control({ position: 'bottomright' });
+    legend.onAdd = function (map1) {
+        
+        var div = L.DomUtil.create('div', 'info legend'),
+            grades = [0, 10, 20, 50, 100],
+            labels = ['<strong> Incidents by State </strong>'],
+            from, to;
+    
+        for (var i = 0; i < grades.length; i++) {
+            from = grades[i];
+            to = grades[i + 1];
+    
+            labels.push(
+                '<i style="background:' + getColor(from + 1) + '"></i> ' +
+                from + (to ? '&ndash;' + to : '+'));
         }
-    }
-
+    
+        div.innerHTML = labels.join('<br>');
+        return div;
+    };
+    legend.addTo(map1);
 }
+
+//When adding the info
+info1.onAdd = function (map1) {
+    //"this" returns to info. 
+    this._div = L.DomUtil.create('div', 'info');
+    //the following line calls info.update(props) function. Again, this refers to 'info' here
+    this.update();
+    return this._div;
+};
+
+//Update the info based on what state user has clicked on
+info1.update = function (props) {
+    this._div.innerHTML = '<h4>US Mass Shootings Frequency</h4>' + (props ?
+        '<b>' + props.name + '</b><br />' + props.MSFrequency + ' Mass shootings between 2014 and 2017'
+        : 'Hover over a state');
+};
+
 
 function pointToMarker(feature, latlng) {
     var geojsonMarkerOptions = {
@@ -77,74 +90,6 @@ function pointToMarker(feature, latlng) {
 
     return circleMarker
 }
-
-function renderMyMap() {
-
-    map = L.map('map').setView([37.8, -96], 4);
-
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-        maxZoom: 10,
-        minZoom: 4,
-        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-            '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-            'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-        id: 'mapbox.light'
-    }).addTo(map);
-
-    // info is declared as a global variable, outside the function assigned to the window.onload
-    info.addTo(map);
-
-    //geojson is declared as a global variable, outside the function assigned to the window.onload
-    geojson = L.geoJson(statesData, {
-        style: style,
-        onEachFeature: onEachFeature,
-        pointToLayer: pointToMarker
-    }).addTo(map);
-
-    map.attributionControl.addAttribution('Gun Violence data &copy; <a href="http://www.gunviolencearchive.org/">Gun Violence Archive</a>');
-
-    var legend = L.control({ position: 'bottomright' });
-
-    legend.onAdd = function (map) {
-
-        var div = L.DomUtil.create('div', 'info legend'),
-            grades = [0, 10, 20, 50, 100],
-            labels = ['<strong> Incidents by State </strong>'],
-            from, to;
-
-        for (var i = 0; i < grades.length; i++) {
-            from = grades[i];
-            to = grades[i + 1];
-
-            labels.push(
-                '<i style="background:' + getColor(from + 1) + '"></i> ' +
-                from + (to ? '&ndash;' + to : '+'));
-        }
-
-        div.innerHTML = labels.join('<br>');
-        return div;
-    };
-
-    legend.addTo(map);
-}
-
-//When adding the info
-info.onAdd = function (map) {
-    //"this" returns to info. 
-    this._div = L.DomUtil.create('div', 'info');
-    //the following line calls info.update(props) function. Again, this refers to 'info' here
-    this.update();
-    return this._div;
-};
-
-//Update the info based on what state user has clicked on
-info.update = function (props) {
-    this._div.innerHTML = '<h4>US Mass Shootings Frequency</h4>' + (props ?
-        '<b>' + props.name + '</b><br />' + props.Frequency + ' Mass shootings between 2014 and 2017'
-        : 'Hover over a state');
-};
-
-
 // get color depending on incedent density value
 function getColor(d) {
     return d > 1000 ? '#800026' :
@@ -164,7 +109,7 @@ function style(feature) {
         color: 'white',
         dashArray: '3',
         fillOpacity: 0.7,
-        fillColor: getColor(feature.properties.Frequency)
+        fillColor: getColor(feature.properties.MSFrequency)
     };
 }
 
@@ -182,17 +127,12 @@ function highlightFeature(e) {
         layer.bringToFront();
     }
 
-    info.update(layer.feature.properties);
+    info1.update(layer.feature.properties);
 }
-
 
 function resetHighlight(e) {
     geojson.resetStyle(e.target);
-    info.update();
-}
-
-function zoomToFeature(e) {
-    map.fitBounds(e.target.getBounds());
+    info1.update();
 }
 
 function onEachFeature(feature, layer) {
