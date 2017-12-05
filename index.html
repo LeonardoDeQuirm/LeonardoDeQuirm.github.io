@@ -35,24 +35,25 @@
     <div class="tab">
         <button class="tablinks" onclick="openTab(event, 'MassShooting'), renderMassShooting()" id="defaultOpen">Mass Shooting</button>
         <button class="tablinks" onclick="openTab(event, 'AccidentalDeaths'), renderAccidentalDeath()">Accidental Deaths</button>
-         <button class="tablinks" onclick="openTab()">About</button>
+         <button class="tablinks" onclick="openTab(event, 'About')">About</button>
     </div>
       
     <div id="MassShooting" class="tabcontent">
         <div id="MSmap" class="map"></div>
         <div id="MSBarChart" class="barChart"> </div>
         <div id="MSLineGraph" class="lineGraph"></div>
-        <pre>
-                Project Developed By: Matt Kramer, Jacob Dubin, Sally Zhou and Ashish Patel
-                Professor: Morteza Karimzadeh
-        </pre>
+        
     </div>
       
     <div id="AccidentalDeaths" class="tabcontent">
         <div id="ADmap" class="map"></div>
         <div id="ADBarChart" class="barChart"> </div>
     </div>
-    
+    <div id="About" class="tabcontent"></div>
+    <pre>
+        Project Developed By: Matt Kramer, Jacob Dubin, Sally Zhou and Ashish Patel
+        Professor: Morteza Karimzadeh
+</pre>
     <script>document.getElementById("defaultOpen").click();</script>
     
 
