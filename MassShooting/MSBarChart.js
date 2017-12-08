@@ -61,7 +61,7 @@ function renderMSBar() {
             .attr("y", 15)
             .attr("text-anchor", "middle")
             .attr("font-size", "20px")
-            .text("Total Incidents by Month (Click to see points)");
+            .text("Total Incidents by Month (Click bars to see points)");
 
 var allMonths = [0,0,0,0,0,0,0,0,0,0,0,0];
 var MSCluster = L.markerClusterGroup();

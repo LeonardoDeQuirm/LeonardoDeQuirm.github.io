@@ -61,7 +61,7 @@ function renderADBar() {
             .attr("y", 15)
             .attr("text-anchor", "middle")
             .attr("font-size", "20px")
-            .text("Total Incidents by Month (Click to see points)");
+            .text("Total Incidents by Month (Click bars to see points)");
 
 var allMonths2 = [0,0,0,0,0,0,0,0,0,0,0,0];
 var ADCluster = L.markerClusterGroup();
